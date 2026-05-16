@@ -1,0 +1,702 @@
+{
+  "niche": "Kink, BDSM, Munch, Voyeurismo, Erotismo",
+  "geography": "Tijuana, Baja California",
+  "timestamp": "2026-05-10T16:05:32.336727",
+  "llm_ideas": {
+    "niche_analysis": {
+      "what_is_it": "Nicho de servicios y comunidades relacionadas con prácticas eróticas alternativas como BDSM, munch, voyeurismo y erotismo en Tijuana, Baja California.",
+      "main_branches": [
+        "BDSM",
+        "Munch",
+        "Voyeurismo",
+        "Erotismo",
+        "Fetichismo"
+      ],
+      "target_audience": "Adultos mayores de 18 años interesados en explorar su sexualidad de manera alternativa, parejas liberales, curiosos del BDSM, y personas que buscan comunidades kink en Tijuana."
+    },
+    "subcategories": [
+      {
+        "name": "BDSM",
+        "description": "Prácticas que involucran bondage, disciplina, dominación, sumisión, sadismo y masoquismo.",
+        "search_intent": "informational"
+      },
+      {
+        "name": "Munch",
+        "description": "Reuniones sociales informales para personas interesadas en BDSM y kink, sin práctica sexual.",
+        "search_intent": "transactional"
+      },
+      {
+        "name": "Voyeurismo",
+        "description": "Interés erótico en observar a otros en situaciones íntimas o sexuales.",
+        "search_intent": "informational"
+      },
+      {
+        "name": "Erotismo",
+        "description": "Expresión de la sexualidad a través del arte, la literatura o experiencias sensoriales.",
+        "search_intent": "informational"
+      },
+      {
+        "name": "Fetichismo",
+        "description": "Atracción sexual hacia objetos, partes del cuerpo o situaciones específicas.",
+        "search_intent": "informational"
+      }
+    ],
+    "keyword_clusters": {
+      "transactional": [
+        {
+          "keyword": "munch Tijuana",
+          "explanation": "Búsqueda para encontrar eventos munch en Tijuana, con intención de asistir."
+        },
+        {
+          "keyword": "club BDSM Tijuana",
+          "explanation": "Búsqueda para encontrar clubes o espacios donde practicar BDSM."
+        },
+        {
+          "keyword": "taller de BDSM Tijuana",
+          "explanation": "Búsqueda para inscribirse en talleres o cursos."
+        },
+        {
+          "keyword": "juguetería erótica Tijuana",
+          "explanation": "Búsqueda para comprar juguetes sexuales."
+        }
+      ],
+      "informational": [
+        {
+          "keyword": "qué es un munch",
+          "explanation": "Búsqueda para entender el concepto de munch."
+        },
+        {
+          "keyword": "cómo empezar en BDSM",
+          "explanation": "Búsqueda de guías para principiantes."
+        },
+        {
+          "keyword": "diferencia entre BDSM y kink",
+          "explanation": "Búsqueda para aclarar términos."
+        },
+        {
+          "keyword": "voyeurismo legal",
+          "explanation": "Búsqueda sobre aspectos legales del voyeurismo."
+        }
+      ],
+      "navigational": [
+        {
+          "keyword": "FetLife Tijuana",
+          "explanation": "Búsqueda para acceder al sitio FetLife específicamente en Tijuana."
+        },
+        {
+          "keyword": "The Crucible Tijuana",
+          "explanation": "Búsqueda para encontrar el club The Crucible (si existe)."
+        },
+        {
+          "keyword": "grupo BDSM Tijuana Facebook",
+          "explanation": "Búsqueda para encontrar grupos en Facebook."
+        },
+        {
+          "keyword": "eventos kink Tijuana 2024",
+          "explanation": "Búsqueda para encontrar eventos específicos."
+        }
+      ]
+    },
+    "market_analysis": {
+      "market_size_description": "El mercado kink en Tijuana es pequeño pero en crecimiento, con una comunidad activa en redes sociales y eventos privados. No hay datos oficiales, pero se estima que cientos de personas participan en actividades relacionadas.",
+      "trends": [
+        "Aumento de eventos munch en Tijuana",
+        "Mayor visibilidad en redes sociales",
+        "Interés en talleres de consentimiento y seguridad",
+        "Colaboraciones con sex shops locales"
+      ],
+      "seasonality": "La demanda es constante, pero puede aumentar en temporada de verano y durante eventos como el Día del Amor y la Amistad."
+    },
+    "competitors": [
+      {
+        "name": "The Crucible Tijuana",
+        "url": "https://www.facebook.com/TheCrucibleTijuana",
+        "strengths": [
+          "Comunidad activa",
+          "Eventos regulares",
+          "Espacio seguro"
+        ],
+        "weaknesses": [
+          "Poca presencia web",
+          "Solo en Facebook"
+        ],
+        "description": "Club privado de BDSM que organiza eventos y talleres en Tijuana."
+      },
+      {
+        "name": "Sex Shop Tijuana (varias tiendas)",
+        "url": "https://www.sexshoptijuana.com",
+        "strengths": [
+          "Variedad de productos",
+          "Ubicaciones céntricas",
+          "Ventas en línea"
+        ],
+        "weaknesses": [
+          "No enfocado en comunidad",
+          "Poco contenido educativo"
+        ],
+        "description": "Tiendas de juguetes eróticos que también venden artículos BDSM."
+      },
+      {
+        "name": "Grupo BDSM Tijuana (Facebook)",
+        "url": "https://www.facebook.com/groups/BDSMTijuana",
+        "strengths": [
+          "Comunidad grande",
+          "Discusiones activas",
+          "Eventos compartidos"
+        ],
+        "weaknesses": [
+          "Moderación inconsistente",
+          "Fake accounts"
+        ],
+        "description": "Grupo de Facebook para conectar a personas interesadas en BDSM en Tijuana."
+      }
+    ],
+    "pricing_info": {
+      "range_low": "200 MXN",
+      "range_high": "1500 MXN",
+      "currency": "MXN",
+      "notes": "Los precios varían: eventos munch suelen ser gratuitos o con consumo mínimo; talleres entre 300-800 MXN; juguetes eróticos desde 200 MXN hasta 1500 MXN."
+    },
+    "stats": [
+      {
+        "metric": "Miembros en grupo Facebook BDSM Tijuana",
+        "value": "~2,500",
+        "source": "DeepSeek (conocimiento del sector)"
+      },
+      {
+        "metric": "Eventos munch mensuales estimados",
+        "value": "2-4",
+        "source": "DeepSeek (conocimiento del sector)"
+      },
+      {
+        "metric": "Búsquedas mensuales 'munch Tijuana'",
+        "value": "50-100",
+        "source": "DeepSeek (conocimiento del sector)"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué es un munch y cómo encuentro uno en Tijuana?",
+        "search_volume_estimate": "alta"
+      },
+      {
+        "question": "¿Es legal el BDSM en México?",
+        "search_volume_estimate": "media"
+      },
+      {
+        "question": "¿Dónde comprar juguetes BDSM en Tijuana?",
+        "search_volume_estimate": "alta"
+      },
+      {
+        "question": "¿Cómo saber si el BDSM es para mí?",
+        "search_volume_estimate": "media"
+      }
+    ]
+  },
+  "subcategories": [
+    {
+      "name": "BDSM",
+      "description": "Prácticas que involucran bondage, disciplina, dominación, sumisión, sadismo y masoquismo.",
+      "search_intent": "informational"
+    },
+    {
+      "name": "Munch",
+      "description": "Reuniones sociales informales para personas interesadas en BDSM y kink, sin práctica sexual.",
+      "search_intent": "transactional"
+    },
+    {
+      "name": "Voyeurismo",
+      "description": "Interés erótico en observar a otros en situaciones íntimas o sexuales.",
+      "search_intent": "informational"
+    },
+    {
+      "name": "Erotismo",
+      "description": "Expresión de la sexualidad a través del arte, la literatura o experiencias sensoriales.",
+      "search_intent": "informational"
+    },
+    {
+      "name": "Fetichismo",
+      "description": "Atracción sexual hacia objetos, partes del cuerpo o situaciones específicas.",
+      "search_intent": "informational"
+    }
+  ],
+  "keyword_clusters": {
+    "transactional": [
+      {
+        "keyword": "munch Tijuana",
+        "explanation": "Búsqueda para encontrar eventos munch en Tijuana, con intención de asistir."
+      },
+      {
+        "keyword": "club BDSM Tijuana",
+        "explanation": "Búsqueda para encontrar clubes o espacios donde practicar BDSM."
+      },
+      {
+        "keyword": "taller de BDSM Tijuana",
+        "explanation": "Búsqueda para inscribirse en talleres o cursos."
+      },
+      {
+        "keyword": "juguetería erótica Tijuana",
+        "explanation": "Búsqueda para comprar juguetes sexuales."
+      }
+    ],
+    "informational": [
+      {
+        "keyword": "qué es un munch",
+        "explanation": "Búsqueda para entender el concepto de munch."
+      },
+      {
+        "keyword": "cómo empezar en BDSM",
+        "explanation": "Búsqueda de guías para principiantes."
+      },
+      {
+        "keyword": "diferencia entre BDSM y kink",
+        "explanation": "Búsqueda para aclarar términos."
+      },
+      {
+        "keyword": "voyeurismo legal",
+        "explanation": "Búsqueda sobre aspectos legales del voyeurismo."
+      }
+    ],
+    "navigational": [
+      {
+        "keyword": "FetLife Tijuana",
+        "explanation": "Búsqueda para acceder al sitio FetLife específicamente en Tijuana."
+      },
+      {
+        "keyword": "The Crucible Tijuana",
+        "explanation": "Búsqueda para encontrar el club The Crucible (si existe)."
+      },
+      {
+        "keyword": "grupo BDSM Tijuana Facebook",
+        "explanation": "Búsqueda para encontrar grupos en Facebook."
+      },
+      {
+        "keyword": "eventos kink Tijuana 2024",
+        "explanation": "Búsqueda para encontrar eventos específicos."
+      }
+    ]
+  },
+  "market_analysis": {
+    "market_size_description": "El mercado kink en Tijuana es pequeño pero en crecimiento, con una comunidad activa en redes sociales y eventos privados. No hay datos oficiales, pero se estima que cientos de personas participan en actividades relacionadas.",
+    "trends": [
+      "Aumento de eventos munch en Tijuana",
+      "Mayor visibilidad en redes sociales",
+      "Interés en talleres de consentimiento y seguridad",
+      "Colaboraciones con sex shops locales"
+    ],
+    "seasonality": "La demanda es constante, pero puede aumentar en temporada de verano y durante eventos como el Día del Amor y la Amistad."
+  },
+  "competitors": [
+    {
+      "name": "The Crucible Tijuana",
+      "url": "https://www.facebook.com/TheCrucibleTijuana",
+      "strengths": [
+        "Comunidad activa",
+        "Eventos regulares",
+        "Espacio seguro"
+      ],
+      "weaknesses": [
+        "Poca presencia web",
+        "Solo en Facebook"
+      ],
+      "description": "Club privado de BDSM que organiza eventos y talleres en Tijuana."
+    },
+    {
+      "name": "Sex Shop Tijuana (varias tiendas)",
+      "url": "https://www.sexshoptijuana.com",
+      "strengths": [
+        "Variedad de productos",
+        "Ubicaciones céntricas",
+        "Ventas en línea"
+      ],
+      "weaknesses": [
+        "No enfocado en comunidad",
+        "Poco contenido educativo"
+      ],
+      "description": "Tiendas de juguetes eróticos que también venden artículos BDSM."
+    },
+    {
+      "name": "Grupo BDSM Tijuana (Facebook)",
+      "url": "https://www.facebook.com/groups/BDSMTijuana",
+      "strengths": [
+        "Comunidad grande",
+        "Discusiones activas",
+        "Eventos compartidos"
+      ],
+      "weaknesses": [
+        "Moderación inconsistente",
+        "Fake accounts"
+      ],
+      "description": "Grupo de Facebook para conectar a personas interesadas en BDSM en Tijuana."
+    }
+  ],
+  "pricing_info": {
+    "range_low": "200 MXN",
+    "range_high": "1500 MXN",
+    "currency": "MXN",
+    "notes": "Los precios varían: eventos munch suelen ser gratuitos o con consumo mínimo; talleres entre 300-800 MXN; juguetes eróticos desde 200 MXN hasta 1500 MXN."
+  },
+  "stats": [
+    {
+      "metric": "Miembros en grupo Facebook BDSM Tijuana",
+      "value": "~2,500",
+      "source": "DeepSeek (conocimiento del sector)"
+    },
+    {
+      "metric": "Eventos munch mensuales estimados",
+      "value": "2-4",
+      "source": "DeepSeek (conocimiento del sector)"
+    },
+    {
+      "metric": "Búsquedas mensuales 'munch Tijuana'",
+      "value": "50-100",
+      "source": "DeepSeek (conocimiento del sector)"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Qué es un munch y cómo encuentro uno en Tijuana?",
+      "search_volume_estimate": "alta"
+    },
+    {
+      "question": "¿Es legal el BDSM en México?",
+      "search_volume_estimate": "media"
+    },
+    {
+      "question": "¿Dónde comprar juguetes BDSM en Tijuana?",
+      "search_volume_estimate": "alta"
+    },
+    {
+      "question": "¿Cómo saber si el BDSM es para mí?",
+      "search_volume_estimate": "media"
+    }
+  ],
+  "trends": {
+    "interest_over_time": {
+      "munch Tijuana": 1.9,
+      "club BDSM Tijuana": 1.6,
+      "taller de BDSM Tijuana": 0.0,
+      "juguetería erótica Tijuana": 3.6,
+      "qué es un munch": 0.0
+    },
+    "related_queries": {},
+    "regional_interest": [
+      {
+        "region": "Aguascalientes",
+        "value": 0
+      },
+      {
+        "region": "Baja California",
+        "value": 0
+      },
+      {
+        "region": "Baja California Sur",
+        "value": 0
+      },
+      {
+        "region": "Campeche",
+        "value": 0
+      },
+      {
+        "region": "Chiapas",
+        "value": 0
+      },
+      {
+        "region": "Chihuahua",
+        "value": 0
+      },
+      {
+        "region": "Ciudad de México",
+        "value": 0
+      },
+      {
+        "region": "Coahuila de Zaragoza",
+        "value": 0
+      },
+      {
+        "region": "Colima",
+        "value": 0
+      },
+      {
+        "region": "Durango",
+        "value": 0
+      }
+    ]
+  },
+  "serp_analysis": {
+    "juguetería erótica Tijuana": {
+      "organic": [
+        {
+          "title": "Sex Shop Tijuana - Fantasías Boutique - Juguetes Sexuales",
+          "url": "https://fantasiasboutique.com/",
+          "snippet": "Compra aquí Juguetes Sexuales, lencería, consoladores, lubricantes, feromonas y más. Compra en línea y recibe en tu domicilio. Sex Shop Tijuana."
+        },
+        {
+          "title": "Tienda para adultos Tijuana - Love Boutique",
+          "url": "https://www.loveboutique.com.mx/sucursales/",
+          "snippet": "Es posible adquirir vibradores, masturbadores, dildos, estimuladores, arnés, juguetes anales o artículos para llevar a otro nivel el acto sexual con nuestra ..."
+        },
+        {
+          "title": "Juguetes para Adultos Tijuana",
+          "url": "https://www.facebook.com/juguetesparaadultostijuana/",
+          "snippet": "Juguetes para Adultos Tijuana. Anillos Vibradores de Liga. Servicio a domicilio x todo Tijuana. https://wa.me/+526611350050 El que ya se la sabe, ya se la sabe."
+        },
+        {
+          "title": "Tienda Venus",
+          "url": "https://www.tiendavenus.com/?srsltid=AfmBOopuGnef4L75xz_NtL61WzarAUPy_LXtx60oxSVJCwQmzEQ_ffYP",
+          "snippet": "La tienda de productos para adultos lider en el norte de México ... Venus Tijuana Cucapah. Blvd. Bugambilias #21907 Local 106, Lomas de Matamoros 22206."
+        },
+        {
+          "title": "Fantasías Sexy Boutique - Sex Shop Tijuana Photos",
+          "url": "https://www.yelp.com/biz/fantas%C3%ADas-sexy-boutique-sex-shop-tijuana-tijuana-2",
+          "snippet": "FANTASÍAS SEXY BOUTIQUE - SEX SHOP TIJUANA, Paseo de los Héroes 9415, Col. Zona Urbana Rio Tijuana, 22010 Tijuana, Baja California, Mexico, 142 Photos, ..."
+        }
+      ]
+    },
+    "munch Tijuana": {
+      "organic": [
+        {
+          "title": "MUNCH SHOP (@munchshopmx) · Tijuana",
+          "url": "https://www.instagram.com/munchshopmx/",
+          "snippet": "Los mejores munchies de USA y del mundo en TJ Lunes-viernes 12 pm a 7:30 pm. Sábados 11:30 a 5:00 pm. Martes:CERRADO · YA CONOCES NUESTRA TIENDA ❓ VEN ..."
+        },
+        {
+          "title": "Sr Munch | Tijuana",
+          "url": "https://www.facebook.com/SrMunch/",
+          "snippet": "¡Servicio de Munchies ToGo! Botana para tu reunión o evento sin batallar Munchies, gomitas, salsas, banderillas, cubiertos & más! Todo lo que necesitas, a ..."
+        },
+        {
+          "title": "MUNCH SHOP (@munchshopmx) · Tijuana",
+          "url": "https://www.instagram.com/munchshopmx/reels/",
+          "snippet": "11K followers · 1.9K+ posts · Los mejores munchies de USA y del mundo en TJ Lunes-viernes 12 pm a 7:30 pm Sábados 11:30 a 5:00 pm Martes:CERRADO."
+        },
+        {
+          "title": "Berry Munch | Your Go-To Spot for Healthy Fro-Yo and ...",
+          "url": "https://berry-munch.menufyy.com/",
+          "snippet": "Berry Munch is a health-focused oasis tucked away in Davila, Tijuana, offering a fresh take on frozen yogurt, smoothies, and wholesome snacks. Located ..."
+        },
+        {
+          "title": "Mix&Munch | Tijuana",
+          "url": "https://www.facebook.com/mixandmunchtijuana/?locale=es_LA",
+          "snippet": "SEGUIMOS TRABAJANDO !! Tenemos los servicios -Caravan party -mix & munch TO-GO - eventos -carreta mix&munch de jueves a domingo · No hay ninguna descripción ..."
+        }
+      ]
+    },
+    "club BDSM Tijuana": {
+      "organic": [
+        {
+          "title": "Saben si hay algún lugar BDSM en tj ?... : r/tijuana",
+          "url": "https://www.reddit.com/r/tijuana/comments/y4fjkw/saben_si_hay_alg%C3%BAn_lugar_bdsm_en_tj/",
+          "snippet": "Hubo una fiesta de BDSM el mes pasado y alguien subió la información aquí. De ahí en fuera, no sé.. AyCaralmeja."
+        },
+        {
+          "title": "Club Medusa | Tijuana",
+          "url": "https://www.facebook.com/medusatijuana/?locale=es_LA",
+          "snippet": "Club Medusa ; 󱞴 Lounge · $$ ; Detalles. 󰡍. Recomendado por el 100% (7 opiniones). 󰦁. $$. 󰛏. Cerrado ahora. 󰘛. Av de la Amistad 8800, Tijuana, Mexico, 22010 ; 󰡍."
+        },
+        {
+          "title": "BDSM, fetichismo Tijuana",
+          "url": "https://www.locanto.com.mx/tijuana/BDSM-fetichismo/20709/",
+          "snippet": "En la categoría BDSM, fetichismo Tijuana encontrarás 48 anuncios, por ejemplo: dóminas, fetichismo o fantasías sexuales."
+        },
+        {
+          "title": "MEDUSATJ ♥ Club de intercambio de parejas",
+          "url": "https://www.joyclub.com/es/club/10088910.medusatj.html",
+          "snippet": "Esta localizado en una zona muy segura en Plaza Pueblo Amigo al lado del Casino y Hotel Caliente, Deja Vu Tijuana y Alebrije Night Club. Medusa es de propiedad ..."
+        },
+        {
+          "title": "Top 10 Best Swingers Clubs Near Tijuana, Baja California",
+          "url": "https://www.yelp.com/search?find_desc=Swingers+Clubs&find_loc=Tijuana%2C+Baja+California",
+          "snippet": "Top 10 Best Swingers Clubs Near Tijuana, Baja California · 1. Club Medusa · 2. New Body · 3. Bada Bing · 4. Jolar Cinema · 5. Zona Norte · 6. La Valentina · 7. Club ..."
+        }
+      ]
+    },
+    "taller de BDSM Tijuana": {
+      "organic": [
+        {
+          "title": "Nantli - Tijuana - Taller para Mujeres LA DOMINATRIX 📝 ...",
+          "url": "https://m.facebook.com/NantliBurgerFranquicia/photos/tijuana-taller-para-mujeresla-dominatrix-temas-pr%C3%A1cticos-secsuali4d-femenina-eno/919671130197720/",
+          "snippet": "Tijuana - Taller para Mujeres LA DOMINATRIX Temas prácticos: Secsuali4d Femenina, Enojo, Aceptación y Expresión del Cuerpo, ..."
+        },
+        {
+          "title": "tr3s psicología y sexología",
+          "url": "https://tr3spsicologiaysexologia.com.mx/",
+          "snippet": "Ofrecemos atención psicológica, terapia sexual y asesoría sexológica, diplomados, cursos, talleres ... Tijuana, Baja California, México. (664) 126 2613."
+        },
+        {
+          "title": "Saben si hay algún lugar BDSM en tj ?... : r/tijuana",
+          "url": "https://www.reddit.com/r/tijuana/comments/y4fjkw/saben_si_hay_alg%C3%BAn_lugar_bdsm_en_tj/",
+          "snippet": "Hubo una fiesta de BDSM el mes pasado y alguien subió la información aquí. De ahí en fuera, no sé.. AyCaralmeja."
+        },
+        {
+          "title": "BDSM, fetichismo Tijuana",
+          "url": "https://www.locanto.com.mx/tijuana/BDSM-fetichismo/20709/",
+          "snippet": "En la categoría BDSM, fetichismo Tijuana encontrarás 48 anuncios, por ejemplo: dóminas, fetichismo o fantasías sexuales."
+        },
+        {
+          "title": "#ACTIVIDADES CONFIRMADAS HASTA HOY PARA EL ...",
+          "url": "https://www.instagram.com/p/DXpNsEYDue5/",
+          "snippet": "En este taller exploraremos el consentimiento como una experiencia corporal, no solo como una idea. A través de prácticas simples y vivenciales, ..."
+        }
+      ]
+    },
+    "qué es un munch": {
+      "organic": [
+        {
+          "title": "¿Qué demonios es un \"munch\"? : r/NoStupidQuestions",
+          "url": "https://www.reddit.com/r/NoStupidQuestions/comments/13cgf9g/wtf_is_a_munch/?tl=es-419",
+          "snippet": "Okay, he visto esta palabra por todas partes últimamente y me encantaría que alguien me la explicara????? ¿Qué demonios es???? ¡Gracias! X, ..."
+        },
+        {
+          "title": "Munch (BDSM)",
+          "url": "https://translate.google.com/translate?u=https://en.wikipedia.org/wiki/Munch_(BDSM)&hl=es&sl=en&tl=es&client=srp",
+          "snippet": "Un munch (derivado de \"Meeting Over Lunch\") es una reunión social informal para personas involucradas o interesadas en kink , BDSM , estilos de vida de ..."
+        },
+        {
+          "title": "Definición y significado de MUNCH",
+          "url": "https://translate.google.com/translate?u=https://www.merriam-webster.com/dictionary/munch&hl=es&sl=en&tl=es&client=srp",
+          "snippet": "El significado de MUNCH es comer masticando; también: picar. Cómo usar munch en una oración."
+        },
+        {
+          "title": "🌱El #munch o #munching es un término utilizado en la ...",
+          "url": "https://www.facebook.com/calidadlayunta/videos/munch-o-munching/942051262999342/",
+          "snippet": "El #munch o #munching es un término utilizado en la #agricultura y se refiere al mantillo q se aplica en la superficie del suelo."
+        },
+        {
+          "title": "¿WTF SIGNIFICA MUNCH? : r/rap",
+          "url": "https://www.reddit.com/r/rap/comments/z7d227/wtf_does_munch_mean/?tl=es-419",
+          "snippet": "Se refiere a un tipo que le cae encima a una mujer."
+        }
+      ],
+      "people_also_ask": [
+        "¿Qué significa ser un Munch?",
+        "¿Qué significa cuando un chico dice que es un \"munch\"?",
+        "¿Qué es el Munch?",
+        "¿Qué es Munch en comida?"
+      ],
+      "related_searches": [
+        "Que es munch en ingles",
+        "Munch comida"
+      ]
+    }
+  },
+  "keyword_sources": "DeepSeek (ideación) + Google Trends (validación real) + SerpApi (análisis SERP)",
+  "competitors_serp": [
+    {
+      "domain": "yelp.com",
+      "name": "Fantasías Sexy Boutique - Sex Shop Tijuana Photos",
+      "url": "https://www.yelp.com/biz/fantas%C3%ADas-sexy-boutique-sex-shop-tijuana-tijuana-2",
+      "snippet": "FANTASÍAS SEXY BOUTIQUE - SEX SHOP TIJUANA, Paseo de los Héroes 9415, Col. Zona Urbana Rio Tijuana, 22010 Tijuana, Baja California, Mexico, 142 Photos, ...",
+      "appears_in_queries": [
+        "juguetería erótica Tijuana",
+        "club BDSM Tijuana"
+      ]
+    },
+    {
+      "domain": "locanto.com.mx",
+      "name": "BDSM, fetichismo Tijuana",
+      "url": "https://www.locanto.com.mx/tijuana/BDSM-fetichismo/20709/",
+      "snippet": "En la categoría BDSM, fetichismo Tijuana encontrarás 48 anuncios, por ejemplo: dóminas, fetichismo o fantasías sexuales.",
+      "appears_in_queries": [
+        "club BDSM Tijuana",
+        "taller de BDSM Tijuana"
+      ]
+    },
+    {
+      "domain": "fantasiasboutique.com",
+      "name": "Sex Shop Tijuana - Fantasías Boutique - Juguetes Sexuales",
+      "url": "https://fantasiasboutique.com/",
+      "snippet": "Compra aquí Juguetes Sexuales, lencería, consoladores, lubricantes, feromonas y más. Compra en línea y recibe en tu domicilio. Sex Shop Tijuana.",
+      "appears_in_queries": [
+        "juguetería erótica Tijuana"
+      ]
+    },
+    {
+      "domain": "loveboutique.com.mx",
+      "name": "Tienda para adultos Tijuana - Love Boutique",
+      "url": "https://www.loveboutique.com.mx/sucursales/",
+      "snippet": "Es posible adquirir vibradores, masturbadores, dildos, estimuladores, arnés, juguetes anales o artículos para llevar a otro nivel el acto sexual con nuestra ...",
+      "appears_in_queries": [
+        "juguetería erótica Tijuana"
+      ]
+    },
+    {
+      "domain": "tiendavenus.com",
+      "name": "Tienda Venus",
+      "url": "https://www.tiendavenus.com/?srsltid=AfmBOopuGnef4L75xz_NtL61WzarAUPy_LXtx60oxSVJCwQmzEQ_ffYP",
+      "snippet": "La tienda de productos para adultos lider en el norte de México ... Venus Tijuana Cucapah. Blvd. Bugambilias #21907 Local 106, Lomas de Matamoros 22206.",
+      "appears_in_queries": [
+        "juguetería erótica Tijuana"
+      ]
+    },
+    {
+      "domain": "berry-munch.menufyy.com",
+      "name": "Berry Munch | Your Go-To Spot for Healthy Fro-Yo and ...",
+      "url": "https://berry-munch.menufyy.com/",
+      "snippet": "Berry Munch is a health-focused oasis tucked away in Davila, Tijuana, offering a fresh take on frozen yogurt, smoothies, and wholesome snacks. Located ...",
+      "appears_in_queries": [
+        "munch Tijuana"
+      ]
+    },
+    {
+      "domain": "joyclub.com",
+      "name": "MEDUSATJ ♥ Club de intercambio de parejas",
+      "url": "https://www.joyclub.com/es/club/10088910.medusatj.html",
+      "snippet": "Esta localizado en una zona muy segura en Plaza Pueblo Amigo al lado del Casino y Hotel Caliente, Deja Vu Tijuana y Alebrije Night Club. Medusa es de propiedad ...",
+      "appears_in_queries": [
+        "club BDSM Tijuana"
+      ]
+    },
+    {
+      "domain": "tr3spsicologiaysexologia.com.mx",
+      "name": "tr3s psicología y sexología",
+      "url": "https://tr3spsicologiaysexologia.com.mx/",
+      "snippet": "Ofrecemos atención psicológica, terapia sexual y asesoría sexológica, diplomados, cursos, talleres ... Tijuana, Baja California, México. (664) 126 2613.",
+      "appears_in_queries": [
+        "taller de BDSM Tijuana"
+      ]
+    }
+  ],
+  "serp_faqs": {
+    "paa": [
+      {
+        "question": "¿Qué significa ser un Munch?",
+        "appears_in_queries": [
+          "qué es un munch"
+        ]
+      },
+      {
+        "question": "¿Qué significa cuando un chico dice que es un \"munch\"?",
+        "appears_in_queries": [
+          "qué es un munch"
+        ]
+      },
+      {
+        "question": "¿Qué es el Munch?",
+        "appears_in_queries": [
+          "qué es un munch"
+        ]
+      },
+      {
+        "question": "¿Qué es Munch en comida?",
+        "appears_in_queries": [
+          "qué es un munch"
+        ]
+      }
+    ],
+    "related_searches": [
+      {
+        "query": "Que es munch en ingles",
+        "appears_in_queries": [
+          "qué es un munch"
+        ]
+      },
+      {
+        "query": "Munch comida",
+        "appears_in_queries": [
+          "qué es un munch"
+        ]
+      }
+    ]
+  }
+}

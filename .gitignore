@@ -1,0 +1,34 @@
+# --- Hugo output & cache ---
+
+# Hugo's default output directory.
+# Cloudflare Pages builds from source and generates public/ during build.
+/public/
+
+# Hugo's asset processing cache (images, SASS/SCSS, PostCSS, etc.)
+/resources/_gen/
+
+# Lock file created when running `hugo server`
+.hugo_build.lock
+
+# --- Dependencies ---
+
+# If you use npm/yarn/pnpm for build tooling (Tailwind, PostCSS, etc.)
+node_modules/
+
+# --- OS artifacts ---
+
+.DS_Store
+Thumbs.db
+
+# --- Local config overrides ---
+
+# Files like hugo.local.toml, config/_d/development.toml, etc.
+*.local.*
+
+# --- IDE / editor ---
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
