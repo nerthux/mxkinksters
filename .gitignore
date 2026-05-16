@@ -32,3 +32,10 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# --- Cloudflare / Wrangler ---
+
+# State, cache and uploaded asset manifests created by `wrangler dev` and
+# `wrangler deploy`. Safe to regenerate on every deploy.
+.wrangler/
+.dev.vars

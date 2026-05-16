@@ -2,8 +2,11 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "blowfish" # UNCOMMENT THIS LINE
-# baseURL = "https://your_domain.com/"
+theme = "blowfish"
+# Update once the production domain is wired up in Cloudflare. Until then,
+# this controls absolute URLs in sitemap.xml, RSS, robots.txt and Open Graph
+# tags. Preview builds override it via `hugo --baseURL` (see build.sh).
+baseURL = "https://mxkinksters.pages.dev/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles

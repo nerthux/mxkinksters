@@ -1,0 +1,31 @@
+#:schema node_modules/wrangler/config-schema.json
+#------------------------------------------------------------------------------
+# Cloudflare Workers — Static Assets configuration for the MxKinksters site.
+#
+# `wrangler deploy` uploads everything under ./public as static assets served
+# by a lightweight Worker. `build.sh` produces ./public via `hugo build`.
+#
+# Docs: https://developers.cloudflare.com/workers/static-assets/
+#------------------------------------------------------------------------------
+
+name = "mxkinksters"
+compatibility_date = "2026-05-16"
+
+# Serve the Hugo build output directly. No Worker script is needed for a
+# pure static site — omit `main` and Cloudflare runs its built-in asset
+# server.
+[assets]
+directory = "./public"
+
+# When a path doesn't match an asset, fall back to Hugo's generated 404
+# page. Hugo writes it to /404.html by default.
+not_found_handling = "404-page"
+
+# Build command Cloudflare runs in CI. Mirrors the local `./build.sh` flow.
+[build]
+command = "./build.sh"
+
+# Observability is cheap and very useful for a first deploy. Toggle off
+# later if you want to keep the logs free tier untouched.
+[observability]
+enabled = true
