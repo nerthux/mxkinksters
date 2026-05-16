@@ -1,8 +1,9 @@
 +++
 title = "Munch Tijuana: Guía completa para principiantes sobre eventos kink"
+meta_title = "Munch en Tijuana: guía para principiantes | MxKinksters"
 date = 2026-05-15
 slug = "munch-tijuana-guia-completa-para-principiantes-sobre-eventos"
-description = "--- - ¿Qué es un munch y por qué no tiene nada que ver con comida?"
+description = "Un munch es una reunión social para personas curiosas sobre BDSM y kink. Conoce qué esperar, cómo prepararte y dónde encontrar eventos en Tijuana."
 series = ["Guía de Munches en Tijuana"]
 draft = true
 +++

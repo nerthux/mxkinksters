@@ -1,8 +1,9 @@
 +++
 title = "Testimonios de talleres The Consent Club: experiencias reales"
+meta_title = "Testimonios reales de talleres BDSM en Tijuana | MxKinksters"
 date = 2026-05-15
 slug = "testimonios-de-talleres-the-consent-club-experiencias-reales"
-description = "Dar el primer paso hacia algo que desconoces —y que la sociedad suele juzgar— requiere valentía. No es poca cosa."
+description = "Personas reales comparten cómo fue su primer taller de BDSM en Tijuana. Experiencias anónimas que muestran qué esperar antes de dar el primer paso."
 series = ["Talleres presenciales The Consent Club"]
 draft = true
 +++

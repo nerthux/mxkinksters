@@ -1,8 +1,9 @@
 +++
 title = "Munch de comida vs Munch BDSM: por qué la confusión"
+meta_title = "Munch de comida vs Munch BDSM | MxKinksters"
 date = 2026-05-15
 slug = "munch-de-comida-vs-munch-bdsm-por-que-la-confusion"
-description = "Buscaste \"munch\" en Google y ahora tienes más dudas que respuestas."
+description = "¿Buscaste 'munch' y encontraste recetas y eventos de BDSM? Aquí explicamos la diferencia entre los dos usos del término, sin rodeos."
 series = ["Guía de Munches en Tijuana"]
 draft = true
 +++

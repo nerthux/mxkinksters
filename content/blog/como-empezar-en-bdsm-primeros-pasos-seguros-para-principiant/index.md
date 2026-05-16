@@ -1,10 +1,11 @@
 +++
 title = "Cómo empezar en BDSM: primeros pasos seguros para principiantes"
-date = 2026-05-15
+meta_title = "Primeros pasos seguros en BDSM | MxKinksters"
+date = 2026-04-20
 slug = "como-empezar-en-bdsm-primeros-pasos-seguros-para-principiant"
-description = "Quizás llevas semanas —o meses— con una inquietud que no sabes exactamente cómo nombrar."
+description = "Guía práctica para principiantes que sienten curiosidad por el BDSM: qué significa, cómo identificar tus intereses y cómo explorar con información"
 series = ["Curso BDSM 101 para principiantes"]
-draft = true
+draft = false
 +++
 
 # Cómo empezar en BDSM: primeros pasos seguros para principiantes

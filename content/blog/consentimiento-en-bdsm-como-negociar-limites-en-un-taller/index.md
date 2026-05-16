@@ -1,10 +1,11 @@
 +++
 title = "Consentimiento en BDSM: cómo negociar límites en un taller"
-date = 2026-05-15
+meta_title = "Consentimiento en BDSM: negocia límites | MxKinksters"
+date = 2026-04-18
 slug = "consentimiento-en-bdsm-como-negociar-limites-en-un-taller"
-description = "Dar el primer paso hacia el BDSM puede sentirse como caminar en la oscuridad sin mapa."
+description = "Aprender a negociar límites en BDSM transforma la incertidumbre en confianza. Conoce cómo funciona ese proceso en un taller presencial estructurado."
 series = ["Talleres presenciales The Consent Club"]
-draft = true
+draft = false
 +++
 
 # Consentimiento en BDSM: cómo negociar límites en un taller

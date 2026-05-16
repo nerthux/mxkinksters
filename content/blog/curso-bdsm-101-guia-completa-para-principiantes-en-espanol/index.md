@@ -1,10 +1,11 @@
 +++
 title = "Curso BDSM 101: Guía Completa para Principiantes en Español"
-date = 2026-05-15
+meta_title = "BDSM 101: Guía para Principiantes en Español | MxKinksters"
+date = 2026-04-25
 slug = "curso-bdsm-101-guia-completa-para-principiantes-en-espanol"
-description = "--- 1. ¿Qué es el BDSM y por qué tanto misterio? 2. ¿Cómo saber si el BDSM es para mí? 3. Las letras del BDSM: qué significa cada una 4."
+description = "Aprende qué es el BDSM, sus bases de consentimiento y seguridad, y cómo dar tus primeros pasos con información clara, sin juicios y en español."
 series = ["Curso BDSM 101 para Principiantes"]
-draft = true
+draft = false
 +++
 
 # Curso BDSM 101: Guía Completa para Principiantes en Español

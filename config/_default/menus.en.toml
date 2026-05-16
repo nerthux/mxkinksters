@@ -47,6 +47,11 @@
   pageRef = "hubs"
   weight = 20
 
+[[main]]
+  name = "Tijuana"
+  pageRef = "tijuana"
+  weight = 30
+
 #[[main]]
 #  name = "Categories"
 #  pageRef = "categories"

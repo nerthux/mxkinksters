@@ -1,10 +1,11 @@
 +++
 title = "¿Qué esperar en tu primer munch? Guía de etiqueta"
-date = 2026-05-15
+meta_title = "Tu primer munch: guía de etiqueta | MxKinksters"
+date = 2026-05-22
 slug = "que-esperar-en-tu-primer-munch-guia-de-etiqueta"
-description = "Dar el primer paso hacia la comunidad kink puede sentirse como asomarse al borde de un precipicio: la emoción está ahí, pero el miedo al juicio, a no"
+description = "Un munch es una reunión social casual para personas interesadas en el kink. Aquí sabrás qué esperar, cómo comportarte y por qué no hay nada que temer."
 series = ["Guía de Munches en Tijuana"]
-draft = true
+draft = false
 +++
 
 # ¿Qué esperar en tu primer munch? Guía de etiqueta para principiantes

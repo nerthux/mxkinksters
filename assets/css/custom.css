@@ -1,0 +1,114 @@
+/* ============================================================
+ * MxKinksters · custom overrides
+ * Tipografía de marca + scoping de identidad para /tijuana/.
+ * ============================================================ */
+
+/* Tipografía: display = Archivo Black (matching logos),
+ * body = Inter (legible, neutral). */
+:root {
+  --font-display: "Archivo Black", "Impact", "Arial Narrow", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+html,
+body {
+  font-family: var(--font-body);
+  font-feature-settings: "ss01", "cv11";
+  letter-spacing: -0.005em;
+}
+
+h1, h2, h3,
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+  text-transform: none;
+}
+
+h1 { letter-spacing: -0.015em; }
+
+.prose h1,
+.prose h2,
+.prose h3 {
+  font-family: var(--font-display);
+}
+
+/* Logo en el header: límite más generoso (los logos MX/TKM son anchos). */
+.logo,
+header .logo {
+  max-height: 3.25rem !important;
+  max-width: 13rem !important;
+  width: auto !important;
+  height: auto !important;
+}
+
+/* Tagline pill: componente reusable para
+ * "ESPACIO BDSM + KINK" / "COMUNIDAD SEX POSITIVE". */
+.brand-tagline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(var(--color-primary-400), 1);
+  padding: 0.25rem 0.75rem;
+  border: 1px solid rgba(var(--color-primary-400), 0.35);
+  border-radius: 9999px;
+}
+
+.brand-tagline::before,
+.brand-tagline::after {
+  content: "";
+  display: inline-block;
+  width: 1.25rem;
+  height: 1px;
+  background: rgba(var(--color-primary-400), 0.6);
+}
+
+/* CTA primario coherente con la marca. */
+.btn-brand {
+  display: inline-block;
+  background: rgba(var(--color-primary-500), 1);
+  color: #fff;
+  font-weight: 700;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 14px rgba(var(--color-primary-500), 0.25);
+  transition: all 0.18s ease;
+  text-decoration: none;
+}
+.btn-brand:hover {
+  background: rgba(var(--color-primary-600), 1);
+  transform: translateY(-1px);
+  color: #fff;
+}
+
+/* ============================================================
+ * Sección Tijuana Kink Machín
+ * Bajo body.section-tijuana se intercambian primary <-> secondary,
+ * de modo que el rojo MxKinksters cede protagonismo al naranja TKM
+ * sin tener que tocar layouts ni clases utilitarias.
+ * ============================================================ */
+body.section-tijuana {
+  --color-primary-50: var(--color-secondary-50);
+  --color-primary-100: var(--color-secondary-100);
+  --color-primary-200: var(--color-secondary-200);
+  --color-primary-300: var(--color-secondary-300);
+  --color-primary-400: var(--color-secondary-400);
+  --color-primary-500: var(--color-secondary-500);
+  --color-primary-600: var(--color-secondary-600);
+  --color-primary-700: var(--color-secondary-700);
+  --color-primary-800: var(--color-secondary-800);
+  --color-primary-900: var(--color-secondary-900);
+}
+
+/* Subrayado decorativo para enlaces dentro de prose en sección TKM,
+ * para reforzar visualmente que estás "en otra comunidad". */
+body.section-tijuana .prose a:hover {
+  text-decoration: underline;
+  text-decoration-color: rgba(var(--color-secondary-400), 1);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}

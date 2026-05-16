@@ -1,8 +1,9 @@
 +++
 title = "Munch Tijuana: reseñas y verificación de eventos"
+meta_title = "Munch Tijuana: reseñas y verificación | MxKinksters"
 date = 2026-05-15
 slug = "munch-tijuana-resenas-y-verificacion-de-eventos"
-description = "Dar el primer paso hacia la comunidad kink puede sentirse como caminar en la oscuridad."
+description = "Saber si un munch en Tijuana es seguro y real no siempre es fácil. Aquí encontrarás criterios claros para verificar eventos kink antes de asistir."
 series = ["Guía de Munches en Tijuana"]
 draft = true
 +++

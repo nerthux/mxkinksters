@@ -1,8 +1,9 @@
 +++
 title = "Cómo encontrar munches en Tijuana: directorio actualizado"
+meta_title = "Munches en Tijuana: directorio actualizado | MxKinksters"
 date = 2026-05-15
 slug = "como-encontrar-munches-en-tijuana-directorio-actualizado"
-description = "Buscar un munch en Tijuana puede sentirse como intentar encontrar una puerta sin saber que existe la pared."
+description = "Si buscas un munch en Tijuana sin encontrar información clara, aquí tienes un punto de partida real: qué son, dónde ocurren y cómo acceder con seguridad."
 series = ["Guía de Munches en Tijuana"]
 draft = true
 +++
