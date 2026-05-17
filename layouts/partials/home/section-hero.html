@@ -1,0 +1,31 @@
+<section class="relative overflow-hidden">
+  <div class="absolute inset-0">
+    {{ $homepageImage := "" }}
+    {{ with .Site.Params.homepage.homepageImage }}
+    {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+    {{ $homepageImage = resources.GetRemote . }}
+    {{ else }}
+    {{ $homepageImage = resources.Get . }}
+    {{ end }}
+    {{ end }}
+    {{ if $homepageImage }}
+    <img class="h-full w-full object-cover nozoom" src="{{ $homepageImage.RelPermalink }}" alt="">
+    <div class="absolute inset-0 bg-gradient-to-r from-neutral-800 via-neutral-900 to-black"></div>
+    {{ end }}
+  </div>
+  <div
+    class="relative px-4 py-20 sm:px-6 sm:py-28 lg:py-36 lg:px-8 flex flex-col items-center justify-center text-center">
+    <h1 class="mb-6 text-4xl font-extrabold text-white sm:text-5xl lg:text-6xl font-display leading-tight max-w-4xl">
+      Guía discreta para el mundo Kink y BDSM – Hecha para México
+      <h2 class="mt-0 mb-8 text-xl text-neutral-200 sm:text-2xl max-w-3xl leading-relaxed">
+        Explorar tu sexualidad merece sentirse seguro, acompañado y libre de juicios. En MxKinksters creamos un mapa
+        diseñado para que te adentres en el BDSM – desde prácticas para principiantes hasta dinámicas avanzadas – con
+        información sin estigmas, validada por educadores sexuales, y con privacidad total.
+
+        <div class="mt-6 flex flex-col sm:flex-row gap-4 justify-center items-center">
+          <a href="#plan" class="btn-brand text-lg px-8 py-4">
+            Comienza tu exploración
+          </a>
+        </div>
+  </div>
+</section>

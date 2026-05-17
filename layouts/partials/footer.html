@@ -1,0 +1,242 @@
+<footer id="site-footer"
+  class="py-16 print:hidden bg-neutral-900 dark:bg-neutral-900/30 border-t border-neutral-200 dark:border-neutral-800">
+
+  {{/* ══════════════════════════════════════════════════════
+  * WHY · WHAT · WHO — AHORA CON PUNCH
+  ══════════════════════════════════════════════════════ */}}
+  {{ $siteName := .Site.Title | default "MxKinksters" }}
+  {{ $projectWhy := "El placer no es un pecado. La ignorancia sí." }}
+  {{ $projectWhat := `Mapeamos espacios seguros, eventos verificados y educación BDSM sin estigmas. Para que explores
+  sin miedo.` }}
+  {{ $projectWho := "Hecho por curiosos responsables. Para los que dejaron de pedir permiso." }}
+  {{ $authorName := .Site.Language.Params.author.name | default "Anteros Kinster" }}
+  {{ $siteUrl := .Site.BaseURL }}
+
+  <div class="max-w-7xl mx-auto px-4">
+
+    {{/* Fila principal: 3 columnas en desktop */}}
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-10 pb-10 mb-10 border-b border-neutral-200 dark:border-neutral-800">
+
+      {{/* Columna 1: Manifiesto (Why + What + Who) */}}
+      <div class="space-y-3" itemscope itemtype="https://schema.org/Organization">
+        <meta itemprop="name" content="{{ $siteName }}">
+        <meta itemprop="url" content="{{ $siteUrl }}">
+        <meta itemprop="foundingDate" content="2024">
+
+        {{ with .Site.Params.logo }}
+        <meta itemprop="logo" content="{{ $siteUrl }}{{ . }}">
+        {{ end }}
+
+        <div itemprop="founder" itemscope itemtype="https://schema.org/Person">
+          <meta itemprop="name" content="{{ $authorName }}">
+        </div>
+
+        <h3 class="text-2xl font-bold text-neutral-900 dark:text-neutral-100 font-display tracking-tight">
+          {{ $siteName }}
+        </h3>
+
+        {{/* Why — Con garra */}}
+        <p class="text-lg font-bold text-primary-700 dark:text-primary-400 leading-tight">
+          {{ $projectWhy }}
+        </p>
+
+        {{/* What */}}
+        <p class="text-sm text-neutral-700 dark:text-neutral-300 leading-relaxed">
+          {{ $projectWhat }}
+        </p>
+
+        {{/* Who — con actitud */}}
+        <p class="text-xs text-neutral-500 dark:text-neutral-400 italic border-l-3 border-primary-500 pl-3">
+          {{ $projectWho }}
+        </p>
+      </div>
+
+      {{/* Columna 2: Comunidad y acción (NUEVO) */}}
+      <div>
+        <h4 class="text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 mb-4">
+          🔥 Súmate al movimiento
+        </h4>
+        <ul class="space-y-3">
+          <li>
+            <a href="/comunidad"
+              class="text-neutral-700 dark:text-neutral-300 hover:text-primary-600 dark:hover:text-primary-400 transition flex items-center gap-2 group">
+              <span class="text-lg">👥</span>
+              <span>Únete a la comunidad</span>
+              <span class="opacity-0 group-hover:opacity-100 transition">→</span>
+            </a>
+          </li>
+          <li>
+            <a href="/eventos"
+              class="text-neutral-700 dark:text-neutral-300 hover:text-primary-600 dark:hover:text-primary-400 transition flex items-center gap-2 group">
+              <span class="text-lg">📅</span>
+              <span>Eventos y munches</span>
+              <span class="opacity-0 group-hover:opacity-100 transition">→</span>
+            </a>
+          </li>
+          <li>
+            <a href="/blog"
+              class="text-neutral-700 dark:text-neutral-300 hover:text-primary-600 dark:hover:text-primary-400 transition flex items-center gap-2 group">
+              <span class="text-lg">📖</span>
+              <span>La bitácora de Anteros</span>
+              <span class="opacity-0 group-hover:opacity-100 transition">→</span>
+            </a>
+          </li>
+        </ul>
+
+        {{/* Newsletter o CTA */}}
+        <div class="mt-6 pt-4 border-t border-neutral-200 dark:border-neutral-700">
+          <p class="text-xs text-neutral-500 dark:text-neutral-400 mb-2">
+            📬 Sin spam. Solo kink, comunidad y eventos.
+          </p>
+          <a href="/newsletter"
+            class="inline-flex items-center gap-2 text-sm font-medium text-primary-600 dark:text-primary-400 hover:underline">
+            Apúntate al newsletter
+            <span>→</span>
+          </a>
+        </div>
+      </div>
+
+      {{/* Columna 3: Redes sociales y chapter */}}
+      <div>
+        <h4 class="text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 mb-4">
+          🌐 Conecta con nosotros
+        </h4>
+
+        {{/* Social links (ajusta según tus redes) */}}
+        <div class="flex flex-wrap gap-4 mb-6">
+          <a href="#"
+            class="text-2xl text-neutral-600 dark:text-neutral-400 hover:text-primary-600 dark:hover:text-primary-400 transition"
+            aria-label="Telegram">
+            📱
+          </a>
+          <a href="#"
+            class="text-2xl text-neutral-600 dark:text-neutral-400 hover:text-primary-600 dark:hover:text-primary-400 transition"
+            aria-label="Instagram">
+            📷
+          </a>
+          <a href="#"
+            class="text-2xl text-neutral-600 dark:text-neutral-400 hover:text-primary-600 dark:hover:text-primary-400 transition"
+            aria-label="Discord">
+            🎮
+          </a>
+          <a href="#"
+            class="text-2xl text-neutral-600 dark:text-neutral-400 hover:text-primary-600 dark:hover:text-primary-400 transition"
+            aria-label="X / Twitter">
+            🐦
+          </a>
+        </div>
+
+        {{/* Chapter callout */}}
+        <div class="bg-primary-50 dark:bg-primary-900/20 rounded-xl p-4">
+          <p class="text-sm font-bold text-primary-800 dark:text-primary-300 mb-1">
+            🚀 ¿No hay comunidad en tu ciudad?
+          </p>
+          <p class="text-xs text-primary-700 dark:text-primary-400 mb-2">
+            Abre tu propio Chapter con nuestro apoyo.
+          </p>
+          <a href="/chapters" class="text-xs font-bold text-primary-600 dark:text-primary-400 hover:underline">
+            Empieza un Chapter →
+          </a>
+        </div>
+      </div>
+    </div>
+
+    {{/* JSON-LD (igual, invisible) */}}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": {{ $siteName | jsonify }},
+      "description": {{ (printf "%s %s %s" $projectWhy $projectWhat $projectWho) | jsonify }},
+      "url": {{ $siteUrl | jsonify }},
+      "foundingDate": "2024",
+      "founder": {
+        "@type": "Person",
+        "name": {{ $authorName | jsonify }}
+      }
+    }
+    </script>
+
+    {{/* Footer menu (original Blowfish) */}}
+    {{ if .Site.Params.footer.showMenu | default true }}
+    {{ if .Site.Menus.footer }}
+    {{ $onlyIcon := true }}
+    {{ range .Site.Menus.footer }}
+    {{ if .Name }}
+    {{ $onlyIcon = false }}
+    {{ break }}
+    {{ end }}
+    {{ end }}
+    {{ $navClass := printf "flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400 %s" (cond
+    $onlyIcon "overflow-x-auto py-2" "") }}
+    {{ $ulClass := printf "flex list-none %s" (cond $onlyIcon "flex-row" "flex-col sm:flex-row") }}
+    {{ $liClass := printf "flex mb-1 text-end sm:mb-0 sm:me-7 sm:last:me-0 %s" (cond $onlyIcon "me-4" "") }}
+    <nav class="{{ $navClass }}">
+      <ul class="{{ $ulClass }}">
+        {{ range .Site.Menus.footer }}
+        <li class="{{ $liClass }}">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center"
+            href="{{ .URL }}" title="{{ .Title }}">
+            {{ if .Pre }}
+            <span {{ if and .Pre .Name }}class="mr-1" {{ end }}>
+              {{ partial "icon.html" .Pre }}
+            </span>
+            {{ end }}
+            {{ .Name | markdownify }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+    {{ end }}
+    {{ end }}
+
+    {{/* Copyright + attribution */}}
+    <div
+      class="flex flex-col sm:flex-row justify-between items-center gap-4 pt-6 text-xs text-neutral-500 dark:text-neutral-400">
+      <p>
+        {{- with replace .Site.Params.copyright "{ year }" now.Year }}
+        {{ . | markdownify }}
+        {{- else }}
+        &copy; {{ now.Format "2006" }} {{ .Site.Params.Author.name | markdownify }}
+        {{- end }}
+      </p>
+
+      <p class="text-center">
+        🔒 100% anónimo · Sin juicios · Hecho en México
+      </p>
+
+      {{ if .Site.Params.footer.showThemeAttribution | default true }}
+      <p>
+        {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+          href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>` }}
+        {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+          href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>` }}
+        {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
+      </p>
+      {{ end }}
+    </div>
+
+  </div>
+
+  {{/* Scripts originales */}}
+  {{ if not .Site.Params.disableImageZoom | default true }}
+  <script>
+    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+      margin: 24,
+      background: "rgba(0,0,0,0.5)",
+      scrollOffset: 0,
+    });
+  </script>
+  {{ end }}
+
+  {{ $jsProcess := resources.Get "js/process.js" }}
+  {{ $jsProcess = $jsProcess | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default
+  "sha512") }}
+  <script type="text/javascript" src="{{ $jsProcess.RelPermalink }}"
+    integrity="{{ $jsProcess.Data.Integrity }}"></script>
+
+  {{ if templates.Exists "partials/extend-footer.html" }}
+  {{ partialCached "extend-footer.html" . }}
+  {{ end }}
+</footer>
