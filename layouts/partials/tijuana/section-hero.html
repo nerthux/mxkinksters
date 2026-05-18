@@ -1,0 +1,32 @@
+<section class="relative overflow-hidden">
+  <div class="absolute inset-0">
+    {{ $homepageImage := "" }}
+    {{ with .Params.homepageImage | default .Site.Params.homepage.homepageImage }}
+    {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+    {{ $homepageImage = resources.GetRemote . }}
+    {{ else }}
+    {{ $homepageImage = resources.Get . }}
+    {{ end }}
+    {{ end }}
+    {{ if $homepageImage }}
+    <img class="h-full w-full object-cover nozoom" src="{{ $homepageImage.RelPermalink }}" alt="">
+    <div class="absolute inset-0 bg-gradient-to-r from-neutral-800 via-neutral-900 to-black/80"></div>
+    {{ end }}
+  </div>
+  <div
+    class="relative px-4 py-20 sm:px-6 sm:py-28 lg:py-36 lg:px-8 flex flex-col items-center justify-center text-center">
+    <span class="text-primary-500 font-bold tracking-widest uppercase text-sm mb-4">COMUNIDAD SEX POSITIVE · TIJUANA</span>
+    <h1 class="mb-6 text-4xl font-extrabold text-white sm:text-5xl lg:text-6xl font-display leading-tight max-w-4xl">
+      Construyamos la comunidad que Tijuana estaba esperando
+    </h1>
+    <h2 class="mt-0 mb-8 text-xl text-neutral-200 sm:text-2xl max-w-3xl leading-relaxed">
+      Ponemos al centro el placer y la exploración sensual de forma auténtica, consciente y responsable. Cero clichés, cero estereotipos. Sé parte de la fundación de Tijuana Kink Machín.
+    </h2>
+
+    <div class="mt-6 flex flex-col sm:flex-row gap-4 justify-center items-center">
+      <a href="#plan" class="btn-brand text-lg px-8 py-4">
+        Conoce el plan
+      </a>
+    </div>
+  </div>
+</section>

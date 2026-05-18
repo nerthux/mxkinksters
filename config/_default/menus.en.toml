@@ -52,6 +52,12 @@
   pageRef = "tijuana"
   weight = 30
 
+[[main]]
+  name = "Reseñas"
+  parent = "Tijuana"
+  pageRef = "tijuana/resenas"
+  weight = 40
+
 #[[main]]
 #  name = "Categories"
 #  pageRef = "categories"
