@@ -67,7 +67,7 @@ Saber que no eres el único con ciertas curiosidades en tu ciudad es un alivio g
 
 ---
 
-## El siguiente paso: Abriendo la puerta en Tijuana
+## Shout Out a Tijuana: Hagamos el primer Munch
 
 Te seré muy honesto: hasta el día de hoy, yo no he estado en un munch. Y la razón es simple: al iniciar mi búsqueda, no encontré espacios así de abiertos, públicos y seguros en Tijuana. 
 
@@ -75,7 +75,9 @@ Pero en lugar de quedarme de brazos cruzados, he decidido que es hora de cambiar
 
 No quiero inventarte una experiencia que no tengo, pero sí quiero dejar la puerta abierta. MxKinksters nació precisamente de la necesidad de crear el camino que deseo recorrer. Y creo que organizar el primer munch en Tijuana es el siguiente paso lógico en esta exploración.
 
-Si te da tanta curiosidad como a mí y crees que nuestra ciudad necesita un espacio así —casual, respetuoso y seguro—, te invito a que sigamos explorando juntos. Pronto compartiré más noticias sobre esto. Mientras tanto, siéntete libre de navegar por la bitácora; estamos apenas trazando el mapa.
+Si te da tanta curiosidad como a mí y crees que nuestra ciudad necesita un espacio así —casual, respetuoso y seguro—, es hora de conectarnos. Únete al [Grupo Privado de Facebook](https://www.facebook.com/groups/1395551282606115) para que empecemos a organizar este primer encuentro juntos. 
+
+También te invito a explorar [Tijuana Kink Machín](/tijuana), donde platico un poco más sobre cómo queremos que sea esta comunidad local. Mientras tanto, siéntete libre de seguir navegando por la bitácora; apenas estamos trazando el mapa.
 
 ---
 
