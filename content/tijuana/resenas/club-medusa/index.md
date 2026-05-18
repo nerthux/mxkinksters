@@ -3,6 +3,8 @@ title: "Club Medusa: El Mito y la Verdad"
 description: "Analizamos a fondo uno de los lugares más mencionados de la ciudad. ¿Es realmente el paraíso kink que prometen o solo una fachada comercial?"
 summary: "Analizamos a fondo uno de los lugares más mencionados de la ciudad. ¿Es realmente el paraíso kink que prometen o solo una fachada comercial?"
 showSummary: true
+showHero: true
+heroStyle: "background"
 date: 2026-05-17
 slug: "club-medusa"
 ---
