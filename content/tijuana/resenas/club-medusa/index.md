@@ -1,6 +1,7 @@
 ---
 title: "Club Medusa: El Mito y la Verdad"
 description: "Analizamos a fondo uno de los lugares más mencionados de la ciudad. ¿Es realmente el paraíso kink que prometen o solo una fachada comercial?"
+summary: "Analizamos a fondo uno de los lugares más mencionados de la ciudad. ¿Es realmente el paraíso kink que prometen o solo una fachada comercial?"
 date: 2026-05-17
 slug: "club-medusa"
 ---
@@ -31,6 +32,11 @@ Al estar en la plaza, **no hay un letrero con el nombre del club** que sea visib
 
 Una vez que identificas el punto y pasas el filtro de seguridad —un proceso típico de centro nocturno donde a mí me revisaron, pero a mi pareja no—, por fin aparece un letrero que dice "Club Medusa". Después, subes unas escaleras hacia una puerta de metal donde debes tocar un timbre para que te abran. Ese pequeño detalle del timbre da una agradable sensación de privacidad y espacio seguro que se agradece al dejar atrás la plaza.
 
+<div class="flex flex-wrap justify-center gap-4 my-8">
+  <img src="medusa-camino.jpeg" alt="Camino al Club Medusa Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
+  <img src="medusa-exterior.jpeg" alt="Exterior del Club Medusa Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
+</div>
+
 - **Costos de acceso:** $400 MXN ($25 USD) por pareja, $800 MXN ($50 USD) hombres solos; mujeres solas entran gratis.
 - **Horarios:** Abren viernes y sábados a partir de las 9:00 p.m. y el cierre es a las 2:50 a.m. No es necesario reservar.
 - **⚠️ Restricción importante:** El club **prohíbe estrictamente la entrada con mochilas o bolsas grandes**. Dado que no cuentan con servicio de guardarropa ni *lockers*, es indispensable ir lo más ligero posible, ya que de lo contrario no te permitirán el ingreso.
@@ -55,6 +61,8 @@ El club está distribuido en dos niveles muy claros:
 - **El Sótano:** Al fondo del pasillo principal, unas escaleras bajan hacia un sótano resguardado por un letrero luminoso que dice **"No Singles"**. Esta planta baja es una zona exclusiva para parejas y mujeres solas; los hombres solteros tienen la entrada estrictamente prohibida.
 
 Sin importar el nivel, las cabinas en general son pequeñas, equipadas con banquillos escuetos e incómodos. El espacio es tan reducido que resulta poco funcional; de hecho, en un punto de la noche notamos a varias parejas reunidas afuera de las cabinas del sótano simplemente porque adentro era imposible estar cómodos. Si vas con la idea de juego en grupo o esperas un espacio amplio, este no es el lugar. En la zona de parejas se extraña enormemente un *playground* abierto en lugar de estos cuartitos claustrofóbicos.
+
+<img src="medusa-no-singles.jpg" alt="Singles Only" class="w-full max-w-md mx-auto rounded-xl shadow-lg my-8 border border-neutral-800">
 
 ---
 
@@ -84,6 +92,8 @@ Al ser un club privado, el establecimiento cuenta con un reglamento estricto vis
 4. **Convivencia y consumo:** Prohibidas las drogas, las armas y fumar o vapear (ambiente 100% libre de humo). No se toleran peleas ni discusiones, y no se permite salir del establecimiento con bebidas alcohólicas.
 
 *Nota: Infringir cualquiera de estas normas amerita la expulsión inmediata sin derecho a reingreso.*
+
+<img src="medusa-reglas.jpeg" alt="Reglas del Club Medusa" class="w-full max-w-md mx-auto rounded-xl shadow-lg my-8 border border-neutral-800">
 
 ---
 
