@@ -105,7 +105,7 @@ Un munch no es solo una reunión. Para muchas personas es el primer espacio dond
 
 Dicho de otra manera: ir a un munch no es solo socializar. Es aprender cómo funciona la comunidad, quiénes son sus referentes confiables y cuáles son las normas no escritas que protegen a todos.
 
-Si quieres entender el origen y la historia de estos eventos antes de asistir, nuestra guía sobre [qué significa ser un Munch y el origen del término](/blog/que-significa-ser-un-munch-definicion-y-origen-del-termino/) te da ese contexto desde cero.
+Si quieres entender el origen y la historia de estos eventos antes de asistir, nuestra guía sobre [¿Qué es realmente un Munch? El eslabón perdido de la comunidad Kink](/blog/que-es-un-munch-origen-del-termino/) te da ese contexto desde cero.
 
 ---
 

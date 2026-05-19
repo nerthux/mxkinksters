@@ -10,9 +10,9 @@ draft = false
 
 # Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura
 
-¿Sientes curiosidad por el BDSM pero no sabes por dónde empezar? No estás solo. Miles de personas en Tijuana y en todo el mundo se hacen las mismas preguntas que tú: ¿es esto normal? ¿Es seguro? ¿Cómo sé si es para mí? Es completamente natural sentir una mezcla de curiosidad, emoción y algo de miedo cuando te acercas por primera vez a este universo.
+¿Sientes curiosidad por el BDSM pero no sabes por dónde empezar? Yo tampoco sabía. Las preguntas que me hacía eran las mismas que probablemente traes tú: ¿es esto normal? ¿Es seguro? ¿Cómo sé si es para mí? Tuve que buscar mucho, contrastar fuentes y perder tiempo en información que no me servía de nada.
 
-Esta guía existe precisamente para eso: acompañarte desde el principio, con información clara, sin juicios y con el respeto que mereces. Aquí encontrarás todo lo que necesitas saber para explorar el BDSM de forma informada y segura, a tu propio ritmo.
+Esta guía es lo que anoté en el proceso. Información clara, sin juicios, a tu ritmo.
 
 ---
 
@@ -52,7 +52,7 @@ No exactamente. El **kink** es un término más amplio que describe cualquier pr
 
 ## ¿Cómo saber si el BDSM es para mí? Una autoevaluación honesta {#como-saber-si-el-bdsm-es-para-mi}
 
-Esta es la pregunta que más se repite entre quienes llegan por primera vez a MxKinksters. Y tiene sentido: antes de explorar algo, queremos saber si "encajamos".
+Esta es la pregunta que más me hice yo antes de dar cualquier paso. Y tiene sentido: antes de explorar algo, queremos saber si "encajamos".
 
 La respuesta corta es que no hay un perfil único de persona que practica BDSM. Estudios de prevalencia en distintos países muestran que el interés en prácticas BDSM es significativamente más común de lo que la cultura popular sugiere, y que no se asocia a rasgos de personalidad problemáticos ni a historias de trauma (Paarnio et al., 2022).
 
@@ -133,7 +133,7 @@ No siempre se sabe de antemano. Muchas personas descubren sus preferencias a tra
 
 ## Mitos comunes sobre el BDSM que frenan a los principiantes {#mitos-comunes}
 
-El estigma social genera mucha desinformación. Aquí desmontamos los mitos más frecuentes que escuchamos en MxKinksters.
+El estigma social genera mucha desinformación. Esto es lo que encontré cuando empecé a investigar los mitos que más me frenaban.
 
 ### Mito 1: "El BDSM es violencia disfrazada"
 
@@ -175,7 +175,7 @@ Antes de invitar a alguien más, dedica tiempo a entender qué te atrae específ
 
 ### Paso 3: Conectar con la comunidad en espacios seguros
 
-Un **munch** (una reunión social casual en un lugar público, como un café o restaurante, donde personas interesadas en el BDSM se reúnen sin que haya ninguna actividad sexual ni de juego) es uno de los mejores primeros pasos para quienes quieren conocer a otras personas en la comunidad. Son espacios de conversación, no de demostración. Si quieres saber más sobre cómo funcionan estos encuentros y qué esperar de ellos, puedes consultar [¿Qué significa ser un Munch? Definición y origen del término](/blog/que-significa-ser-un-munch-definicion-y-origen-del-termino/).
+Un **munch** (una reunión social casual en un lugar público, como un café o restaurante, donde personas interesadas en el BDSM se reúnen sin que haya ninguna actividad sexual ni de juego) es uno de los mejores primeros pasos para quienes quieren conocer a otras personas en la comunidad. Son espacios de conversación, no de demostración. Si quieres saber más sobre cómo funcionan estos encuentros y qué esperar de ellos, puedes consultar [¿Qué es realmente un Munch? El eslabón perdido de la comunidad Kink](/blog/que-es-un-munch-origen-del-termino/).
 
 ### Paso 4: Empezar con prácticas de bajo riesgo
 
@@ -248,7 +248,7 @@ Ninguna práctica avanzada debe intentarse sin educación previa, sin comunicaci
 
 ## La comunidad BDSM en Tijuana: cómo encontrar tu lugar {#comunidad-bdsm-tijuana}
 
-Tijuana tiene una reputación construida sobre el turismo nocturno y el trabajo sexual, pero esa narrativa deja fuera algo importante: existe una comunidad kink y BDSM local que lleva años construyendo espacios seguros, respetuosos y educativos para sus miembros.
+Tijuana tiene una reputación construida sobre el turismo nocturno y el trabajo sexual, pero esa narrativa deja fuera algo importante. Cuando empecé a buscar, encontré que sí existe una comunidad kink y BDSM local —pequeña pero real— que lleva tiempo construyendo espacios seguros y respetuosos.
 
 ### ¿Por qué la comunidad local importa?
 
@@ -259,12 +259,12 @@ La formación de identidad dentro de la comunidad BDSM es un proceso social que 
 ### Cómo encontrar comunidad de forma segura
 
 - **Munches locales**: como ya mencionamos, los munches son el punto de entrada más seguro y accesible. Son reuniones sin presión, en espacios públicos.
-- **Plataformas verificadas**: MxKinksters publica y verifica información sobre eventos locales, con reseñas de la comunidad y criterios de seguridad.
+- **Plataformas verificadas**: en MxKinksters publico y verifico información sobre eventos locales, con reseñas de la comunidad y criterios de seguridad.
 - **Talleres y cursos**: aprender en grupo, con facilitadores que conocen el contexto local, es una de las formas más efectivas de integrar tanto el conocimiento técnico como el comunitario.
 
 ### Una nota sobre la privacidad
 
-En Tijuana, como en cualquier ciudad, la discreción es un valor fundamental en la comunidad kink. MxKinksters no comparte información personal de sus usuarios. Participar en eventos no implica "salir del clóset" ante nadie que no hayas elegido. Tu privacidad es un derecho, no un favor.
+En Tijuana, como en cualquier ciudad, la discreción es un valor fundamental. Y a mí me importa un chingo: no comparto información personal de nadie. Participar en eventos no implica "salir del clóset" ante nadie que no hayas elegido. Tu privacidad es un derecho, no un favor.
 
 ---
 
@@ -279,12 +279,12 @@ Esta guía es un punto de partida. El BDSM es un universo rico y en constante ev
 
 ### Recursos en línea en español
 
-- El glosario de MxKinksters: un recurso vivo donde puedes encontrar definiciones claras de los términos del nicho, desde "aftercare" hasta "vainilla" (término que en la comunidad se usa para referirse a la sexualidad no relacionada con el kink).
+- El glosario que tengo en MxKinksters: definiciones claras de los términos del nicho, desde "aftercare" hasta "vainilla" (término que en la comunidad se usa para referirse a la sexualidad no relacionada con el kink).
 - Foros y comunidades en Reddit en español (r/BDSM_es, por ejemplo) donde es posible hacer preguntas de forma anónima.
 
 ### La importancia de la formación práctica
 
-Los talleres presenciales, cuando están facilitados por personas con experiencia verificada, ofrecen un nivel de aprendizaje que los recursos en línea no pueden igualar. En MxKinksters publicamos regularmente información sobre talleres locales en Tijuana, con datos sobre los facilitadores y los protocolos de seguridad de cada evento.
+Los talleres presenciales, cuando están facilitados por personas con experiencia verificada, ofrecen un nivel de aprendizaje que los recursos en línea no pueden igualar. Publico regularmente información sobre talleres locales en Tijuana, con datos sobre los facilitadores y los protocolos de seguridad de cada evento.
 
 ---
 
@@ -316,13 +316,11 @@ La curiosidad sobre el BDSM, incluso intensa, es normal y no es una señal de al
 
 ---
 
-## El primer paso no tiene que ser el más grande
+## Un último apunte
 
-Si llegaste hasta aquí, ya diste algo más que un primer paso: te informaste. Eso importa. El camino hacia la exploración del BDSM de forma segura y satisfactoria comienza exactamente aquí, con preguntas, con lectura y con la voluntad de hacerlo bien.
+Si llegaste hasta aquí, ya hiciste la parte más difícil: buscar información antes de lanzarte a ciegas. Eso cuenta.
 
-No tienes que saberlo todo de golpe. No tienes que experimentar nada antes de estar listo. Y no tienes que hacerlo solo.
-
-En MxKinksters estamos construyendo un espacio donde la comunidad kink de Tijuana puede encontrarse, aprender y crecer con respeto mutuo. Si quieres conocer más sobre los eventos locales, los recursos educativos o simplemente seguir leyendo a tu propio ritmo, este es tu lugar.
+No hay que saberlo todo de golpe. No hay que experimentar nada antes de estar listo. Y si en algún momento tienes dudas que no encontraste aquí, ya sabes dónde buscarme —el grupo de Tijuana Kink Machín está en construcción y hay espacio para quien llegue con curiosidad y respeto.
 
 ---
 

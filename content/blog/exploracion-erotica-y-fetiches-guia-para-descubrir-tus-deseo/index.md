@@ -10,9 +10,7 @@ draft = false
 
 # Exploración Erótica y Fetiches: Guía para Descubrir tus Deseos
 
-Hay algo que nadie te enseñó en la escuela: que la curiosidad sexual es completamente normal. Que imaginar ciertas situaciones, sentirte atraído por texturas, roles o escenarios específicos, no te convierte en una persona rara, peligrosa o "rota". Sin embargo, cuando esos pensamientos aparecen por primera vez —especialmente si involucran fetiches o dinámicas de poder— la reacción más común no es la curiosidad tranquila, sino una mezcla incómoda de emoción, vergüenza y confusión.
-
-Si estás leyendo esto desde Tijuana, el contexto local añade una capa adicional de dificultad. La ciudad tiene una reputación construida sobre el consumo de cuerpos y el trabajo sexual transaccional, no sobre espacios seguros para explorar deseos de forma informada y consensuada. Eso significa que encontrar orientación confiable, sin juicio y sin riesgo, puede sentirse casi imposible. Esta guía existe exactamente para eso: para acompañarte desde la curiosidad inicial hasta una exploración consciente, segura y tuya.
+Si estás leyendo esto desde Tijuana, el contexto local añade una capa adicional de dificultad. La ciudad tiene una reputación construida sobre el consumo de cuerpos y el trabajo sexual transaccional, no sobre espacios seguros para explorar deseos de forma informada y consensuada. Cuando yo empecé a buscar orientación aquí, no encontré casi nada. Esto es lo que anoté en el proceso.
 
 ---
 
@@ -39,7 +37,7 @@ La palabra "fetiche" viene del portugués *feitiço*, que originalmente signific
 
 Hoy, la psicología y la sexología modernas distinguen claramente entre un fetiche que forma parte de una vida sexual satisfactoria y consensuada, y uno que genera angustia genuina o daño a terceros. La diferencia no está en el objeto del deseo, sino en el impacto en la vida de la persona y en la presencia o ausencia de consentimiento.
 
-Un dato importante: el término **kink** (que traducimos como "inclinación erótica no convencional") es un término paraguas más amplio que incluye fetiches, dinámicas de poder, juego de roles eróticos y prácticas BDSM. No todos los kinks son fetiches, y no todos los fetiches forman parte del BDSM. Usaremos ambos términos a lo largo de esta guía, siempre aclarando a qué nos referimos.
+Un dato importante: el término **kink** (que traduzco como "inclinación erótica no convencional") es un término paraguas más amplio que incluye fetiches, dinámicas de poder, juego de roles eróticos y prácticas BDSM. No todos los kinks son fetiches, y no todos los fetiches forman parte del BDSM. Usaré ambos términos a lo largo de esta guía, siempre aclarando a qué me refiero.
 
 ---
 
@@ -59,7 +57,7 @@ Desde una perspectiva filosófica, el BDSM y las prácticas kink han sido analiz
 
 ## Tipos de fetiches y kinks: un mapa para orientarte
 
-El universo de los fetiches y kinks es amplio. No existe una lista definitiva ni una jerarquía de "normalidad". Lo que sí podemos ofrecer es un mapa orientativo para que puedas identificar y nombrar lo que sientes.
+El universo de los fetiches y kinks es amplio. No existe una lista definitiva ni una jerarquía de "normalidad". Lo que sí puedo ofrecerte es un mapa orientativo para que puedas identificar y nombrar lo que sientes.
 
 ### Fetiches relacionados con materiales u objetos
 
@@ -126,7 +124,7 @@ En la comunidad kink, el consentimiento se entiende de forma mucho más explíci
 
 En el contexto BDSM, la comunicación codificada juega un papel central. Los *safewords* (palabras de seguridad) son señales acordadas que detienen la actividad de inmediato. El más conocido es el sistema de semáforo: **verde** (todo bien, continúa), **amarillo** (necesito pausar o reducir la intensidad) y **rojo** (detente ahora). Esta estructura, lejos de "arruinar el momento", construye un entorno donde todas las personas pueden explorar con confianza real (M. Senzo, 2014).
 
-La complejidad del consentimiento en BDSM ha sido estudiada en profundidad, incluyendo cómo se negocia antes, durante y después de una sesión de juego (Parchev, 2025). Si quieres profundizar en cómo negociar límites de forma práctica, nuestro artículo sobre [consentimiento en BDSM: cómo negociar límites en un taller](/blog/consentimiento-en-bdsm-como-negociar-limites-en-un-taller/) cubre este proceso paso a paso.
+La complejidad del consentimiento en BDSM ha sido estudiada en profundidad, incluyendo cómo se negocia antes, durante y después de una sesión de juego (Parchev, 2025). Si quieres profundizar en cómo negociar límites de forma práctica, tengo un artículo específico sobre [consentimiento en BDSM: cómo negociar límites en un taller](/blog/consentimiento-en-bdsm-como-negociar-limites-en-un-taller/) que cubre este proceso paso a paso.
 
 ---
 
@@ -148,9 +146,9 @@ Muchos fetiches y kinks pueden explorarse inicialmente de forma individual: a tr
 
 ### Paso 4: Buscar comunidad antes de práctica
 
-Conectar con otras personas que compartan tus intereses —antes de intentar cualquier práctica con una pareja— puede ser enormemente valioso. Un **munch** (una reunión social casual para personas interesadas en kink y BDSM, que ocurre en un lugar público sin actividad sexual) es un punto de entrada ideal. Son espacios diseñados exactamente para quien está empezando, donde puedes hacer preguntas, conocer personas y orientarte sin ningún tipo de presión.
+Conectar con otras personas que compartan tus intereses —antes de intentar cualquier práctica con una pareja— puede ser enormemente valioso. Un **munch** (una reunión social casual para personas interesadas en kink y BDSM, que ocurre en un lugar público sin actividad sexual) es el punto de entrada más seguro. Son espacios diseñados exactamente para quien está empezando, donde puedes hacer preguntas, conocer personas y orientarte sin ninguna presión.
 
-Si quieres saber cómo funcionan estos eventos en Tijuana, nuestro artículo [¿Qué esperar en tu primer munch? Guía de etiqueta](/blog/que-esperar-en-tu-primer-munch-guia-de-etiqueta/) te explica todo lo que necesitas saber antes de asistir.
+Si estás en Tijuana, estamos organizando exactamente eso. Únete al [Grupo de Tijuana Kink Machín](https://www.facebook.com/groups/1395551282606115) para estar al tanto de los primeros eventos. También puedes leer más sobre el proyecto en [/tijuana](/tijuana).
 
 ### Paso 5: Establecer tus propios límites antes de negociar con otros
 
@@ -173,11 +171,11 @@ Las búsquedas relacionadas con "juguetería erótica Tijuana" tienen una presen
 
 ### Talleres y educación presencial
 
-Existen en Tijuana iniciativas de educación sexual orientadas al kink y el BDSM. Estos espacios ofrecen formación sobre técnicas específicas, consentimiento, seguridad y comunicación. Si buscas empezar con un marco educativo sólido, nuestro artículo [Cómo empezar en BDSM: primeros pasos seguros para principiantes](/blog/como-empezar-en-bdsm-primeros-pasos-seguros-para-principiant/) detalla qué esperar de estos espacios y cómo evaluarlos.
+Existen en Tijuana iniciativas de educación sexual orientadas al kink y el BDSM. Estos espacios ofrecen formación sobre técnicas específicas, consentimiento, seguridad y comunicación. Si buscas empezar con un marco educativo sólido, anoté qué esperar de estos espacios y cómo evaluarlos en [Cómo empezar en BDSM: primeros pasos seguros para principiantes](/blog/como-empezar-en-bdsm-primeros-pasos-seguros-para-principiant/).
 
 ### Recursos digitales verificados
 
-Antes de asistir a cualquier evento o taller en Tijuana, verifica la fuente. MxKinksters ofrece un directorio actualizado con reseñas de eventos y espacios locales, precisamente porque la desinformación en este nicho puede tener consecuencias reales.
+Antes de asistir a cualquier evento o taller en Tijuana, verifica la fuente. Yo mantengo un directorio actualizado con reseñas de eventos y espacios locales en MxKinksters, precisamente porque la desinformación en este nicho puede tener consecuencias reales.
 
 ---
 
@@ -240,11 +238,11 @@ Algunas formas de conectar sin exponerte más de lo que deseas:
 - **Asistir a un munch como observador**: nadie te obliga a hablar o participar activamente. Puedes ir, observar, y decidir si ese espacio te genera confianza.
 - **Contactar a organizadores antes del evento**: muchos organizadores de eventos kink están acostumbrados a recibir consultas de personas que van por primera vez y con ansiedad. Preguntar antes de asistir es completamente normal y bien recibido.
 
-Para quienes están en Tijuana y quieren explorar qué existe localmente, nuestro directorio [Cómo encontrar munches en Tijuana: directorio actualizado](/blog/como-encontrar-munches-en-tijuana-directorio-actualizado/) ofrece información verificada sobre eventos disponibles en la ciudad.
+Si estás en Tijuana, la forma más concreta de conectar ahora mismo es únirte al [Grupo de Tijuana Kink Machín](https://www.facebook.com/groups/1395551282606115). Es el espacio donde se están organizando los primeros eventos locales. También puedes ver cómo imagino que sea esta comunidad en [/tijuana](/tijuana).
 
 También vale señalar que los beneficios de participar en espacios comunitarios kink van más allá del acceso a prácticas. Estudios sobre el BDSM como contexto relacional documentan que la experiencia de pertenencia, el aprendizaje entre pares y la construcción de vínculos de confianza son parte central de lo que hace que estas comunidades sean valiosas para sus integrantes (Anon., 2017).
 
-Si llegaste hasta aquí preguntándote si el BDSM podría ser parte de tu vida, nuestro artículo [Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura](/blog/curso-bdsm-101-guia-completa-para-empezar-en-el-bdsm-de-form/) es el siguiente paso natural.
+Si llegaste hasta aquí preguntándote si el BDSM podría ser parte de tu vida, el siguiente paso natural está en [Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura](/blog/curso-bdsm-101-guia-completa-para-empezar-en-el-bdsm-de-form/).
 
 ---
 
@@ -260,7 +258,7 @@ Sí. Muchas personas tienen fetiches que solo existen en su vida como fantasías
 
 ### ¿Cómo sé si un evento kink en Tijuana es seguro?
 
-Busca eventos que tengan organizadores identificables, reglas de conducta publicadas y reseñas de asistentes anteriores. MxKinksters mantiene un directorio verificado exactamente para ayudarte con esta evaluación. Evita eventos que no tengan información clara sobre protocolos de privacidad y consentimiento.
+Busca eventos que tengan organizadores identificables, reglas de conducta publicadas y reseñas de asistentes anteriores. Yo mantengo un directorio verificado en MxKinksters exactamente para ayudarte con esta evaluación. Evita eventos que no tengan información clara sobre protocolos de privacidad y consentimiento.
 
 ### ¿Puedo explorar kink si estoy en una relación monógama?
 
@@ -276,13 +274,13 @@ Lo que la comunidad kink llama *drop* (una caída emocional que puede ocurrir ho
 
 ---
 
-## Para cerrar: la exploración es tuya
+## Para cerrar
 
-Descubrir y explorar tus deseos eróticos no es un proceso lineal ni tiene un destino fijo. No hay una línea de llegada donde ya "sabes" todo sobre ti mismo, ni un nivel de exploración que debas alcanzar para considerarte parte de ninguna comunidad. Hay, simplemente, un camino que puedes recorrer a tu propio ritmo, con la información que necesitas y la compañía que elijas.
+No hay una línea de llegada en esto. Ni un nivel que alcanzar, ni una categoría en la que caber. Solo un camino que puedes recorrer a tu ritmo, con la información que necesitas.
 
-En Tijuana, ese camino tiene sus propias particularidades: menos visibilidad que en otras ciudades, pero también una comunidad que ha aprendido a construir espacios seguros precisamente porque nadie los construyó por ella. MxKinksters nació para hacer ese camino un poco más claro, un poco menos solitario y mucho más informado.
+En Tijuana ese camino tiene sus particularidades: menos visibilidad que en otras ciudades, pero una comunidad que aprendió a construir sus propios espacios. Cuando yo empecé a buscar, eso era lo único que quería encontrar.
 
-Si algo en esta guía resonó contigo, el siguiente paso puede ser tan pequeño como leer un artículo más, o tan grande como asistir a tu primer munch. Tú decides el ritmo. Nosotros estaremos aquí.
+Si algo en esta guía te resonió, el siguiente paso puede ser tan pequeño como leer un artículo más. O tan grande como dar el primer paso y únirte al [Grupo de Tijuana Kink Machín](https://www.facebook.com/groups/1395551282606115). Tú decides el ritmo — y allá puedes ver cómo se va armando esto.
 
 ---
 
