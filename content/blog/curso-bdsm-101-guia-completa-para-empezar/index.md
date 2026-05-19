@@ -2,7 +2,7 @@
 title = "Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura"
 meta_title = "Guía BDSM 101: Cómo empezar de forma segura | MxKinksters"
 date = 2026-04-03
-slug = "curso-bdsm-101-guia-completa-para-empezar-en-el-bdsm-de-form"
+slug = "curso-bdsm-101-guia-completa-para-empezar"
 description = "Curiosidad por el BDSM y no sabes por dónde empezar. Esta guía explica roles, seguridad y primeros pasos con claridad, sin juicios y a tu ritmo."
 series = ["Curso BDSM 101 para principiantes"]
 draft = false

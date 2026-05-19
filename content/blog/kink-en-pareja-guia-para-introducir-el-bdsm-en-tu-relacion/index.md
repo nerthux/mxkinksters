@@ -25,9 +25,9 @@ draft = false
 
 ---
 
-Quizás lo han conversado de noche, entre risas nerviosas, o tal vez uno de los dos lo mencionó casi de pasada y el otro no supo qué responder. La curiosidad por explorar el BDSM —que abarca prácticas como el bondage (ataduras), la disciplina, la dominación, la sumisión y el intercambio de poder— no aparece de la nada, y tampoco desaparece si se ignora. Lo que sí puede desaparecer es la oportunidad de conectar de una manera más profunda con la persona que eligieron.
+Quizás lo han conversado de noche, entre risas nerviosas, o tal vez uno de los dos lo mencionó casi de pasada y el otro no supo qué responder. A mucha gente en la comunidad de Tijuana le pasó igual. La curiosidad por explorar el BDSM no aparece de la nada, y tampoco desaparece si se ignora. Lo que sí puede desaparecer es la oportunidad de conectar de una manera más profunda con su pareja.
 
-Esta guía está escrita para parejas en Tijuana —y en cualquier lugar— que sienten curiosidad pero no saben por dónde empezar. No es un manual de técnicas avanzadas ni una lista de cosas que "deben" probar. Es una hoja de ruta para que las dos personas en la relación puedan explorar juntas, con honestidad, respeto y sin prisa.
+Escribí esta guía para parejas que sienten curiosidad pero no saben por dónde empezar. No es un manual de técnicas avanzadas ni una lista de cosas que "deben" probar. Es la hoja de ruta que me hubiera gustado tener para explorar con honestidad, respeto y sin prisa.
 
 ---
 
@@ -149,7 +149,7 @@ Después de cualquier experiencia —incluso si fue algo pequeño— tómense 15
 
 Esta conversación convierte cada experiencia en aprendizaje. Y establece el hábito de la comunicación continua, que es el corazón de cualquier práctica kink saludable.
 
-Si quieren profundizar en cómo estructurar estas negociaciones con más detalle técnico, el artículo sobre [consentimiento en BDSM: cómo negociar límites en un taller](/blog/consentimiento-en-bdsm-como-negociar-limites-en-un-taller/) ofrece una guía más extensa sobre este proceso.
+Si quieren profundizar en cómo estructurar estas negociaciones con más detalle técnico, los ejercicios de la sección anterior son un buen punto de partida. Con tiempo y práctica, la negociación se vuelve parte natural de su comunicación como pareja.
 
 ---
 
@@ -189,7 +189,7 @@ Es una de las herramientas más importantes del kink. Y también una de las más
 
 Porque los límites se negocian en frío, y la experiencia ocurre en caliente. Lo que parecía interesante en una conversación puede sentirse diferente en el momento. La palabra segura existe precisamente para ese espacio: cuando el cuerpo o la mente dicen "para", incluso si la cabeza no lo esperaba.
 
-La investigación documenta que la representación del BDSM en la pornografía ha distorsionado la percepción del uso de palabras seguras, llevando a algunos practicantes a subestimarlas o ignorarlas en la práctica real (Westlake, 2024). Esta guía quiere ser clara: una palabra segura no es opcional ni un signo de debilidad. Es parte esencial del protocolo.
+La investigación documenta que la representación del BDSM en la pornografía ha distorsionado la percepción del uso de palabras seguras, llevando a algunos practicantes a subestimarlas o ignorarlas en la práctica real (Westlake, 2024). Yo lo quiero dejar muy claro: una palabra segura no es opcional ni un signo de debilidad. Es parte esencial del protocolo.
 
 ### El sistema de semáforo verbal
 
@@ -258,17 +258,17 @@ Los temas más útiles para parejas que empiezan incluyen:
 - Introducción al consentimiento en prácticas kink.
 - Seguridad básica en dinámicas de poder.
 
-Para revisar opciones disponibles, el artículo sobre [talleres de BDSM en Tijuana: aprende en persona](/blog/talleres-de-bdsm-en-tijuana-the-consent-club-aprende-en-pers/) tiene información actualizada sobre espacios verificados en la ciudad.
+Para encontrar opciones en Tijuana, únense al [Grupo de Tijuana Kink Machín](https://www.facebook.com/groups/1395551282606115), donde se están organizando los primeros eventos locales para parejas y personas interesadas.
 
 ### Munches: el primer paso sin presión
 
 Un munch (una reunión social casual para personas interesadas en BDSM, sin actividad sexual) es una excelente opción para parejas que quieren conocer la comunidad antes de comprometerse con talleres o experiencias más estructuradas. Se realiza en lugares públicos —generalmente cafés o restaurantes— y no implica ninguna práctica; es simplemente una conversación entre personas con intereses similares.
 
-Asistir juntos a un munch puede ser una forma de ver que hay una comunidad real, diversa y respetuosa detrás del kink, lo que para muchas parejas reduce significativamente la ansiedad sobre "en qué se están metiendo". Para encontrar opciones en la ciudad, la guía sobre [cómo encontrar munches en Tijuana](/blog/como-encontrar-munches-en-tijuana-directorio-actualizado/) ofrece un directorio verificado y actualizado.
+Asistir juntos a un munch puede ser una forma de ver que hay una comunidad real, diversa y respetuosa detrás del kink, lo que para muchas parejas reduce significativamente la ansiedad sobre "en qué se están metiendo". Si están en Tijuana, el [Grupo de Tijuana Kink Machín](https://www.facebook.com/groups/1395551282606115) es donde se están coordinando los primeros eventos.
 
 ### Recursos educativos para leer juntos
 
-Antes de asistir a cualquier evento o taller, puede ser útil compartir lecturas. Algunos recursos en español que recomendamos explorar juntos:
+Antes de asistir a cualquier evento o taller, puede ser útil compartir lecturas. Algunos recursos en español que les recomiendo explorar juntos:
 
 - **"Screw the Roses, Send Me the Thorns"** (Miller y Devon): uno de los manuales más completos sobre BDSM para principiantes. Está en inglés, pero es extensamente citado incluso en comunidades hispanohablantes.
 - **"El BDSM explicado"** (varios autores en comunidades online hispanohablantes): existen guías gratuitas disponibles en foros como FetLife con comunidades en español.
@@ -329,7 +329,7 @@ Absolutamente. Vivimos en una cultura que raramente ofrece modelos saludables de
 
 ### ¿Los talleres en Tijuana son realmente seguros para asistir como pareja?
 
-Los talleres verificados en Tijuana operan con protocolos de privacidad y espacios seguros. Antes de asistir a cualquier evento, recomendamos verificar que esté listado en directorios confiables y que tenga reseñas de participantes anteriores. Nunca compartan información personal sensible antes de confirmar la legitimidad del organizador.
+Los talleres verificados en Tijuana operan con protocolos de privacidad y espacios seguros. Antes de asistir a cualquier evento, les recomiendo verificar que tenga reseñas de participantes anteriores o que alguien de la comunidad local lo respalde. Nunca compartan información personal sensible antes de confirmar la legitimidad del organizador.
 
 ---
 
@@ -339,7 +339,7 @@ Explorar el BDSM juntos no se trata de llegar a ningún punto específico. Se tr
 
 El primer paso no es probar nada. El primer paso es la conversación. Y si esta guía les ayudó a imaginarla un poco más posible, entonces ya empezaron.
 
-En MxKinksters, la meta es que nadie en Tijuana tenga que explorar esto a ciegas. Si quieren seguir aprendiendo —sobre recursos, eventos o conceptos básicos— el punto de partida está en nuestra guía sobre [cómo empezar en BDSM: primeros pasos seguros para principiantes](/blog/como-empezar-en-bdsm-primeros-pasos-seguros-para-principiant/). Todo a su ritmo, con la información que necesitan para hacerlo bien.
+El primer paso no es probar nada. El primer paso es la conversación. Y si esta guía les ayudó a imaginarla un poco más posible, ya empezaron. Si están en Tijuana y quieren conectar con gente que está en el mismo proceso, el [Grupo de Tijuana Kink Machín](https://www.facebook.com/groups/1395551282606115) es el lugar donde se está armando todo esto.
 
 ---
 

@@ -10,7 +10,7 @@ draft = false
 
 # Errores comunes al iniciar en el BDSM (y cómo evitarlos desde el principio)
 
-Dar los primeros pasos en el BDSM puede sentirse como querer aprender a nadar lanzándose al mar abierto. La emoción es real, las ganas también, pero sin preparación, el agua puede ser muy profunda. Es completamente normal querer avanzar rápido cuando algo despierta tanto interés. Sin embargo, la mayoría de los errores que cometen quienes inician en el BDSM no vienen de malas intenciones, sino de no saber qué pasos dar primero. Esta guía existe para ayudarte a identificar esos tropiezos antes de que ocurran, y para que tu exploración sea lo que debería ser: segura, consciente y disfrutable.
+Dar los primeros pasos en el BDSM puede sentirse como querer aprender a nadar lanzándose al mar abierto. La emoción es real, pero sin preparación te puedes hundir rápido. Cuando yo empecé a acercarme a la comunidad en Tijuana, quería avanzar rápido y cometí errores que se pudieron haber evitado. La mayoría de las veces, cuando alguien la caga al inicio no es por malas intenciones, sino por no saber qué pasos dar primero. Anoté aquí los tropiezos más comunes para que no tengas que aprenderlos a la mala.
 
 ---
 
@@ -40,7 +40,7 @@ Estudios sobre la comunidad BDSM muestran que las personas que se involucran con
 
 **Cómo evitarlo:**
 
-- Lee materiales confiables y accesibles antes de practicar. El [Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura](/blog/curso-bdsm-101-guia-completa-para-empezar-en-el-bdsm-de-form/) es un buen punto de partida.
+- Lee materiales confiables y accesibles antes de practicar. El [Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura](/blog/curso-bdsm-101-guia-completa-para-empezar/) que armé es un buen punto de partida.
 - Busca comunidad. Los **munches** —reuniones sociales informales para personas interesadas en BDSM, sin actividad sexual— son espacios ideales para hacer preguntas, conocer personas con más experiencia y aprender sin presión (Webster & Ivanov, 2019).
 - Distingue entre entretenimiento y práctica real. Lo que aparece en películas o contenido adulto rara vez refleja protocolos de seguridad reales.
 
@@ -54,7 +54,7 @@ Esto aplica especialmente en dinámicas donde alguien cede control a otra person
 
 **Cómo evitarlo:**
 
-- Conoce a tu pareja de juego en entornos sociales primero: eventos, munches, conversaciones. La [Guía completa para principiantes sobre eventos kink en Tijuana](/blog/munch-tijuana-guia-completa-para-principiantes-sobre-eventos/) puede ayudarte a encontrar esos espacios.
+- Conoce a tu pareja de juego en entornos sociales primero: eventos, munches, conversaciones. Si estás en Tijuana, el [Grupo de Tijuana Kink Machín](https://www.facebook.com/groups/1395551282606115) es donde se están organizando los primeros eventos locales —incluyendo munches.
 - Observa cómo alguien habla del consentimiento y los límites antes de involucrarte con esa persona. La forma en que alguien habla del tema en teoría dice mucho de cómo actuará en la práctica.
 - Recuerda: no hay prisa. El BDSM no desaparece si esperas una semana más.
 
@@ -64,7 +64,7 @@ Esto aplica especialmente en dinámicas donde alguien cede control a otra person
 
 El **aftercare** (cuidado posterior) es el proceso de atención mutua que ocurre después de una sesión de juego. Puede incluir desde un abrazo y una manta, hasta agua, comida, conversación o simplemente presencia tranquila. Su duración y forma varían según las personas y la intensidad de la sesión.
 
-Ignorar el aftercare es un error que cometen incluso personas con cierta experiencia, bajo la idea de que "no pasó nada grave" o que "no es necesario". Pero las sesiones de BDSM —incluso las más ligeras— pueden generar respuestas emocionales intensas. Existe un fenómeno conocido como **"drop"** (caída emocional), que puede ocurrir horas o días después de una sesión, manifestándose como tristeza, ansiedad o sensación de vacío. Sin aftercare adecuado, este estado puede ser confuso y difícil de manejar.
+Al principio yo llegué a ignorar el aftercare pensando que "no había pasado nada grave" o que "no era necesario". Pero las sesiones de kink —incluso las más ligeras— pueden generar respuestas emocionales intensas. Existe un fenómeno conocido como **"drop"** (caída emocional), que puede ocurrir horas o días después de una sesión, manifestándose como tristeza, ansiedad o sensación de vacío. Sin aftercare adecuado, el drop te puede pegar fuerte y confundirte mucho.
 
 **Cómo evitarlo:**
 
@@ -72,7 +72,7 @@ Ignorar el aftercare es un error que cometen incluso personas con cierta experie
 - Planifica tiempo después de la sesión. No organices una sesión de juego si inmediatamente después debes salir corriendo.
 - Mantén contacto en las horas siguientes, especialmente si la sesión fue emocionalmente intensa. Un mensaje sencillo de "¿cómo estás?" puede marcar una diferencia real.
 
-Para profundizar en qué esperar durante y después de una sesión, el artículo sobre [prácticas seguras en BDSM: lo que aprenderás en un taller](/blog/practicas-seguras-en-bdsm-lo-que-aprenderas-en-un-taller/) ofrece una perspectiva más detallada desde la práctica educativa.
+Para profundizar en qué esperar durante y después de una sesión, busca talleres presenciales en Tijuana con facilitadores verificados: son el espacio más útil para aprender esto con orientación en tiempo real.
 
 ---
 
@@ -85,16 +85,18 @@ La comunidad BDSM, cuando funciona bien, es uno de los recursos más valiosos pa
 **Cómo evitarlo:**
 
 - Busca eventos comunitarios en Tijuana. Un munch es el primer paso más accesible: no hay actividad sexual, no se requiere experiencia previa, y puedes ir simplemente a escuchar y conocer personas.
-- Considera asistir a talleres formativos. Si te interesa explorar de forma más estructurada, los [talleres de BDSM en Tijuana: The Consent Club](/blog/talleres-de-bdsm-en-tijuana-the-consent-club-aprende-en-pers/) ofrecen un entorno educativo con protocolos claros de seguridad y respeto.
+- Considera asistir a talleres formativos con facilitadores con experiencia verificada en la comunidad. Un entorno educativo con protocolos claros de seguridad y respeto marca una diferencia real respecto a aprender solo.
 - Recuerda que pedir ayuda o información no te hace menos capaz. Te hace más responsable.
 
 ---
 
-## Explorar bien es explorar mejor
+## La paciencia paga
 
-Cometer errores al principio no te hace una mala persona ni significa que el BDSM no es para ti. Significa que eres humano y que estás aprendiendo algo nuevo. Lo importante es hacerlo con la mayor información posible, con respeto hacia ti y hacia quienes te acompañan, y con la paciencia de quien sabe que lo mejor viene cuando se construye bien.
+Cagarla al principio no te hace una mala persona ni significa que esto no sea para ti. Significa que estás aprendiendo. Lo importante es no tropezar con la misma piedra y hacerlo con información y respeto hacia quienes te acompañan.
 
-Si quieres un punto de partida sólido y estructurado, el [Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura](/blog/curso-bdsm-101-guia-completa-para-empezar-en-el-bdsm-de-form/) reúne todo lo que necesitas saber antes de tu primera experiencia. No hay mejor momento para empezar que cuando te sientes preparado.
+Si quieres un punto de partida sólido, armé el [Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura](/blog/curso-bdsm-101-guia-completa-para-empezar/) con todo lo que necesitas saber antes de tu primera experiencia.
+
+Si algo de lo que leíste te resonó y estás en Tijuana, el [Grupo de Tijuana Kink Machín](https://www.facebook.com/groups/1395551282606115) es donde se está armando la comunidad y organizando los primeros eventos. Tú decides si te sumas.
 
 ---
 

@@ -124,7 +124,7 @@ En la comunidad kink, el consentimiento se entiende de forma mucho más explíci
 
 En el contexto BDSM, la comunicación codificada juega un papel central. Los *safewords* (palabras de seguridad) son señales acordadas que detienen la actividad de inmediato. El más conocido es el sistema de semáforo: **verde** (todo bien, continúa), **amarillo** (necesito pausar o reducir la intensidad) y **rojo** (detente ahora). Esta estructura, lejos de "arruinar el momento", construye un entorno donde todas las personas pueden explorar con confianza real (M. Senzo, 2014).
 
-La complejidad del consentimiento en BDSM ha sido estudiada en profundidad, incluyendo cómo se negocia antes, durante y después de una sesión de juego (Parchev, 2025). Si quieres profundizar en cómo negociar límites de forma práctica, tengo un artículo específico sobre [consentimiento en BDSM: cómo negociar límites en un taller](/blog/consentimiento-en-bdsm-como-negociar-limites-en-un-taller/) que cubre este proceso paso a paso.
+La complejidad del consentimiento en BDSM ha sido estudiada en profundidad, incluyendo cómo se negocia antes, durante y después de una sesión de juego (Parchev, 2025). Si quieres profundizar en cómo negociar límites de forma práctica, los talleres presenciales en Tijuana son el espacio más valioso para aprenderlo con orientación en tiempo real.
 
 ---
 
@@ -242,7 +242,7 @@ Si estás en Tijuana, la forma más concreta de conectar ahora mismo es únirte 
 
 También vale señalar que los beneficios de participar en espacios comunitarios kink van más allá del acceso a prácticas. Estudios sobre el BDSM como contexto relacional documentan que la experiencia de pertenencia, el aprendizaje entre pares y la construcción de vínculos de confianza son parte central de lo que hace que estas comunidades sean valiosas para sus integrantes (Anon., 2017).
 
-Si llegaste hasta aquí preguntándote si el BDSM podría ser parte de tu vida, el siguiente paso natural está en [Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura](/blog/curso-bdsm-101-guia-completa-para-empezar-en-el-bdsm-de-form/).
+Si llegaste hasta aquí preguntándote si el BDSM podría ser parte de tu vida, el siguiente paso natural está en [Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura](/blog/curso-bdsm-101-guia-completa-para-empezar/).
 
 ---
 
