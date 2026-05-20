@@ -6,7 +6,7 @@ slug = "que-es-un-munch-origen-del-termino"
 description = "Te comparto lo que he investigado sobre qué es realmente un munch, de dónde viene el término y por qué creo que necesitamos organizar el primero en Tijuana."
 keywords = ["qué es un munch", "origen del término munch", "munch BDSM", "munch en Tijuana"]
 tags = ["conceptos básicos", "comunidad", "munch BDSM"]
-series = ["Guía de Munches en Tijuana"]
+series = ["Guía para Munches en Tijuana"]
 draft = false
 +++
 
