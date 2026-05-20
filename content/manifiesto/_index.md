@@ -1,6 +1,8 @@
 ---
 title: "Manifiesto Kinkster"
 description: "Nuestra brújula sex positive: placer como derecho, consentimiento como piso, comunicación como proceso. Los pilares que orientan la comunidad kink de Tijuana."
+showHero: true
+heroStyle: "big"
 ---
 
 Somos una comunidad sex positive. Kink, BDSM, fetiches, deseos, fantasías, exploración erótica y sensual — todo esto tiene un hogar aquí, bajo la convicción de que la sexualidad humana, vivida con consenso y honestidad, es una fuente legítima de placer, crecimiento y conexión.
