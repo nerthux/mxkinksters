@@ -3,10 +3,9 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-# Update once the production domain is wired up in Cloudflare. Until then,
-# this controls absolute URLs in sitemap.xml, RSS, robots.txt and Open Graph
+# Controls absolute URLs in sitemap.xml, RSS, robots.txt and Open Graph
 # tags. Preview builds override it via `hugo --baseURL` (see build.sh).
-baseURL = "https://mxkinksters.pages.dev/"
+baseURL = "https://www.mxkinksters.com/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
