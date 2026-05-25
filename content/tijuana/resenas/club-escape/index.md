@@ -53,7 +53,7 @@ Llegamos cerca de la medianoche y, para ser un club privado, el lugar estaba lle
 
 Se nota que la mayoría ya se conoce, que hay comunidad real detrás de esto. Pero tanto el staff como los mismos asistentes pusieron genuino esfuerzo en integrarnos desde el primer momento. Cuando la batería social empezó a agotarse, los sillones de la sala principal fueron el refugio perfecto para observar sin la presión de interactuar.
 
-Hay un factor que vale la pena nombrar: el alcohol. En un punto de la noche el consumo era muy evidente y, aunque el ambiente estaba lejos de ser el de borrachos de cantina, el trago funcionó como el gran lubricante social de la noche. Nosotros no estábamos tomando esa visita por temas de salud, y en algunos momentos sí se sintió esa pequeña brecha con el resto del grupo.
+Hay un factor que vale la pena nombrar: el alcohol. En un punto de la noche el consumo era muy evidente y, aunque el ambiente estaba lejos de ser el de borrachos de cantina, el trago funcionó como el gran lubricante social de la noche. Nosotros no estábamos tomando esa noche, y en algunos momentos sí se sintió esa pequeña brecha con el resto del grupo.
 
 Si acaso le pondría un pero: me hubiera gustado ver alguna dinámica estructurada —un juego, una actividad, algo que rompa el hielo para los que llegamos sin conocer a nadie—. Pero siendo honesto, cuando ya llevas años de comunidad y conoces a todos de nombre, probablemente eso sobra. Es una expectativa de primerizo, no una crítica real al lugar.
 
