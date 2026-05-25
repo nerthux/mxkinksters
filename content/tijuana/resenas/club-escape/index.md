@@ -40,14 +40,14 @@ El espacio físico fue la sorpresa más agradable de la noche. Entras a través 
 </div>
 
 - **Costos de acceso:** $500 MXN por pareja, $600 MXN hombres solos (*singles*); mujeres solas entran gratis.
-- **Horarios:** Abierto los sábados de 9:00 p.m. a 4:00 a.m.
+- **Horarios:** Abierto los sábados de 9:00 p.m. a 4:00 a.m. Miercoles mañanero de 10:00 a.m. a 1:00 p.m.
 - **Formato BYOB:** No hay venta de alcohol en el interior. Es indispensable llevar tu propio consumo (bebidas, hielera y mezcladores).
 
 ---
 
 ## ¿Cómo es el ambiente y la dinámica social en Club Escape?
 
-Llegamos cerca de la medianoche y, para ser un club privado, el lugar estaba llenísimo: calculo que había entre 20 y 30 parejas conviviendo. El ambiente es 100% social e integrado —se siente exactamente como una fiesta grande en casa de alguien que sabe organizar—. Grupos de 8 a 15 personas platicando en círculo en la terraza, otros sentados en los sillones de la sala; el tipo de convivencia que no ves ni en los mejores bares.
+Mi pareja y yo llegamos cerca de la medianoche y, para ser un club privado, el lugar estaba llenísimo: calculo que había entre 20 y 30 parejas conviviendo. El ambiente es 100% social e integrado —se siente exactamente como una fiesta grande en casa de alguien que sabe organizar—. Grupos de 8 a 15 personas platicando en círculo en la terraza, otros sentados en los sillones de la sala; el tipo de convivencia que no ves ni en los mejores bares.
 
 Se nota que la mayoría ya se conoce, que hay comunidad real detrás de esto. Pero tanto el staff como los mismos asistentes pusieron genuino esfuerzo en integrarnos desde el primer momento. Cuando la batería social empezó a agotarse, los sillones de la sala principal fueron el refugio perfecto para observar sin la presión de interactuar.
 
