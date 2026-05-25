@@ -36,8 +36,8 @@ Al estar en la plaza, **no hay un letrero con el nombre del club** que sea visib
 Una vez que identificas el punto y pasas el filtro de seguridad —un proceso típico de centro nocturno donde a mí me revisaron, pero a mi pareja no—, por fin aparece un letrero que dice "Club Medusa". Después, subes unas escaleras hacia una puerta de metal donde debes tocar un timbre para que te abran. Ese pequeño detalle del timbre da una agradable sensación de privacidad y espacio seguro que se agradece al dejar atrás la plaza.
 
 <div class="flex flex-wrap justify-center gap-4 my-8">
-  <img src="medusa-camino.jpeg" alt="Camino al Club Medusa Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
-  <img src="medusa-exterior.jpeg" alt="Exterior del Club Medusa Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
+  <img src="medusa-camino.webp" alt="Camino al Club Medusa Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
+  <img src="medusa-exterior.webp" alt="Exterior del Club Medusa Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
 </div>
 
 - **Costos de acceso:** $400 MXN ($25 USD) por pareja, $800 MXN ($50 USD) hombres solos; mujeres solas entran gratis.
@@ -65,7 +65,7 @@ El club está distribuido en dos niveles muy claros:
 
 Sin importar el nivel, las cabinas en general son pequeñas, equipadas con banquillos escuetos e incómodos. El espacio es tan reducido que resulta poco funcional; de hecho, en un punto de la noche notamos a varias parejas reunidas afuera de las cabinas del sótano simplemente porque adentro era imposible estar cómodos. Si vas con la idea de juego en grupo o esperas un espacio amplio, este no es el lugar. En la zona de parejas se extraña enormemente un *playground* abierto en lugar de estos cuartitos claustrofóbicos.
 
-<img src="medusa-no-singles.jpg" alt="Singles Only" class="w-full max-w-md mx-auto rounded-xl shadow-lg my-8 border border-neutral-800">
+<img src="medusa-no-singles.webp" alt="Singles Only" class="w-full max-w-md mx-auto rounded-xl shadow-lg my-8 border border-neutral-800">
 
 ---
 
@@ -96,7 +96,7 @@ Al ser un club privado, el establecimiento cuenta con un reglamento estricto vis
 
 *Nota: Infringir cualquiera de estas normas amerita la expulsión inmediata sin derecho a reingreso.*
 
-<img src="medusa-reglas.jpeg" alt="Reglas del Club Medusa" class="w-full max-w-md mx-auto rounded-xl shadow-lg my-8 border border-neutral-800">
+<img src="medusa-reglas.webp" alt="Reglas del Club Medusa" class="w-full max-w-md mx-auto rounded-xl shadow-lg my-8 border border-neutral-800">
 
 ---
 

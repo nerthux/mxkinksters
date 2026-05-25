@@ -38,8 +38,7 @@ Para asistir, el primer paso ocurre en el plano digital. Tras encontrar los dato
 El espacio físico fue la sorpresa más agradable de la noche. Entras a través de una cochera discreta y, al fondo, te encuentras con unas escaleras iluminadas con luces de fiesta que te conducen a la puerta principal, donde el personal te recibe con una sonrisa y realiza el registro.
 
 <div class="flex flex-wrap justify-center gap-4 my-8">
-  <img src="escape-acceso.jpg" alt="Entrada discreta de Club Escape Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
-  <img src="escape-lounge.jpg" alt="Interior lounge de Club Escape Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
+  <img src="escape-sala.webp" alt="Sala de Club Escape Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
 </div>
 
 - **Costos de acceso:** $500 MXN por pareja, $600 MXN hombres solos (*singles*); mujeres solas entran gratis.
@@ -79,7 +78,7 @@ A diferencia de las incómodas y claustrofóbicas cabinas de los antros comercia
 2. **Cuarto abierto (1 habitación):** Una habitación donde la puerta nunca se cierra. Puedes usarla igual que las otras, pero aquí entras sabiendo que no habrá privacidad y que el voyeurismo (el placer de observar) y el exhibicionismo son parte del juego.
 
 <div class="flex flex-wrap justify-center gap-4 my-8">
-  <img src="escape-reglas.jpg" alt="Reglas de Club Escape Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
+  <img src="escape-reglas.webp" alt="Reglas de Club Escape Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
 </div>
 
 ---
