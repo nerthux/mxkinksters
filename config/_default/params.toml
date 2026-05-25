@@ -9,7 +9,7 @@ colorScheme = "mxkinksters"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
-logo = "img/mxkinksters-logo.png"
+logo = "img/mxkinksters-logo.webp"
 
 enableA11y = false
 enableSearch = true
@@ -29,7 +29,7 @@ disableTextInHeader = true
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
-defaultSocialImage = "img/og-default.png" # used as default for social media sharing (Open Graph and Twitter)
+defaultSocialImage = "img/og-default.webp" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
 # Thumbnail aspect ratio as a number (e.g., "1.5", "1.0", "1.777")
 # thumbnailAspectRatio = "1.5"
@@ -59,7 +59,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "hero-homepage.png" # used in: hero, and card
+  homepageImage = "hero-homepage.webp" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false

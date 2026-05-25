@@ -25,6 +25,9 @@ enableEmoji = true
 
 [imaging]
   anchor = 'Center'
+  # Quality (1-100) applied when Hugo re-encodes processed images (JPEG/WebP).
+  # Affects resized variants the theme generates from source images.
+  quality = 82
 
 [taxonomies]
   tag = "tags"

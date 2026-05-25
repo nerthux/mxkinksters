@@ -6,7 +6,7 @@
     {{ $section = .Page.Section }}
   {{ end }}
   {{ if eq $section "tijuana" }}
-    {{ $logoPath = "img/tkm-logo.png" }}
+    {{ $logoPath = "img/tkm-logo.webp" }}
   {{ end }}
   {{ if $logoPath }}
     {{ $logo := resources.Get $logoPath }}
