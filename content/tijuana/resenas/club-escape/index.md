@@ -125,7 +125,7 @@ Solo prepárate para la interacción constante, no olvides llevar tu propia bebi
 
 ## 📅 Próximos Eventos
 
-**Este sábado 31 de mayo** la temática es **Pole Dance** — una noche donde el tubo de la cocina va a ser el centro de todo.
+**Este sábado 30 de mayo** la temática es **Pole Dance** — una noche donde el tubo de la cocina va a ser el centro de todo.
 
 {{< figure src="escape-evento.jpeg" alt="Próximo evento en Club Escape Tijuana" class="rounded-lg shadow-md my-6" >}}
 
