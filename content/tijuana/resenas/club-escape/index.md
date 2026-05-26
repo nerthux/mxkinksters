@@ -43,11 +43,18 @@ El espacio físico fue la sorpresa más agradable de la noche. Entras a través 
 - **Horarios:** Abierto los sábados de 9:00 p.m. a 4:00 a.m. Miercoles mañanero de 10:00 a.m. a 1:00 p.m.
 - **Formato BYOB:** No hay venta de alcohol en el interior. Es indispensable llevar tu propio consumo (bebidas, hielera y mezcladores).
 
+### 📲 Contacto
+
+Si quieres asistir, comunícate directamente con los organizadores:
+
+- **WhatsApp:** [663 111 7851](https://api.whatsapp.com/send?phone=5216631117851&text=%C2%A1Hola!%20Supe%20del%20club%20en%20MxKinksters.%20%C2%BFPueden%20darme%20informaci%C3%B3n%3F)
+- **X (Twitter):** [@ClubEscape23343](https://x.com/ClubEscape23343)
+
 ---
 
 ## ¿Cómo es el ambiente y la dinámica social en Club Escape?
 
-Mi pareja y yo llegamos cerca de la medianoche y, para ser un club privado, el lugar estaba llenísimo: calculo que había entre 20 y 30 parejas conviviendo. El ambiente es 100% social e integrado —se siente exactamente como una fiesta grande en casa de alguien que sabe organizar—. Grupos de 8 a 15 personas platicando en círculo en la terraza, otros sentados en los sillones de la sala; el tipo de convivencia que no ves ni en los mejores bares.
+Mi pareja y yo llegamos cerca de la medianoche y, para ser un club privado, el lugar estaba llenísimo: calculo que había entre 20 y 30 parejas conviviendo —aunque según los organizadores esa noche estuvo más tranquila de lo habitual, así que no te sorprendas si en otras ocasiones hay bastante más gente—. El ambiente es 100% social e integrado —se siente exactamente como una fiesta grande en casa de alguien que sabe organizar—. Grupos de 8 a 15 personas platicando en círculo en la terraza, otros sentados en los sillones de la sala; el tipo de convivencia que no ves ni en los mejores bares.
 
 Se nota que la mayoría ya se conoce, que hay comunidad real detrás de esto. Pero tanto el staff como los mismos asistentes pusieron genuino esfuerzo en integrarnos desde el primer momento. Cuando la batería social empezó a agotarse, los sillones de la sala principal fueron el refugio perfecto para observar sin la presión de interactuar.
 
@@ -87,7 +94,7 @@ A la medianoche en punto, como si fuera el cuento de Cenicienta, se anunció la 
 
 Sin embargo, ese momento fue el detonador de la noche. A partir de ahí, el ambiente se encendió por completo: comenzaron a formarse grupos que entraban y salían de las habitaciones, algunos se encerraban con su pareja y otros invitaban a más gente a unirse, mientras que en la cocina se armó otra fiesta con bailes muy sensuales alrededor del tubo.
 
-Eso sí: el *gang bang* no sucede todas las noches, al menos no como un evento planeado. Según me explicaron, cada semana tiene sus propias dinámicas, que pueden variar desde fiestas temáticas y juegos hasta la famosa «mesa de postres», donde una chica se cubre con dulces y los asistentes tienen permitido lamer o comer de cualquier parte de su cuerpo. Un largo etcétera.
+Los organizadores me confirmarón que **el *gang bang* es un evento fijo todos los sábados**, si eso es lo que andas buscando, atáscate que hay lodo ;) . Lo que cambia cada fin de semana es la **temática**. Algunas de las dinámicas que manejan: noche de **minifaldas**, **fiestas temáticas** de todo tipo, incluso la famosa **«mesa de postres»**: donde una chica se cubre con dulces y los asistentes pueden lamer o comer de cualquier parte de su cuerpo.
 
 > **📝 Mentalidad Sex Positive:** Toma una pausa antes de juzgar. Este es un espacio *kink* y *sex positive*: respetamos todas las actividades sexuales consensuadas entre adultos. Hay quienes podrían ver esto como algo denigrante, pero ¿quién eres tú para decidir qué le divierte o le prende a otra persona? Para muchos, descubrir el poder de su propia seducción es profundamente empoderador; para otros, ser un objeto de deseo carnal puede ser exactamente la experiencia liberadora que buscaban.
 
@@ -113,6 +120,16 @@ De forma ejemplar. En ningún momento nos sentimos incómodos ni presionados. Si
 Dicho eso: Club Escape me pareció un lugar impecable si lo que buscas es fiesta real, interacción genuina y sumergirte de verdad en la cultura liberal de Tijuana. La seguridad del formato privado, la limpieza de las habitaciones, la terraza y —sobre todo— la calidez de su comunidad hacen que valga completamente la pena.
 
 Solo prepárate para la interacción constante, no olvides llevar tu propia bebida y, si quieres romper la rutina a mitad de semana, ten en cuenta que los miércoles por la mañana organizan un *gang bang* mañanero.
+
+---
+
+## 📅 Próximos Eventos
+
+**Este sábado 31 de mayo** la temática es **Pole Dance** — una noche donde el tubo de la cocina va a ser el centro de todo.
+
+{{< figure src="escape-evento.jpeg" alt="Próximo evento en Club Escape Tijuana" class="rounded-lg shadow-md my-6" >}}
+
+Los organizadores anuncian los eventos y temáticas de cada semana en su cuenta de **X (Twitter)**: [@ClubEscape23343](https://x.com/ClubEscape23343). Si quieres saber qué se viene antes de ir, síguelos ahí.
 
 ---
 
