@@ -192,3 +192,194 @@ body.section-tijuana .prose a:hover {
   transform: translateY(0);
 }
 
+/* ============================================================
+ * Linktree / All My Links — Página de Contacto
+ * Componente independiente. Usa CSS vars del tema Blowfish
+ * para respetar color scheme + dark mode.
+ * ============================================================ */
+.linktree {
+  max-width: 30rem;
+  margin: 0 auto;
+  padding: 1rem 0 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+/* --- Header / Logo --- */
+.linktree__header {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.linktree__logo {
+  width: 9rem;
+  height: auto;
+  margin: 0 auto 0.75rem;
+  filter: drop-shadow(0 2px 12px rgba(var(--color-primary-500), 0.25));
+}
+
+.linktree__tagline {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(var(--color-neutral-400), 1);
+  margin: 0;
+}
+
+/* --- Section dividers --- */
+.linktree__section {
+  margin-top: 0.75rem;
+  padding: 0 0.25rem;
+}
+
+.linktree__section-title {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: rgba(var(--color-neutral-500), 1);
+  border-bottom: 1px solid rgba(var(--color-neutral-700), 0.4);
+  padding-bottom: 0.35rem;
+}
+
+/* --- Link cards --- */
+.linktree__link {
+  display: flex;
+  align-items: center;
+  gap: 0.875rem;
+  padding: 0.875rem 1.125rem;
+  border-radius: 0.75rem;
+  background: rgba(var(--color-neutral-800), 0.5);
+  border: 1px solid rgba(var(--color-neutral-700), 0.45);
+  color: rgba(var(--color-neutral-100), 1);
+  text-decoration: none;
+  transition: transform 0.18s ease,
+              border-color 0.25s ease,
+              box-shadow 0.25s ease,
+              background 0.25s ease;
+}
+
+.linktree__link:hover {
+  transform: translateY(-2px);
+  background: rgba(var(--color-neutral-800), 0.7);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.3);
+}
+
+/* Icon container */
+.linktree__icon {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 0.5rem;
+  background: rgba(var(--color-neutral-700), 0.5);
+  font-size: 1.25rem;
+  color: rgba(var(--color-neutral-200), 1);
+  transition: background 0.25s ease, color 0.25s ease;
+}
+
+/* Text group */
+.linktree__text {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.linktree__text strong {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: rgba(var(--color-neutral-100), 1);
+}
+
+.linktree__text small {
+  font-size: 0.75rem;
+  color: rgba(var(--color-neutral-400), 1);
+  line-height: 1.4;
+  margin-top: 0.1rem;
+}
+
+/* Arrow indicator */
+.linktree__arrow {
+  flex-shrink: 0;
+  font-size: 1rem;
+  color: rgba(var(--color-neutral-500), 1);
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.linktree__link:hover .linktree__arrow {
+  transform: translateX(3px);
+  color: rgba(var(--color-primary-400), 1);
+}
+
+/* --- Per-platform accents on hover --- */
+.linktree__link--chapter:hover {
+  border-color: rgba(var(--color-primary-500), 0.6);
+}
+.linktree__link--chapter:hover .linktree__icon {
+  background: rgba(var(--color-primary-500), 0.2);
+  color: rgba(var(--color-primary-400), 1);
+}
+
+.linktree__link--facebook:hover {
+  border-color: rgba(66, 103, 178, 0.6);
+}
+.linktree__link--facebook:hover .linktree__icon {
+  background: rgba(66, 103, 178, 0.2);
+  color: #4267B2;
+}
+
+.linktree__link--fetlife:hover {
+  border-color: rgba(204, 0, 51, 0.5);
+}
+.linktree__link--fetlife:hover .linktree__icon {
+  background: rgba(204, 0, 51, 0.15);
+  color: #CC0033;
+}
+
+.linktree__link--x:hover {
+  border-color: rgba(255, 255, 255, 0.35);
+}
+.linktree__link--x:hover .linktree__icon {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.linktree__link--email:hover {
+  border-color: rgba(var(--color-primary-400), 0.5);
+}
+.linktree__link--email:hover .linktree__icon {
+  background: rgba(var(--color-primary-500), 0.15);
+  color: rgba(var(--color-primary-400), 1);
+}
+
+/* CTA link – slightly more prominent */
+.linktree__link--cta {
+  border-color: rgba(var(--color-primary-500), 0.3);
+  background: rgba(var(--color-primary-900), 0.25);
+}
+.linktree__link--cta:hover {
+  border-color: rgba(var(--color-primary-500), 0.65);
+  background: rgba(var(--color-primary-900), 0.4);
+  box-shadow: 0 6px 28px rgba(var(--color-primary-500), 0.15);
+}
+.linktree__link--cta .linktree__icon {
+  background: rgba(var(--color-primary-500), 0.15);
+}
+
+/* Footer note */
+.linktree__footer {
+  text-align: center;
+  font-size: 0.7rem;
+  color: rgba(var(--color-neutral-500), 0.7);
+  margin-top: 1.5rem;
+  line-height: 1.6;
+}
