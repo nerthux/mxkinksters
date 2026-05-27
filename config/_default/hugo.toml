@@ -6,7 +6,7 @@ theme = "blowfish"
 # Controls absolute URLs in sitemap.xml, RSS, robots.txt and Open Graph
 # tags. Preview builds override it via `hugo --baseURL` (see build.sh).
 baseURL = "https://www.mxkinksters.com/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

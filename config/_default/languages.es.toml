@@ -1,14 +1,14 @@
 disabled = false
-locale = "en"
-label = "English"
+locale = "es-mx"
+label = "Español (México)"
 weight = 1
 title = "MxKinksters"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "ES"
+  isoCode = "es-mx"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "2 de January de 2006"
   description = "Tu guía confiable para explorar el BDSM y el kink en Tijuana"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"

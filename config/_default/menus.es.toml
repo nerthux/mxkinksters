@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Empezar"
+  pageRef = "empezar"
+  weight = 2
+
+[[main]]
   name = "Manifiesto"
   pageRef = "manifiesto"
   weight = 5
@@ -20,32 +25,10 @@
   pageRef = "blog"
   weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
+[[main]]
+  name = "Eventos"
+  pageRef = "eventos"
+  weight = 15
 
 [[main]]
   name = "Hubs"
@@ -53,15 +36,32 @@
   weight = 20
 
 [[main]]
+  name = "Comunidad"
+  pageRef = "comunidad"
+  weight = 25
+
+[[main]]
+  name = "Chapter"
+  pageRef = "chapter"
+  weight = 26
+
+[[main]]
   name = "Tijuana"
   pageRef = "tijuana"
   weight = 30
+
 
 [[main]]
   name = "Reseñas"
   parent = "Tijuana"
   pageRef = "tijuana/resenas"
   weight = 40
+
+[[main]]
+  name = "Newsletter"
+  pageRef = "newsletter"
+  weight = 50
+
 
 #[[main]]
 #  name = "Categories"
