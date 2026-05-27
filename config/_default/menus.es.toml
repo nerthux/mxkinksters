@@ -20,21 +20,24 @@
   pageRef = "manifiesto"
   weight = 5
 
+# --- Blog (dropdown: Blog + Hubs) ---
 [[main]]
   name = "Blog"
   pageRef = "blog"
   weight = 10
 
 [[main]]
+  name = "Hubs"
+  parent = "Blog"
+  pageRef = "hubs"
+  weight = 11
+
+[[main]]
   name = "Eventos"
   pageRef = "eventos"
   weight = 15
 
-[[main]]
-  name = "Hubs"
-  pageRef = "hubs"
-  weight = 20
-
+# --- Comunidad (dropdown: Comunidad + Chapter) ---
 [[main]]
   name = "Comunidad"
   pageRef = "comunidad"
@@ -42,6 +45,7 @@
 
 [[main]]
   name = "Chapter"
+  parent = "Comunidad"
   pageRef = "chapter"
   weight = 26
 
@@ -50,21 +54,13 @@
   pageRef = "tijuana"
   weight = 30
 
-
 [[main]]
   name = "Reseñas"
   parent = "Tijuana"
   pageRef = "tijuana/resenas"
-  weight = 40
-
-[[main]]
-  name = "Newsletter"
-  pageRef = "newsletter"
-  weight = 50
+  weight = 31
 
 [[main]]
   name = "Contacto"
   pageRef = "contacto"
   weight = 55
-
-
