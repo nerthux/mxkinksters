@@ -30,38 +30,35 @@ Envíanos tus datos usando el formulario de abajo o escribiéndonos directamente
 
 Completa este formulario para enviarnos la información de tu propuesta. Los datos se envían de forma confidencial y segura.
 
-<div class="my-8 max-w-xl mx-auto p-8 rounded-2xl bg-neutral-900 border border-neutral-800 shadow-xl">
-  <form action="https://formspree.io/f/xwvzwwrk" method="POST" class="space-y-6">
+<div class="chapter-form-wrapper">
+  <form action="https://formspree.io/f/xwvzwwrk" method="POST" class="chapter-form">
     
     <div>
-      <label for="email" class="block text-sm font-semibold text-neutral-300 mb-2">Tu Correo Electrónico</label>
+      <label for="email" class="chapter-form__label">Tu Correo Electrónico</label>
       <input 
         type="email" 
         name="email" 
         id="email" 
         required 
         placeholder="ejemplo@correo.com" 
-        class="w-full px-4 py-3 rounded-lg bg-neutral-950 border border-neutral-800 text-neutral-100 placeholder-neutral-600 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
+        class="chapter-form__input"
       />
     </div>
 
     <div>
-      <label for="message" class="block text-sm font-semibold text-neutral-300 mb-2">Mensaje de tu Propuesta</label>
+      <label for="message" class="chapter-form__label">Mensaje de tu Propuesta</label>
       <textarea 
         name="message" 
         id="message" 
         rows="5" 
         required 
         placeholder="Cuéntanos de qué ciudad eres, por qué te gustaría abrir un chapter local y si tienes experiencia previa organizando eventos o en la escena kink." 
-        class="w-full px-4 py-3 rounded-lg bg-neutral-950 border border-neutral-800 text-neutral-100 placeholder-neutral-600 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all resize-y"
+        class="chapter-form__input chapter-form__textarea"
       ></textarea>
     </div>
 
     <div>
-      <button 
-        type="submit" 
-        class="w-full py-3 bg-primary text-black font-bold rounded-lg hover:bg-primary-600 transition-colors shadow-md text-center"
-      >
+      <button type="submit" class="chapter-form__submit">
         Enviar Solicitud
       </button>
     </div>
