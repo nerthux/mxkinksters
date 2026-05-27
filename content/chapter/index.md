@@ -31,40 +31,21 @@ Envíanos tus datos usando el formulario de abajo o escribiéndonos directamente
 Completa este formulario para enviarnos la información de tu propuesta. Los datos se envían de forma confidencial y segura.
 
 <div class="chapter-form-wrapper">
-  <form action="https://formspree.io/f/xwvzwwrk" method="POST" class="chapter-form">
-    
-    <div>
-      <label for="email" class="chapter-form__label">Tu Correo Electrónico</label>
-      <input 
-        type="email" 
-        name="email" 
-        id="email" 
-        required 
-        placeholder="ejemplo@correo.com" 
-        class="chapter-form__input"
-      />
-    </div>
-
-    <div>
-      <label for="message" class="chapter-form__label">Mensaje de tu Propuesta</label>
-      <textarea 
-        name="message" 
-        id="message" 
-        rows="5" 
-        required 
-        placeholder="Cuéntanos de qué ciudad eres, por qué te gustaría abrir un chapter local y si tienes experiencia previa organizando eventos o en la escena kink." 
-        class="chapter-form__input chapter-form__textarea"
-      ></textarea>
-    </div>
-
-    <div>
-      <button type="submit" class="chapter-form__submit">
-        Enviar Solicitud
-      </button>
-    </div>
-
-  </form>
+<form action="https://formspree.io/f/xwvzwwrk" method="POST" class="chapter-form">
+<div>
+<label for="email" class="chapter-form__label">Tu Correo Electrónico</label>
+<input type="email" name="email" id="email" required placeholder="ejemplo@correo.com" class="chapter-form__input" />
 </div>
+<div>
+<label for="message" class="chapter-form__label">Mensaje de tu Propuesta</label>
+<textarea name="message" id="message" rows="5" required placeholder="Cuéntanos de qué ciudad eres, por qué te gustaría abrir un chapter local y si tienes experiencia previa organizando eventos o en la escena kink." class="chapter-form__input chapter-form__textarea"></textarea>
+</div>
+<div>
+<button type="submit" class="chapter-form__submit">Enviar Solicitud</button>
+</div>
+</form>
+</div>
+
 
 ---
 
