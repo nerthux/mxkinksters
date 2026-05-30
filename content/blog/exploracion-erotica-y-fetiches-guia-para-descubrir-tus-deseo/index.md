@@ -14,21 +14,6 @@ Si estás leyendo esto desde Tijuana, el contexto local añade una capa adiciona
 
 ---
 
-## Tabla de contenidos
-
-1. [¿Qué es un fetiche? Desmontando mitos desde el principio](#qué-es-un-fetiche-desmontando-mitos-desde-el-principio)
-2. [¿Los fetiches son normales? Lo que dice la investigación](#los-fetiches-son-normales-lo-que-dice-la-investigación)
-3. [Tipos de fetiches y kinks: un mapa para orientarte](#tipos-de-fetiches-y-kinks-un-mapa-para-orientarte)
-4. [¿Cómo saber si algo es un fetiche, una fantasía o una preferencia?](#cómo-saber-si-algo-es-un-fetiche-una-fantasía-o-una-preferencia)
-5. [El papel del consentimiento en la exploración erótica](#el-papel-del-consentimiento-en-la-exploración-erótica)
-6. [Primeros pasos para explorar de forma segura](#primeros-pasos-para-explorar-de-forma-segura)
-7. [Recursos en Tijuana para la exploración erótica informada](#recursos-en-tijuana-para-la-exploración-erótica-informada)
-8. [Cómo hablar de tus deseos con una pareja o compañero](#cómo-hablar-de-tus-deseos-con-una-pareja-o-compañero)
-9. [Cuándo buscar apoyo profesional (y cómo encontrarlo sin estigma)](#cuándo-buscar-apoyo-profesional-y-cómo-encontrarlo-sin-estigma)
-10. [Comunidad kink en Tijuana: dar el primer paso sin exponerte](#comunidad-kink-en-tijuana-dar-el-primer-paso-sin-exponerte)
-
----
-
 ## ¿Qué es un fetiche? Desmontando mitos desde el principio
 
 Un **fetiche**, en el contexto de la sexualidad, es una atracción erótica intensa hacia un objeto, parte del cuerpo, material o situación que no forma parte de la excitación sexual "normativa" convencional. Algunos ejemplos comunes incluyen el cuero, el látex, el calzado, las ataduras (conocidas en el entorno kink como *bondage*), los roles de poder, los uniformes o incluso ciertas texturas y olores.

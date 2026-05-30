@@ -16,22 +16,6 @@ Esta guía es lo que anoté en el proceso. Información clara, sin juicios, a tu
 
 ---
 
-## Tabla de contenidos
-
-1. [¿Qué es el BDSM? Una definición clara para principiantes](#que-es-el-bdsm)
-2. [¿Cómo saber si el BDSM es para mí? Una autoevaluación honesta](#como-saber-si-el-bdsm-es-para-mi)
-3. [Los pilares del BDSM: SSC y RACK explicados](#pilares-del-bdsm)
-4. [Roles en el BDSM: dominantes, sumisos y switches](#roles-en-el-bdsm)
-5. [Mitos comunes sobre el BDSM que frenan a los principiantes](#mitos-comunes)
-6. [Cómo empezar en BDSM: pasos concretos para dar el primer paso](#como-empezar-en-bdsm)
-7. [Comunicación y negociación: la base de cualquier práctica](#comunicacion-y-negociacion)
-8. [Seguridad física y emocional: lo que nadie te cuenta](#seguridad-fisica-y-emocional)
-9. [La comunidad BDSM en Tijuana: cómo encontrar tu lugar](#comunidad-bdsm-tijuana)
-10. [Recursos para seguir aprendiendo](#recursos-para-seguir-aprendiendo)
-11. [Preguntas frecuentes](#preguntas-frecuentes)
-
----
-
 ## ¿Qué es el BDSM? Una definición clara para principiantes {#que-es-el-bdsm}
 
 BDSM es un acrónimo que agrupa varias prácticas y dinámicas eróticas entre adultos. Las letras representan:

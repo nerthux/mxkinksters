@@ -20,21 +20,6 @@ Este glosario es lo que yo quería encontrar cuando empecé: definiciones claras
 
 ---
 
-## Tabla de Contenidos
-
-1. [¿Qué es el BDSM? Desglosando el acrónimo](#que-es-el-bdsm)
-2. [Consentimiento: el vocabulario que no es opcional](#consentimiento-vocabulario)
-3. [Roles en el BDSM: Dominante, Sumiso y Switch](#roles-bdsm)
-4. [Tipos de dinámicas y relaciones kink](#dinamicas-relaciones-kink)
-5. [Técnicas y prácticas: términos que encontrarás seguido](#tecnicas-practicas)
-6. [Vocabulario de eventos y comunidad](#vocabulario-eventos-comunidad)
-7. [¿Qué es un Munch? La confusión más común del glosario](#que-es-un-munch)
-8. [Cuidado y bienestar: aftercare y gestión de riesgos](#aftercare-gestion-riesgos)
-9. [Términos de identidad y orientación en la comunidad kink](#identidad-orientacion-kink)
-10. [FAQ: Preguntas frecuentes sobre terminología kink](#faq)
-
----
-
 ## ¿Qué es el BDSM? Desglosando el acrónimo {#que-es-el-bdsm}
 
 BDSM es un acrónimo que agrupa varias prácticas distintas bajo una misma etiqueta. Se compone de tres pares de conceptos:

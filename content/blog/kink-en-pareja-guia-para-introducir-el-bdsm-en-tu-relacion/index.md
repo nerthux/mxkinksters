@@ -10,21 +10,6 @@ draft = false
 
 ## Kink en Pareja: Guía Práctica para Introducir el BDSM en tu Relación
 
-## Tabla de contenidos
-
-- [¿Por qué explorar el BDSM en pareja puede fortalecer tu relación?](#por-que-explorar-el-bdsm-en-pareja)
-- [Antes de empezar: ¿están listos los dos?](#antes-de-empezar-estan-listos-los-dos)
-- [Cómo hablar de kink sin que la conversación se sienta rara](#como-hablar-de-kink)
-- [Ejercicios de negociación para parejas que empiezan en BDSM](#ejercicios-de-negociacion)
-- [Establecer límites claros: la base de todo juego seguro](#establecer-limites-claros)
-- [Palabras seguras y señales de pausa: cómo usarlas y por qué importan](#palabras-seguras-y-senales-de-pausa)
-- [El aftercare: el cuidado posterior que nadie te cuenta](#el-aftercare)
-- [Talleres y recursos en Tijuana para parejas que quieren aprender juntos](#talleres-y-recursos-en-tijuana)
-- [Errores frecuentes que cometen las parejas al iniciar en el kink](#errores-frecuentes)
-- [Preguntas frecuentes](#preguntas-frecuentes)
-
----
-
 Quizás lo han conversado de noche, entre risas nerviosas, o tal vez uno de los dos lo mencionó casi de pasada y el otro no supo qué responder. A mucha gente en la comunidad de Tijuana le pasó igual. La curiosidad por explorar el BDSM no aparece de la nada, y tampoco desaparece si se ignora. Lo que sí puede desaparecer es la oportunidad de conectar de una manera más profunda con su pareja.
 
 Escribí esta guía para parejas que sienten curiosidad pero no saben por dónde empezar. No es un manual de técnicas avanzadas ni una lista de cosas que "deben" probar. Es la hoja de ruta que me hubiera gustado tener para explorar con honestidad, respeto y sin prisa.

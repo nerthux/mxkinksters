@@ -16,21 +16,6 @@ Te cuento algo: el voyeurismo y el exhibicionismo son dos de los kinks más comu
 
 ---
 
-## Tabla de contenidos
-
-1. [¿Qué son el voyeurismo y el exhibicionismo en el kink?](#qué-son-el-voyeurismo-y-el-exhibicionismo-en-el-kink)
-2. [La línea que no se cruza: consentimiento como condición, no como opción](#la-línea-que-no-se-cruza-consentimiento-como-condición-no-como-opción)
-3. [¿Cómo funciona esto en la práctica? Negociación y acuerdos explícitos](#cómo-funciona-esto-en-la-práctica-negociación-y-acuerdos-explícitos)
-4. [Voyeurismo y exhibicionismo en espacios digitales](#voyeurismo-y-exhibicionismo-en-espacios-digitales)
-5. [Voyeurismo y exhibicionismo en eventos y espacios kink](#voyeurismo-y-exhibicionismo-en-eventos-y-espacios-kink)
-6. [Aspectos legales en México: lo que deberías saber](#aspectos-legales-en-méxico-lo-que-deberías-saber)
-7. [Cómo explorar si eres nuevo en esto](#cómo-explorar-si-eres-nuevo-en-esto)
-8. [El voyeurismo y el exhibicionismo dentro de un marco BDSM más amplio](#el-voyeurismo-y-el-exhibicionismo-dentro-de-un-marco-bdsm-más-amplio)
-9. [Comunidad, recursos y próximos pasos en Tijuana](#comunidad-recursos-y-próximos-pasos-en-tijuana)
-10. [Preguntas frecuentes](#preguntas-frecuentes)
-
----
-
 ## ¿Qué son el voyeurismo y el exhibicionismo en el kink?
 
 Empecemos con las definiciones, porque si no partimos de un lenguaje común, nos perdemos.

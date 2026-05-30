@@ -16,22 +16,6 @@ Esta guía está pensada para personas curiosas, principiantes y quienes ya expl
 
 ---
 
-## Tabla de Contenidos
-
-1. [¿Qué es la comunidad kink y por qué existe en Tijuana?](#que-es-la-comunidad-kink)
-2. [Dónde está la comunidad kink en Tijuana: plataformas y espacios](#donde-esta-la-comunidad)
-3. [Grupos de Facebook y redes sociales: cómo usarlos con seguridad](#grupos-facebook)
-4. [FetLife: la red social kink por excelencia](#fetlife)
-5. [Qué es un Munch y por qué es el mejor primer paso](#que-es-un-munch)
-6. [Cómo integrarte a la comunidad sin cometer errores comunes](#como-integrarte)
-7. [Etiqueta comunitaria: qué hacer y qué evitar](#etiqueta)
-8. [Seguridad y privacidad: lo que necesitas saber antes de participar](#seguridad-privacidad)
-9. [Inclusividad en la comunidad kink tijuanense](#inclusividad)
-10. [Cómo MxKinksters te acompaña en este proceso](#mxkinksters)
-11. [Preguntas frecuentes](#faq)
-
----
-
 ## ¿Qué es la comunidad kink y por qué existe en Tijuana? {#que-es-la-comunidad-kink}
 
 La comunidad kink es una red de personas que comparten interés en prácticas eróticas o de juego de poder fuera de lo convencional: desde el bondage (uso de cuerdas, esposas u otros medios para restringir el movimiento) hasta el voyeurismo (excitación derivada de observar), el fetichismo (atracción intensa hacia objetos, materiales o partes del cuerpo específicas) y dinámicas de dominación y sumisión. Lo que une a esta comunidad no es una sola práctica, sino una filosofía compartida: el consentimiento informado, la comunicación clara y el cuidado mutuo.
