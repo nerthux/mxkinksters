@@ -49,8 +49,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [ageGate]
   enable = true
-  message = "El contenido de este sitio es sólo para mayores de 18 años. No pasa nada malo en este sitio, no hay nada malo con explorar y tener curiosidad, pero este es un sitio para adultos."
-  acceptLabel = "Tengo 18 años o más"
+  message = "Contenido solo para mayores de 18 años. Explorar y sentir curiosidad está bien, pero necesitas la edad legal. El consentimiento es la base: este sitio es para prácticas consensuadas entre adultos."
+  acceptLabel = "Soy mayor de 18 años y tengo capacidad de dar consentimiento"
 
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
