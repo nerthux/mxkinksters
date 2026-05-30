@@ -21,6 +21,7 @@
     {{ $brandClass = "section-tijuana" }}
   {{ end }}
   <body class="{{ $bodyLayout }} {{ $bodyColor }} {{ if site.Params.enableStyledScrollbar | default true }}{{ $bodyScrollbar }}{{ end }} {{ $brandClass }}">
+    {{- partial "age-gate.html" . -}}
     <div id="the-top" class="absolute flex self-center">
       <a
         class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
