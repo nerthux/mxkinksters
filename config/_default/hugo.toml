@@ -16,7 +16,14 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
+# Use git commit history for lastmod (powers showDateUpdated and sitemap <lastmod>).
+# Requires full git history at build time (see note for CI/Cloudflare).
+enableGitInfo = true
+
 enableEmoji = true
+
+[frontmatter]
+  lastmod = [':git', 'lastmod', 'date', 'publishDate']
 
 # googleAnalytics = "G-XXXXXXXXX"
 
