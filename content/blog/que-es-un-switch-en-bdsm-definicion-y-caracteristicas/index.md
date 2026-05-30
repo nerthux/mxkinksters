@@ -10,7 +10,7 @@ series = ["Glosario Kink y BDSM"]
 draft = true
 +++
 
-# ¿Qué es un Switch en BDSM? Definición, Características y Consejos Prácticos
+## ¿Qué es un Switch en BDSM? Definición, Características y Consejos Prácticos
 
 Cuando empecé a explorar el BDSM, me topé rápido con la misma narrativa: hay quienes dominan y quienes se someten. Punto. Como si todos llegáramos a este mundo con un sello de fábrica que dijera "Top" o "Bottom" y no hubiera nada más que decir.
 

@@ -8,7 +8,7 @@ series = ["Curso BDSM 101 para principiantes"]
 draft = false
 +++
 
-# Errores comunes al iniciar en el BDSM (y cómo evitarlos desde el principio)
+## Errores comunes al iniciar en el BDSM (y cómo evitarlos desde el principio)
 
 Dar los primeros pasos en el BDSM puede sentirse como querer aprender a nadar lanzándose al mar abierto. La emoción es real, pero sin preparación te puedes hundir rápido. Cuando yo empecé a acercarme a la comunidad en Tijuana, quería avanzar rápido y cometí errores que se pudieron haber evitado. La mayoría de las veces, cuando alguien la caga al inicio no es por malas intenciones, sino por no saber qué pasos dar primero. Anoté aquí los tropiezos más comunes para que no tengas que aprenderlos a la mala.
 

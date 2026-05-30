@@ -10,7 +10,7 @@ series = ["Glosario Kink y BDSM"]
 draft = false
 +++
 
-# ¿Qué es un Dungeon en BDSM? Tipos, Usos y lo que Debes Saber Antes de Entrar
+## ¿Qué es un Dungeon en BDSM? Tipos, Usos y lo que Debes Saber Antes de Entrar
 
 Cuando escuché la palabra *dungeon* por primera vez en el contexto del BDSM, mi cabeza fue directo a una mazmorra medieval. Cadenas en la pared, antorchas, quizás un dragón en el fondo. No voy a mentirte: tardé un rato en entender que el concepto real era bastante diferente — y bastante más interesante — que esa imagen de fantasía épica.
 
@@ -72,7 +72,7 @@ Cada espacio tiene sus propias reglas escritas. Pero hay un piso común que se s
 
 **Privacidad.** Lo que se ve en el dungeon se queda en el dungeon. Muchas personas en estos espacios cuidan su identidad por razones personales, laborales o familiares. Documentar, fotografiar o identificar a otras personas sin consentimiento explícito es una violación grave de la confianza comunitaria.
 
-Si quieres saber qué tipo de rol podrías estar llevando en una dinámica dentro de un dungeon — o si no sabes si eres más dominante, sumiso/a o algo intermedio — el artículo sobre [¿Qué es un Switch en BDSM? Definición y Características](/blog/que-es-un-switch-en-bdsm-definicion-y-caracteristicas/) puede darte contexto útil.
+Si quieres saber qué tipo de rol podrías estar llevando en una dinámica dentro de un dungeon — o si no sabes si eres más dominante, sumiso/a o algo intermedio — entender los roles de dominante, sumiso/a y switch puede darte contexto útil.
 
 ---
 

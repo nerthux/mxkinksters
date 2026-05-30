@@ -8,7 +8,7 @@ series = ["Curso BDSM 101 para Principiantes"]
 draft = false
 +++
 
-# Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura
+## Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura
 
 ¿Sientes curiosidad por el BDSM pero no sabes por dónde empezar? Yo tampoco sabía. Las preguntas que me hacía eran las mismas que probablemente traes tú: ¿es esto normal? ¿Es seguro? ¿Cómo sé si es para mí? Tuve que buscar mucho, contrastar fuentes y perder tiempo en información que no me servía de nada.
 

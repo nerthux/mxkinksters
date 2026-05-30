@@ -1,5 +1,6 @@
 ---
 title: "Club Escape en Tijuana: Una joya escondida de la escena swinger"
+meta_title: "Club Escape Tijuana: reseña del club swinger | MxKinksters"
 description: "Analizamos a fondo este club social swinger privado en Tijuana. ¿Cómo entrar, qué esperar de su formato BYOB y cómo es el ambiente?"
 summary: "Analizamos a fondo este club social swinger privado en Tijuana. ¿Cómo entrar, qué esperar de su formato BYOB y cómo es el ambiente?"
 showSummary: true

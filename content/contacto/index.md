@@ -1,6 +1,7 @@
 ---
 title: "Contacto y Redes"
-description: "Todos los enlaces oficiales de MxKinksters: chapters, redes sociales y correo de contacto."
+meta_title: "Contacto y redes oficiales de MxKinksters | Kink en TJ"
+description: "Todos los enlaces oficiales de MxKinksters: chapters, redes sociales y correo de contacto. Conecta con la comunidad kink de Tijuana y México."
 showHero: false
 showBreadcrumbs: false
 showDate: false

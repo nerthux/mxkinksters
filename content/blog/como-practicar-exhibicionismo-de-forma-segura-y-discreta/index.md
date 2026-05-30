@@ -10,7 +10,7 @@ series = ["Voyeurismo y Exhibicionismo"]
 draft = false
 +++
 
-# Cómo Practicar Exhibicionismo de Forma Segura y Discreta
+## Cómo Practicar Exhibicionismo de Forma Segura y Discreta
 
 Hay algo que poca gente dice en voz alta: el exhibicionismo, la excitación de ser visto, es uno de los intereses más comunes dentro del kink. Y también uno de los más mal entendidos. La mayoría de la información que encuentras mezcla lo que es una práctica ética y consensuada con comportamientos que directamente son acoso. Eso genera confusión, y la confusión genera miedo.
 

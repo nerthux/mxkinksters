@@ -1,6 +1,6 @@
 +++
 title = "Central de Exploración: Todo sobre los Munches en Tijuana"
-meta_title = "Guía Completa de Munches en Tijuana | MxKinksters"
+meta_title = "Guía completa de los Munches en Tijuana | MxKinksters"
 date = 2026-05-15
 slug = "guia-completa-munches-tijuana"
 description = "Este es mi índice personal (Página Pilar) donde agrupo todas mis investigaciones, guías de etiqueta y hallazgos sobre los eventos sociales kink en la ciudad."
@@ -8,7 +8,7 @@ series = ["Guía de Munches en Tijuana"]
 draft = false
 +++
 
-# Central de Exploración: Todo sobre los Munches en Tijuana
+## Central de Exploración: Todo sobre los Munches en Tijuana
 
 Cuando empecé a mapear el territorio de la comunidad kink local, me di cuenta de que la información estaba regada por todas partes (o simplemente no existía). Por eso creé esta **Página Pilar**: piensa en ella como el índice principal de mi bitácora. 
 
@@ -25,7 +25,7 @@ Antes de dar el primer paso, me pareció clave entender de qué demonios estába
 - 📖 **[¿Qué es realmente un Munch? El eslabón perdido de la comunidad Kink](/blog/que-es-un-munch-origen-del-termino/)**
 En este artículo desmiento el mito de "ser un munch", te cuento el dato histórico de dónde salió la palabra en los años 90s, y explico por qué las investigaciones dicen que estos eventos sociales (sin actividad sexual) son el cimiento de cualquier comunidad sana.
 
-- 📖 **[¿Munch de comida vs Munch BDSM? Por qué la confusión](/blog/munch-de-comida-vs-munch-bdsm-por-que-la-confusion/)**
+- 📖 **¿Munch de comida vs Munch BDSM? Por qué la confusión**
 *(Próximamente)* Un apunte rápido sobre por qué usar términos en inglés a veces nos complica la vida en español y cómo diferenciar un evento casual de una fiesta.
 
 ---
@@ -43,10 +43,10 @@ Aquí comparto la lista de reglas "no negociables" que me grabé en la mente (co
 
 La teoría está muy bien, pero ¿a dónde vamos en Tijuana? Como la escena aquí todavía está medio oculta, me he dado a la tarea de buscar y verificar los eventos locales para que no tengas que ir a ciegas.
 
-- 🗺️ **[Directorio Actualizado: Cómo encontrar Munches en Tijuana](/blog/como-encontrar-munches-en-tijuana-directorio-actualizado/)**
+- 🗺️ **Directorio Actualizado: Cómo encontrar Munches en Tijuana**
 *(Próximamente)* Mi lista de lugares y organizaciones que hacen eventos públicos, junto con los semáforos de seguridad que aplico antes de recomendarlos.
 
-- 🕵️ **[Reseñas y Verificación de Eventos](/blog/munch-tijuana-resenas-y-verificacion-de-eventos/)**
+- 🕵️ **Reseñas y Verificación de Eventos**
 *(Próximamente)* Te explico exactamente qué preguntas le hago a los organizadores para saber si su evento es legítimo o si es mejor pasar de largo.
 
 ---

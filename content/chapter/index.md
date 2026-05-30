@@ -1,6 +1,7 @@
 ---
 title: "Crea tu propio Chapter Kinkster"
-description: "Únete a la red nacional de MxKinksters y funda una comunidad sex-positive o grupo de munches en tu ciudad."
+meta_title: "Crea tu Chapter Kinkster | Red nacional MxKinksters"
+description: "Únete a la red nacional de MxKinksters y funda una comunidad sex-positive o grupo de munches en tu ciudad con nuestro apoyo, diseño y difusión."
 showHero: true
 heroStyle: "big"
 ---

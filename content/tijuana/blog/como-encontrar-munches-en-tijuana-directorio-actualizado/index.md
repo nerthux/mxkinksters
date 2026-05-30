@@ -8,7 +8,7 @@ series = ["Guía de Munches en Tijuana"]
 draft = true
 +++
 
-# Cómo encontrar munches en Tijuana: directorio actualizado
+## Cómo encontrar munches en Tijuana: directorio actualizado
 
 Buscar un munch en Tijuana puede sentirse como intentar encontrar una puerta sin saber que existe la pared. La información está fragmentada, los grupos son discretos por razones válidas, y la falta de un directorio centralizado hace que muchas personas simplemente abandonen la búsqueda antes de empezar. Si llevas semanas buscando "munch Tijuana" en Google sin resultado claro, este artículo es para ti.
 
@@ -52,7 +52,7 @@ Una vez dentro, encontrarás anuncios de eventos, conversaciones sobre práctica
 - Busca grupos con términos como "Tijuana", "Baja California" o "Tijuana-San Diego".
 - Revisa los eventos publicados en esos grupos.
 
-FetLife también tiene una sección de eventos donde organizadores locales publican munches con fechas y ubicaciones generales. La verificación de esos eventos —si el organizador tiene reseñas positivas, si el espacio es seguro— es algo que tratamos en profundidad en nuestra guía de [reseñas y verificación de eventos en Tijuana](/blog/munch-tijuana-resenas-y-verificacion-de-eventos/).
+FetLife también tiene una sección de eventos donde organizadores locales publican munches con fechas y ubicaciones generales. La verificación de esos eventos —si el organizador tiene reseñas positivas, si el espacio es seguro— es algo que tratamos en profundidad en nuestras [reseñas de espacios kink en Tijuana](/tijuana/resenas/).
 
 ### Grupos en Telegram y WhatsApp
 
@@ -118,7 +118,7 @@ El primer mensaje en un grupo o el primer formulario de ingreso pueden dar miedo
 3. **No compartas información personal de inmediato:** Tu nombre real, lugar de trabajo o fotos identificables no son necesarios en una primera interacción.
 4. **Haz preguntas específicas:** En lugar de "¿cómo entro a la comunidad?", pregunta "¿cuándo es el próximo munch y cómo puedo asistir?"
 
-Para una preparación más completa, la [guía completa para principiantes sobre munches en Tijuana](/blog/munch-tijuana-guia-completa-para-principiantes-sobre-eventos/) cubre desde qué llevar hasta cómo manejar una conversación incómoda.
+Para una preparación más completa, la guía [qué esperar en tu primer munch](/blog/que-esperar-en-tu-primer-munch-guia-de-etiqueta/) cubre desde qué llevar hasta cómo manejar una conversación incómoda.
 
 ---
 

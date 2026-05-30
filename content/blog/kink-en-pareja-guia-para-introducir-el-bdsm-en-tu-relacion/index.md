@@ -8,7 +8,7 @@ series = ["Recursos para Parejas Kink"]
 draft = false
 +++
 
-# Kink en Pareja: Guía Práctica para Introducir el BDSM en tu Relación
+## Kink en Pareja: Guía Práctica para Introducir el BDSM en tu Relación
 
 ## Tabla de contenidos
 

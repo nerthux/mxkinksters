@@ -1,6 +1,7 @@
 ---
 title: "Eventos Kink & Munches"
-description: "Descubre los próximos eventos, munches y talleres de la comunidad kink en Tijuana y todo México."
+meta_title: "Eventos kink y munches en Tijuana y México | MxKinksters"
+description: "Descubre los próximos eventos, munches y talleres de la comunidad kink en Tijuana y todo México: espacios presenciales seguros para socializar."
 showHero: true
 heroStyle: "big"
 ---

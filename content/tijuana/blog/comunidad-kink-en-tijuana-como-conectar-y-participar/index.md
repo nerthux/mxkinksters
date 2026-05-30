@@ -8,7 +8,7 @@ series = ["Comunidad Kink en Tijuana"]
 draft = false
 +++
 
-# Comunidad Kink en Tijuana: Cómo Conectar y Participar de Forma Segura
+## Comunidad Kink en Tijuana: Cómo Conectar y Participar de Forma Segura
 
 Dar el primer paso hacia una comunidad kink puede sentirse como caminar en la oscuridad: no sabes exactamente qué esperar, a quién le puedes confiar tus preguntas, ni si habrá un lugar que te reciba sin juzgarte. Si estás leyendo esto desde Tijuana, probablemente ya sabes que la ciudad tiene una reputación muy particular, pero esa reputación raramente incluye espacios donde el deseo se explore con respeto, consenso y cuidado real. Eso no significa que esos espacios no existan. Significa que han operado en silencio, y que encontrarlos requiere saber dónde mirar.
 
@@ -125,7 +125,7 @@ Un munch es simplemente un grupo de personas que se reúnen a platicar. La conve
 - **Verificar que una persona o evento es legítimo** antes de avanzar hacia espacios más privados.
 - **Romper el hielo** si eres nuevo o nueva en la comunidad.
 
-Si estás pensando en tu primer paso hacia la comunidad kink en Tijuana, un munch es, sin duda, el lugar para empezar. Puedes encontrar información sobre eventos actuales en nuestra guía [Munch Tijuana: Guía completa para principiantes sobre eventos kink](/blog/munch-tijuana-guia-completa-para-principiantes-sobre-eventos/).
+Si estás pensando en tu primer paso hacia la comunidad kink en Tijuana, un munch es, sin duda, el lugar para empezar. Puedes encontrar información sobre qué esperar en nuestra guía [Qué esperar en tu primer munch: guía de etiqueta](/blog/que-esperar-en-tu-primer-munch-guia-de-etiqueta/).
 
 ---
 
@@ -171,7 +171,7 @@ Cada comunidad tiene sus normas no escritas. En la comunidad kink, estas normas 
 
 Un espacio kink responsable tiene reglas claras, personas encargadas de hacerlas cumplir, protocolos para manejar situaciones incómodas y una cultura que prioriza el bienestar de todos sus miembros sobre el placer de unos pocos. Si llegas a un evento o grupo donde las normas son vagas, donde se presiona a los participantes o donde el consentimiento no es un tema central, eso es una señal de alerta (Hack Basilone et al., 2025).
 
-Para profundizar en cómo se negocia el consentimiento de forma efectiva, visita nuestra guía [Consentimiento en BDSM: cómo negociar límites en un taller](/blog/consentimiento-en-bdsm-como-negociar-limites-en-un-taller/).
+Para profundizar en cómo se negocia el consentimiento de forma efectiva, visita nuestro [Curso BDSM 101: guía completa para empezar](/blog/curso-bdsm-101-guia-completa-para-empezar/).
 
 ---
 
@@ -238,9 +238,9 @@ Lo que encontrarás en MxKinksters:
 - **Reseñas de eventos** basadas en testimonios reales de la comunidad, siempre respetando el anonimato de quienes participan.
 - **Un espacio sin presión**: no necesitas registrarte ni compartir datos personales para acceder a la mayor parte del contenido.
 
-Si estás en un punto donde ya tienes claridad sobre los fundamentos del kink y quieres entender mejor cómo funcionan los talleres disponibles en Tijuana, nuestra sección sobre [Talleres de BDSM en Tijuana: The Consent Club – Aprende en persona](/blog/talleres-de-bdsm-en-tijuana-the-consent-club-aprende-en-pers/) puede ser tu próximo paso.
+Si estás en un punto donde ya tienes claridad sobre los fundamentos del kink y quieres entender mejor cómo funcionan los talleres disponibles en Tijuana, nuestra sección de [Eventos Kink & Munches](/eventos/) puede ser tu próximo paso.
 
-Y si todavía estás construyendo tu base de conocimiento sobre el BDSM, el [Curso BDSM 101: Guía Completa para Principiantes en Español](/blog/curso-bdsm-101-guia-completa-para-principiantes-en-espanol/) te ofrece un punto de partida estructurado y accesible.
+Y si todavía estás construyendo tu base de conocimiento sobre el BDSM, el [Curso BDSM 101: Guía Completa para Empezar](/blog/curso-bdsm-101-guia-completa-para-empezar/) te ofrece un punto de partida estructurado y accesible.
 
 ---
 

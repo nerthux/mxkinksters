@@ -1,5 +1,6 @@
 ---
 title: "Club Medusa: El Mito y la Verdad"
+meta_title: "Club Medusa Tijuana: reseña del club swinger | MxKinksters"
 description: "Analizamos a fondo uno de los lugares más mencionados de la ciudad. ¿Es realmente el paraíso kink que prometen o solo una fachada comercial?"
 summary: "Analizamos a fondo uno de los lugares más mencionados de la ciudad. ¿Es realmente el paraíso kink que prometen o solo una fachada comercial?"
 showSummary: true

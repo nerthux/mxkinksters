@@ -1,5 +1,6 @@
 ---
 title: "Newsletter Kinkster"
+meta_title: "Newsletter Kinkster: munches y guías kink | MxKinksters"
 description: "Únete a la comunidad más grande de exploración kink en México. Recibe noticias, guías y convocatorias a munches."
 showHero: true
 heroStyle: "big"

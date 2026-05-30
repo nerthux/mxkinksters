@@ -10,7 +10,7 @@ series = ["Glosario Kink y BDSM"]
 draft = false
 +++
 
-# Glosario Kink y BDSM: Términos Esenciales Explicados
+## Glosario Kink y BDSM: Términos Esenciales Explicados
 
 Recuerdo la primera vez que intenté buscar información sobre BDSM en serio. Abría una página, encontraba un término, buscaba ese término, encontraba tres más que no entendía, y para cuando llegaba a alguna definición útil ya había olvidado por qué empecé. Tenía un chingo de dudas y cada búsqueda me dejaba con más preguntas que respuestas.
 

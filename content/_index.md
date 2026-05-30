@@ -1,6 +1,7 @@
 ---
 title: "MxKinksters — Munches, educación BDSM y comunidad kink en Tijuana"
-description: "Descubre munches en Tijuana, el curso BDSM 101 online y los talleres presenciales The Consent Club. Tu guía confiable para explorar el kink con privacidad, respeto y total confidencialidad."
+meta_title: "MxKinksters | Munches, BDSM y comunidad kink en Tijuana"
+description: "Descubre munches en Tijuana, el curso BDSM 101 online y talleres presenciales The Consent Club. Tu guía para explorar el kink con privacidad y respeto."
 ---
 
 ## ¿Buscas un munch en Tijuana y no sabes por dónde empezar?

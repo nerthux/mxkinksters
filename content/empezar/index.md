@@ -1,6 +1,6 @@
 ---
 title: "Empezar: El Camino del Héroe Kinkster"
-description: "Tu guía paso a paso para explorar tus deseos, fetiches y el BDSM de manera segura, ética y libre de culpa."
+description: "Tu guía paso a paso para explorar tus deseos, fetiches y el BDSM de manera segura, ética y libre de culpa: el Camino del Héroe Kinkster en 5 fases."
 showHero: true
 heroStyle: "big"
 ---

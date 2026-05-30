@@ -8,7 +8,7 @@ series = ["Voyeurismo y Exhibicionismo"]
 draft = false
 +++
 
-# Voyeurismo y Exhibicionismo en el Kink: Guía Ética para Explorar con Consentimiento
+## Voyeurismo y Exhibicionismo en el Kink: Guía Ética para Explorar con Consentimiento
 
 Hay un momento — creo que le pasa a mucha gente — en que te das cuenta de que mirarte a ti mismo en un espejo mientras te vistes es algo que te activa más de lo que esperabas. O que la idea de que alguien te observe, o de observar tú a alguien, dispara algo que no sabes muy bien cómo nombrar. Eso puede generar una mezcla rara: curiosidad mezclada con vergüenza, excitación mezclada con "¿estará bien esto que siento?".
 
@@ -43,7 +43,7 @@ Lo que hace que ambas sean prácticas kink legítimas — y no acoso ni conducta
 
 La literatura académica documenta que el voyeurismo y el exhibicionismo aparecen de forma consistente en estudios sobre la economía libidinal de los entornos digitales y presenciales, mostrando que la "mirada" y la "exposición" son mecanismos fundamentales del deseo humano, no anomalías (Kolenc, 2023). Eso no significa que cualquier forma de mirar o mostrarse sea ética — significa que el impulso en sí es parte del espectro humano, y que lo que importa es el marco en que ocurre.
 
-También vale aclarar algo que se confunde mucho: el voyeurismo y el exhibicionismo no son roles fijos ni exclusivos. Hay personas que disfrutan ambos; hay quienes solo se identifican con uno; hay quienes los exploran en contextos específicos y en otros no. Si quieres entender más sobre cómo los roles en el kink pueden ser fluidos, échale un ojo a [¿Qué es un Switch en BDSM? Definición y Características](/blog/que-es-un-switch-en-bdsm-definicion-y-caracteristicas/), donde se explora justamente eso.
+También vale aclarar algo que se confunde mucho: el voyeurismo y el exhibicionismo no son roles fijos ni exclusivos. Hay personas que disfrutan ambos; hay quienes solo se identifican con uno; hay quienes los exploran en contextos específicos y en otros no. Los roles en el kink pueden ser fluidos: hay personas switch que alternan entre dominar y someterse según el momento y con quién exploran.
 
 ---
 

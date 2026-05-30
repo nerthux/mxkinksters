@@ -1,5 +1,6 @@
 ---
 title: "Manifiesto Kinkster"
+meta_title: "Manifiesto Kinkster: principios sex positive | MxKinksters"
 description: "Nuestra brújula sex positive: placer como derecho, consentimiento como piso, comunicación como proceso. Los pilares que orientan la comunidad kink de Tijuana."
 showHero: true
 heroStyle: "big"

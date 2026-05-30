@@ -10,7 +10,7 @@ series = ["Glosario Kink y BDSM"]
 draft = false
 +++
 
-# ¿Qué es un Brat en BDSM? Comportamiento, Dinámica y Límites Reales
+## ¿Qué es un Brat en BDSM? Comportamiento, Dinámica y Límites Reales
 
 Hay un rol en el BDSM que genera más confusión que cualquier otro que yo haya intentado explicar: el **brat**.
 
@@ -46,7 +46,7 @@ La dinámica entre brat y brat tamer tiene su propio ritmo:
 
 Lo que hace funcionar esta dinámica no es el comportamiento desafiante per se, sino la química específica entre las personas involucradas. No todo dominante quiere lidiar con resistencia. No todo sumiso quiere resistir. Que esta dinámica funcione depende de que ambas partes encuentren satisfacción en ese proceso concreto.
 
-Y esto conecta con algo que mencioné antes sobre los switches en BDSM: los roles no son monolíticos. Alguien puede identificarse como brat en una relación y tener un estilo completamente diferente en otra (Bennett, 2024). Si eso te genera curiosidad, te va a interesar el post sobre [¿Qué es un Switch en BDSM? Definición y Características](/blog/que-es-un-switch-en-bdsm-definicion-y-caracteristicas/).
+Y esto conecta con algo que mencioné antes sobre los switches en BDSM: los roles no son monolíticos. Alguien puede identificarse como brat en una relación y tener un estilo completamente diferente en otra (Bennett, 2024). Si eso te genera curiosidad, vale la pena explorar cómo funcionan los switches en BDSM, personas que alternan entre roles dominantes y sumisos según el contexto.
 
 ---
 

@@ -1,6 +1,6 @@
 +++
 title = "Cómo empezar en BDSM: primeros pasos seguros para principiantes"
-meta_title = "Primeros pasos seguros en BDSM | MxKinksters"
+meta_title = "Cómo empezar en BDSM: primeros pasos seguros | MxKinksters"
 date = 2026-04-20
 slug = "como-empezar-en-bdsm-primeros-pasos-seguros-para-principiant"
 description = "Guía práctica para principiantes que sienten curiosidad por el BDSM: qué significa, cómo identificar tus intereses y cómo explorar con información"
@@ -8,7 +8,7 @@ series = ["Curso BDSM 101 para principiantes"]
 draft = false
 +++
 
-# Cómo empezar en BDSM: primeros pasos seguros para principiantes
+## Cómo empezar en BDSM: primeros pasos seguros para principiantes
 
 Quizás llevas semanas —o meses— con una inquietud que no sabes exactamente cómo nombrar. Sientes curiosidad por el BDSM, pero no sabes por dónde empezar, a quién preguntar ni si lo que sientes es "normal". Cuando yo estuve ahí, me di cuenta de que el interés por el BDSM es mucho más común de lo que el estigma nos hace creer. Pero para no dar saltos a ciegas, necesitaba información.
 

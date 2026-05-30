@@ -8,7 +8,7 @@ series = ["Exploración Erótica y Fetiches"]
 draft = false
 +++
 
-# Exploración Erótica y Fetiches: Guía para Descubrir tus Deseos
+## Exploración Erótica y Fetiches: Guía para Descubrir tus Deseos
 
 Si estás leyendo esto desde Tijuana, el contexto local añade una capa adicional de dificultad. La ciudad tiene una reputación construida sobre el consumo de cuerpos y el trabajo sexual transaccional, no sobre espacios seguros para explorar deseos de forma informada y consensuada. Cuando yo empecé a buscar orientación aquí, no encontré casi nada. Esto es lo que anoté en el proceso.
 

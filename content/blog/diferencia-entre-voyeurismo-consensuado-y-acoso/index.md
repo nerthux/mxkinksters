@@ -10,7 +10,7 @@ series = ["Voyeurismo y Exhibicionismo"]
 draft = false
 +++
 
-# Voyeurismo Consensuado vs. Acoso: La Línea que No Tiene Grises
+## Voyeurismo Consensuado vs. Acoso: La Línea que No Tiene Grises
 
 Hay una pregunta que me llega seguido, de distintas formas pero con el mismo fondo: *¿cómo sé si lo que me gusta es voyeurismo o si estoy haciendo algo que no está bien?*
 
