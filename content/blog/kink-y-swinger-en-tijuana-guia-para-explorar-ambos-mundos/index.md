@@ -2,7 +2,7 @@
 title = "Kink y Swinger en Tijuana: Guía para Explorar Ambos Mundos"
 date = 2026-05-31
 slug = "kink-y-swinger-en-tijuana-guia-para-explorar-ambos-mundos"
-description = "Cuando empecé a buscar información sobre exploración alternativa en Tijuana, me encontré con un problema que nadie me había advertido: los términos \"kink\"
+description = "Guía para explorar el mundo kink y swinger en Tijuana: qué es cada uno, cómo se relacionan, dónde encontrar comunidad y cómo empezar con seguridad."
 series = ["Kink y Swinger en Tijuana"]
 draft = true
 +++
