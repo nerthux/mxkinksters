@@ -81,7 +81,7 @@ Tras registrarnos y mencionar que era nuestra primera vez, un miembro del staff 
 A diferencia de las incómodas y claustrofóbicas cabinas de los antros comerciales, aquí el juego se distribuye en tres habitaciones principales con camas grandes, muy bien cuidadas y limpias, cada una con su propia dinámica:
 
 1. **Cuartos con seguro (2 habitaciones):** Diseñados para usarse ya sea a solas con tu pareja o invitando a más personas a unirse. Quienes están adentro deciden libremente si echan el seguro para tener privacidad total o si dejan la puerta abierta para que los observen.
-2. **Cuarto abierto (1 habitación):** Una habitación donde la puerta nunca se cierra. Puedes usarla igual que las otras, pero aquí entras sabiendo que no habrá privacidad y que el voyeurismo (el placer de observar) y el exhibicionismo son parte del juego.
+2. **Cuarto abierto (1 habitación):** Una habitación donde la puerta nunca se cierra. Puedes usarla igual que las otras, pero aquí entras sabiendo que no habrá privacidad y que el voyeurismo (el placer de observar) y el exhibicionismo son parte del juego. Si esas dinámicas te generan preguntas, la [Guía Ética de Voyeurismo y Exhibicionismo](/blog/voyeurismo-y-exhibicionismo-en-el-kink-guia-etica/) las cubre en detalle.
 
 <div class="flex flex-wrap justify-center gap-4 my-8">
   <img src="escape-reglas.webp" alt="Reglas de Club Escape Tijuana" class="w-32 sm:w-48 aspect-video object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
@@ -107,10 +107,10 @@ Los organizadores me confirmarón que **el *gang bang* es un evento fijo todos l
 Sí, se puede, y de hecho te vas a sentir muy bienvenido gracias a la calidez del staff y de la misma gente. Nadie te va a presionar a nada y el respeto al consentimiento es total.
 
 **¿Es un buen lugar para iniciarse en el ambiente swinger?**  
-Es una excelente opción para conocer el lado comunitario del *lifestyle* —la convivencia real, no solo las cabinas—, pero con una advertencia importante: para alguien completamente nuevo, la cantidad de estímulos simultáneos puede llegar a ser abrumadora. Si tu intención es solo «mojarte los pies» de forma discreta y sin mucha interacción, podrías terminar sintiéndote un poco fuera de lugar. Aquí la mayoría ya nada en lo profundo, y se nota.
+Es una excelente opción para conocer el lado comunitario del *lifestyle* —la convivencia real, no solo las cabinas—, pero con una advertencia importante: para alguien completamente nuevo, la cantidad de estímulos simultáneos puede llegar a ser abrumadora. Si tu intención es solo «mojarte los pies» de forma discreta y sin mucha interacción, podrías terminar sintiéndote un poco fuera de lugar. La [Guía Kink y Swinger en Tijuana](/blog/kink-y-swinger-en-tijuana-guia-para-explorar-ambos-mundos/) te ayuda a entender el mapa de espacios de la ciudad antes de decidir por cuál empezar. Aquí la mayoría ya nada en lo profundo, y se nota.
 
 **¿Cómo se maneja el consentimiento?**  
-De forma ejemplar. En ningún momento nos sentimos incómodos ni presionados. Si dices que no o prefieres quedarte solo a platicar, la gente lo respeta de inmediato y sin hacer preguntas.
+De forma ejemplar. En ningún momento nos sentimos incómodos ni presionados. Si dices que no o prefieres quedarte solo a platicar, la gente lo respeta de inmediato y sin hacer preguntas. Si quieres criterios concretos para evaluar si cualquier espacio kink o swinger es realmente seguro antes de ir, la [Guía de Seguridad en Eventos Swinger y Kink](/blog/seguridad-en-eventos-swinger-y-kink-en-tijuana/) lo desglosa.
 
 ---
 
@@ -131,6 +131,15 @@ Solo prepárate para la interacción constante, no olvides llevar tu propia bebi
 {{< figure src="escape-evento.jpeg" alt="Próximo evento en Club Escape Tijuana" class="rounded-lg shadow-md my-6" >}}
 
 Los organizadores anuncian los eventos y temáticas de cada semana en su cuenta de **X (Twitter)**: [@ClubEscape23343](https://x.com/ClubEscape23343). Si quieres saber qué se viene antes de ir, síguelos ahí.
+
+---
+
+## Otras reseñas de espacios en Tijuana
+
+Si quieres comparar con otros espacios de la ciudad:
+
+- [Club Medusa: El Mito y la Verdad](/tijuana/resenas/club-medusa/) — el club swinger más conocido de Tijuana, con una dinámica muy distinta a la de Escape.
+- [Cabinas de la Revu: Los secretos detrás de la Sex Shop](/tijuana/resenas/cabinas-de-la-revu/) — las cabinas de Sexy Rosa en la Avenida Revolución, espacio orientado a la comunidad gay masculina.
 
 ---
 

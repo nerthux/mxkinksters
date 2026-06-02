@@ -82,7 +82,7 @@ Para ser un lugar de entretenimiento para adultos, **no me pareció muy entreten
 
 Un punto muy importante a aclarar —y que sólo pude confirmar directamente con la administración por WhatsApp— es que **en el área de mesas están completamente permitidos los juegos, cualquier forma de exhibicionismo e incluso el desnudismo total**.
 
-Saber esto le da un valor especial al sitio para quienes disfrutan de estas dinámicas o para los amantes del voyeurismo. Sin embargo, aquí es donde se nota el choque con la realidad del lugar: aunque las reglas dan total libertad, el ambiente de "antro convencional" en la planta alta no se presta ni incentiva en lo absoluto a que este tipo de juego surja de manera natural. Al menos, queda el buen sabor de boca de saber que, si vas con un grupo o con la actitud correcta, tienes la libertad de armar tu propia fiesta en tu mesa.
+Saber esto le da un valor especial al sitio para quienes disfrutan de estas dinámicas o para los amantes del voyeurismo —si quieres entender mejor la distinción entre lo consensuado y lo que no, la [Guía Ética de Voyeurismo y Exhibicionismo](/blog/voyeurismo-y-exhibicionismo-en-el-kink-guia-etica/) es el punto de partida. Sin embargo, aquí es donde se nota el choque con la realidad del lugar: aunque las reglas dan total libertad, el ambiente de "antro convencional" en la planta alta no se presta ni incentiva en lo absoluto a que este tipo de juego surja de manera natural. Al menos, queda el buen sabor de boca de saber que, si vas con un grupo o con la actitud correcta, tienes la libertad de armar tu propia fiesta en tu mesa.
 
 ---
 
@@ -90,7 +90,7 @@ Saber esto le da un valor especial al sitio para quienes disfrutan de estas din�
 
 Al ser un club privado, el establecimiento cuenta con un reglamento estricto visible en sus instalaciones:
 
-1. **Consentimiento absoluto:** La regla de oro del lugar es un rotundo *"No es No"*.
+1. **Consentimiento absoluto:** La regla de oro del lugar es un rotundo *"No es No"*. Si quieres criterios más amplios para evaluar si un espacio swinger o kink es realmente seguro, la [Guía de Seguridad en Eventos Swinger y Kink](/blog/seguridad-en-eventos-swinger-y-kink-en-tijuana/) lo cubre en detalle.
 2. **Privacidad total:** Está estrictamente prohibido tomar fotos o videos, así como el uso de linternas o lámparas de teléfono.
 3. **Restricciones de acceso:** No se permite la entrada a menores de edad, introducir alimentos o bebidas, ni ingresar con mochilas o bolsas grandes. Tampoco se permite salir y volver a entrar al club con el mismo acceso.
 4. **Convivencia y consumo:** Prohibidas las drogas, las armas y fumar o vapear (ambiente 100% libre de humo). No se toleran peleas ni discusiones, y no se permite salir del establecimiento con bebidas alcohólicas.
@@ -109,7 +109,7 @@ Sí, definitivamente se puede. No hay nada intimidante en el ambiente dentro del
 **¿Es un buen lugar para iniciarse en el mundo swinger?**  
 Es un lugar *seguro para explorar sin presión*, pero con una salvedad importante: la interacción social puede ser casi nula (al menos en mi experiencia). El ruido, la música de antro y la falta de dinámicas por parte del staff hacen que sea difícil conectar con otras parejas a menos que tú tomes toda la iniciativa.
 
-Si lo que buscas como primerizo es **conocer gente en un ambiente más relajado para platicar**, este probablemente no sea el mejor lugar. El ruido obliga a gritar y la gente tiende a encerrarse en las cabinas con su propia pareja.
+Si lo que buscas como primerizo es **conocer gente en un ambiente más relajado para platicar**, este probablemente no sea el mejor lugar —la [Guía de la Comunidad Kink en Tijuana](/tijuana/blog/comunidad-kink-en-tijuana-como-conectar-y-participar/) explica cómo conectar con personas afines antes de llegar a cualquier espacio. El ruido obliga a gritar y la gente tiende a encerrarse en las cabinas con su propia pareja.
 
 **Donde este club brilla para primerizos es en el exhibicionismo.** Saber que puedes desnudarte o jugar en tu mesa sin problema, con la música y la pantalla de fondo, puede ser una forma divertida y de bajo riesgo de probar qué se siente ser observado o hacerlo en un espacio público. Para ese tipo de fantasía específica, es una joya poco promocionada.
 
@@ -122,3 +122,16 @@ Si lo que buscas como primerizo es **conocer gente en un ambiente más relajado 
 Dicho esto: no fue una mala experiencia en absoluto —el interior es seguro, se cumplen las normas básicas de privacidad, la atención es correcta y los precios de las bebidas son accesibles—, pero sí resultó decepcionante para lo que esperaba. Me imaginaba más propuesta y creatividad del club *swinger* con más renombre de la ciudad.
 
 **¿Lo recomendaría?** Con la advertencia de que mi visita fue corta, diría que solo si disfrutas del ambiente de antro convencional, no te molesta la vibra de una plaza descuidada y la intriga de buscar una entrada semioculta... o si tu fantasía es tomarte una cerveza barata y ver porno en una pantalla gigante.
+
+---
+
+## Otras reseñas de espacios en Tijuana
+
+Si quieres comparar con otros espacios de la ciudad:
+
+- [Club Escape: Una Joya Escondida](/tijuana/resenas/club-escape/) — club privado por invitación, formato BYOB, con una comunidad mucho más integrada que la de Medusa.
+- [Cabinas de la Revu: Los secretos detrás de la Sex Shop](/tijuana/resenas/cabinas-de-la-revu/) — las cabinas de Sexy Rosa en la Avenida Revolución, espacio orientado a la comunidad gay masculina.
+
+---
+
+Si algo de lo que leíste te resonó y estás en Tijuana, el [Grupo de Tijuana Kink Machín](https://www.facebook.com/groups/1395551282606115) es donde se está armando la conversación. Tú decides si te sumas.

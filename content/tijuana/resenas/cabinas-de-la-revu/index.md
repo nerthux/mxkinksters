@@ -59,7 +59,7 @@ Salimos de la cabina a explorar los pasillos. En un punto me reencontré con mi 
 
 Aquí la oscuridad es total. No hay tenuidad, no hay acostumbramiento. Solo tacto.
 
-Sentí manos recorrer mi cuerpo. Hedónica me abrazó por detrás y apretó mi pecho; ella también estaba siendo tocada por debajo de su vestido. Escuchar gemidos en la oscuridad sin poder ver nada es una experiencia sensorial muy particular: el sonido se amplifica, los sentidos se reorganizan.
+Sentí manos recorrer mi cuerpo. Hedónica me abrazó por detrás y apretó mi pecho; ella también estaba siendo tocada por debajo de su vestido. Escuchar gemidos en la oscuridad sin poder ver nada es una experiencia sensorial muy particular: el sonido se amplifica, los sentidos se reorganizan. Es una forma de voyeurismo involuntario que no esperaba —si eso te interesa explorar de forma más consciente, la [Guía Ética de Voyeurismo y Exhibicionismo](/blog/voyeurismo-y-exhibicionismo-en-el-kink-guia-etica/) cubre exactamente ese territorio.
 
 El cuarto oscuro tiene salida del otro lado, lo que te permite atravesarlo y continuar explorando. No es un callejón sin salida.
 
@@ -115,7 +115,7 @@ Tijuana, B.C.
 
 No tiene pérdida: es la Sex Shop más visible de la Revu. Entra, cruza el local, llega al bar, y desde ahí encontrarás el pasillo que te lleva a las cabinas.
 
-Un dato de contexto importante: el lugar se ubica en la **Zona Rosa de Tijuana**, el corredor de la Avenida Revolución donde se concentra la mayor densidad de bares, antros y espacios de entretenimiento para la **comunidad LGBT**. Esto no significa que las cabinas sean un espacio de acceso exclusivo —cualquier persona puede entrar— pero sí explica la dinámica predominante que vas a encontrar adentro. El barrio define al público, y el público define el ambiente.
+Un dato de contexto importante: el lugar se ubica en la **Zona Rosa de Tijuana**, el corredor de la Avenida Revolución donde se concentra la mayor densidad de bares, antros y espacios de entretenimiento para la **comunidad LGBT**. Esto no significa que las cabinas sean un espacio de acceso exclusivo —cualquier persona puede entrar— pero sí explica la dinámica predominante que vas a encontrar adentro. El barrio define al público, y el público define el ambiente. Si lo que buscas son espacios sex-positive con dinámica más mixta en Tijuana, la [Guía Kink y Swinger en Tijuana](/blog/kink-y-swinger-en-tijuana-guia-para-explorar-ambos-mundos/) tiene el mapa completo.
 
 ---
 
@@ -142,7 +142,7 @@ Si vas a explorar este tipo de espacios, hazlo con información:
 - **Hazte la prueba regularmente:** en Tijuana existen puntos de prueba gratuita de VIH e ITS. El Sector Salud y varias organizaciones de la comunidad LGBT ofrecen este servicio periódicamente, algunas incluso en la Zona Rosa.
 - **La PEP es una opción de emergencia:** si hubo una exposición de riesgo sin protección, la profilaxis post-exposición (PEP) puede prevenir el contagio si se inicia dentro de las 72 horas siguientes.
 
-Esto no es un sermón. Es información que te puede cambiar la vida, o salvarla.
+Esto no es un sermón. Es información que te puede cambiar la vida, o salvarla. Para criterios más amplios sobre cómo evaluar la seguridad de cualquier espacio kink o swinger en Tijuana, la [Guía de Seguridad en Eventos Swinger y Kink](/blog/seguridad-en-eventos-swinger-y-kink-en-tijuana/) tiene el desglose completo.
 
 ---
 
@@ -155,11 +155,20 @@ Sí, puedes entrar. Nadie te va a detener en la puerta. Pero entiende en qué es
 Usa los lockers. El cuarto oscuro implica contacto con desconocidos; decide tú con qué límites entras. El lugar no tiene personal vigilando los pasillos; la seguridad es relativa al contexto.
 
 **¿Recomendaría ir en grupo?**  
-Sí, definitivamente. Ir en grupo hizo que la experiencia fuera mucho más divertida, más segura emocionalmente y más fácil de procesar. Ir solo siendo nuevo en este tipo de espacios puede ser abrumador.
+Sí, definitivamente. Ir en grupo hizo que la experiencia fuera mucho más divertida, más segura emocionalmente y más fácil de procesar. Ir solo siendo nuevo en este tipo de espacios puede ser abrumador. Si todavía no tienes un grupo con quien explorar, la [Guía de la Comunidad Kink en Tijuana](/tijuana/blog/comunidad-kink-en-tijuana-como-conectar-y-participar/) explica cómo conectar con personas afines en la ciudad.
 
 ---
 
 > **⚠️ Nota:** Esta reseña refleja una única visita de fin de semana con un grupo. La dinámica de estos espacios puede variar dependiendo del día, la hora y el tipo de gente que haya esa noche. Lo que aquí describo es un testimonio honesto de lo que vivimos, no una verdad absoluta sobre el lugar.
+
+---
+
+## Otras reseñas de espacios en Tijuana
+
+Si este tipo de exploración te interesa, también hemos reseñado otros espacios de la ciudad con dinámicas muy distintas:
+
+- [Club Medusa: El Mito y la Verdad](/tijuana/resenas/club-medusa/) — el club swinger más conocido de Tijuana, analizado de cerca.
+- [Club Escape: Una Joya Escondida](/tijuana/resenas/club-escape/) — club privado por invitación, formato BYOB, ambiente completamente distinto.
 
 ---
 
