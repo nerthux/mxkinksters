@@ -5,4 +5,5 @@ description: "Artículos y guías sobre BDSM, kink, munches y exploración erót
 cascade:
   showReadingTime: true
   showAuthor: true
+  showSummary: true
 ---
