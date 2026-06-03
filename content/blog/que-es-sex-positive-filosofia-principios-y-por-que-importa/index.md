@@ -75,17 +75,19 @@ Estos principios no son abstractos. Tienen consecuencias directas en cómo te re
 
 Este es el punto donde más he visto confusión, y vale la pena dedicarle espacio.
 
-*Sex positive* no significa "todo vale".
+Sex positive no significa "todo vale".
 
 La filosofía sex positive tiene ética — y es más exigente que la convencional, porque exige argumentos donde la norma cultural acepta solo costumbre o disgusto.
 
-La diferencia es esta: la norma convencional regula el sexo con vergüenza, silencio y supuestos. "Esto no se hace", "eso es enfermizo", "la gente normal no hace eso". Esas son afirmaciones que no requieren argumentos porque se asumen como evidentes. La filosofía sex positive exige más: si vas a establecer un límite ético, argumenta por qué. ¿Hay daño? ¿Hay falta de consentimiento? ¿Hay explotación? Esos sí son argumentos reales.
+La diferencia es esta: la norma convencional regula el sexo con vergüenza, silencio y supuestos. "Esto no se hace", "eso es enfermizo", "la gente normal no hace eso". Esas son afirmaciones que no requieren argumentos porque se asumen como evidentes. La filosofía sex positive exige más: si vas a juzgar la práctica sexual de otra persona como inaceptable, argumenta por qué. ¿Hay daño? ¿Hay falta de consentimiento? ¿Hay explotación? Esos sí son argumentos reales.
+
+Importante: poner un límite personal —decir "no quiero", "esto no es para mí", "hasta aquí"— nunca necesita argumentos. Tu "no" es suficiente. La exigencia de argumentar se aplica cuando quieres condenar lo que otros hacen consensuadamente, no cuando decides sobre tu propio cuerpo y tus propios límites.
 
 Pero — y esto es importante — la filosofía sex positive reconoce que hay prácticas que son dañinas. Que hay dinámicas que reproducen opresión aunque los participantes digan que consienten. Que el consentimiento tiene contextos y que no siempre es libre de coerción estructural. Que hay situaciones donde el poder es tan asimétrico que el concepto de "elección" se complica.
 
-Dicho con todas sus letras: sin consentimiento explícito, continuo y revocable, no hay sex positivity. Hay abuso con etiqueta progresista.
+Dicho con todas sus letras: sin consentimiento explícito, continuo y revocable, no hay sex positivity. 
 
-El malentendido viene cuando alguien usa "sex positive" como escudo para evadir responsabilidad o para presionar a alguien. Eso es una distorsión del marco, no una aplicación de él. Si alguien te dice "ser sex positive significa que no deberías negarte", esa persona no entendió — o no le interesa entender — de qué habla la filosofía.
+El malentendido viene cuando alguien usa "sex positive" como escudo para evadir responsabilidad o para presionar a alguien. Si alguien te dice "ser sex positive significa que no deberías negarte", esa persona no entendió — o no le interesa entender — de qué habla la filosofía.
 
 ---
 
