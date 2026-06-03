@@ -2,9 +2,9 @@
 title = "Qué es Sex Positive: Filosofía, Principios y por qué Importa"
 meta_title = "Qué es Sex Positive: Filosofía y Principios | MxKinksters"
 date = 2026-06-02
-showSummary: true
-showHero: true
-heroStyle: "background"
+showSummary = true
+showHero = true
+heroStyle = "background"
 slug = "que-es-sex-positive-filosofia-principios-y-por-que-importa"
 description = "La positividad sexual no es permisividad sin límites. Conoce sus principios, qué dice sobre el kink y el BDSM, y por qué importa en Tijuana."
 keywords = ["qué es sex positive", "filosofía sex positive", "cultura sex positive", "sex positivity significado"]
