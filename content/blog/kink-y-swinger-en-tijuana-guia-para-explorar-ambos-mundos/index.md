@@ -2,11 +2,29 @@
 title = "Kink y Swinger en Tijuana: Guía para Explorar Ambos Mundos"
 date = 2026-05-15
 slug = "kink-y-swinger-en-tijuana-guia-para-explorar-ambos-mundos"
-description = "En Tijuana no existen espacios kink visibles. Lo que sí existe son clubes swinger con una cultura sex-positive que los convierte en el punto de entrada más real para quien quiere explorar. Esto es el mapa."
+description = "En Tijuana no existen espacios kink visibles. Lo que sí existe son clubes swinger con una cultura sex-positive que los convierte en el punto de entrada"
 series = ["Kink y Swinger en Tijuana"]
 draft = false
+hub = "kink-y-swinger-en-tijuana"
+[[faq]]
+q = "¿Necesito experiencia previa para ir a un club swinger o evento kink en Tijuana?"
+a = "No. Lo que sí necesitas es información básica sobre las normas del espacio antes de llegar, y disposición a preguntar cuando algo no esté claro. Los buenos espacios están acostumbrados a personas nuevas y el no saber todo de entrada no es un problema."
+[[faq]]
+q = "¿Los espacios en Tijuana son seguros para personas LGBT+?"
+a = "Depende del espacio. La escena kink tiende a ser más incluyente estructuralmente. La escena swinger ha tenido históricamente una orientación más heterosexual, aunque eso varía según el club y el evento. Antes de ir a cualquier espacio, busca referencias de personas que hayan estado — los espacios que no son explícitos sobre diversidad suelen reflejar el default cultural local. Un caso completamente distinto es el de las Cabinas de la Revu, un espacio con orientación explícitamente gay masculina en la Zona Rosa de la Avenida Revolución."
+[[faq]]
+q = "¿Puedo ir a un club swinger solo a observar sin participar?"
+a = "En la mayoría sí, y especialmente en una primera visita. Los buenos espacios tienen áreas sociales separadas de las áreas de actividad. Lo que importa: ser claro sobre tu intención al entrar, y respetar la privacidad de los demás en todo momento."
+[[faq]]
+q = "¿Kink y BDSM son lo mismo?"
+a = "El BDSM es una categoría dentro del kink, no un sinónimo. El kink es el paraguas más amplio — incluye el BDSM pero también fetiches, juegos de rol, exploración sensorial y otras prácticas que no necesariamente involucran bondage o dinámicas de poder. Para profundizar en los primeros pasos específicos del BDSM, Cómo empezar en BDSM: primeros pasos seguros cubre lo esencial."
+[[faq]]
+q = "¿Cómo sé si un espacio es confiable?"
+a = "Busca reseñas en comunidades online, pregunta a personas que hayan estado, verifica que el espacio tenga reglas publicadas y alguna forma de reportar situaciones problemáticas. La transparencia sobre cómo funcionan es la señal más confiable de que se toman la seguridad en serio. Los espacios completamente opacos merecen más escepticismo, no menos."
+[[faq]]
+q = "¿Qué pasa si llego y no es lo que esperaba?"
+a = "Te vas. Eso siempre es una opción. Un espacio que presiona para que te quedes o para que participes cuando ya dijiste que no quieres no es un espacio seguro — y eso aplica igual en kink que en swinger. La escena existe. No está en los primeros resultados de búsqueda, no tiene carteles, no se anuncia fácil. Está construida por personas reales que llevan años haciéndola funcionar con criterio, y que acceden a ella principalmente por confianza, no por volumen. En Tijuana, esa puerta de entrada más accesible son los espacios swinger — no como destino final, sino como el lugar donde el idioma cambia. Donde la actitud hacia el sexo es diferente a la norma, y desde donde se puede empezar a mover hacia lo que específicamente te interesa. El resto lo dan el tiempo y las personas."
 +++
-
 # Kink y Swinger en Tijuana: Guía para Explorar Ambos Mundos
 
 Si llevas tiempo buscando espacios kink en Tijuana, ya sabes el problema: no aparecen. No hay dungeon con agenda pública, no hay munch fijo con convocatoria abierta, no hay directorio de eventos. Lo que existe está por debajo de la superficie, en redes de confianza que llevan años construyéndose y que no tienen entrada visible desde Google.

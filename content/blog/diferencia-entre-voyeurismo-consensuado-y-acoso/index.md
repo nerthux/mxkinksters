@@ -6,10 +6,10 @@ slug = "diferencia-entre-voyeurismo-consensuado-y-acoso"
 description = "El deseo de observar no define si algo es ético: el consentimiento sí. Aprende a distinguir el voyeurismo consensuado del acoso con claridad y"
 keywords = ["voyeurismo consensuado vs acoso", "límites del voyeurismo", "voyeurismo ético"]
 tags = ["voyeurismo consensuado vs acoso", "límites del voyeurismo", "voyeurismo ético"]
-series = ["Voyeurismo y Exhibicionismo"]
 draft = false
+hub = "voyeurismo-exhibicionismo"
+series = ["Voyeurismo y Exhibicionismo"]
 +++
-
 ## Voyeurismo Consensuado vs. Acoso: La Línea que No Tiene Grises
 
 Hay una pregunta que me llega seguido, de distintas formas pero con el mismo fondo: *¿cómo sé si lo que me gusta es voyeurismo o si estoy haciendo algo que no está bien?*

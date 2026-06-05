@@ -6,10 +6,10 @@ slug = "que-es-un-switch-en-bdsm-definicion-y-caracteristicas"
 description = "Un switch en BDSM puede dominar o someterse según el contexto. Conoce qué significa este rol, sus características y por qué es más común de lo que crees."
 keywords = ["qué es un switch en BDSM", "rol switch BDSM", "cambiar de rol BDSM"]
 tags = ["qué es un switch en BDSM", "rol switch BDSM", "cambiar de rol BDSM"]
-series = ["Glosario Kink y BDSM"]
 draft = false
+hub = "glosario-kink-bdsm"
+series = ["Glosario Kink y BDSM"]
 +++
-
 ## ¿Qué es un Switch en BDSM? Definición, Características y Consejos Prácticos
 
 La narrativa que más circula sobre roles en BDSM es binaria: hay quienes dominan y quienes se someten. Como si todo el mundo llegara con un sello de fábrica que dijera "Top" o "Bottom" y no hubiera nada más que decir.

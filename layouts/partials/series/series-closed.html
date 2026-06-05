@@ -1,0 +1,46 @@
+{{- /*
+  series/series-closed.html — bloque de enlazado interno pillar↔spoke
+  (override del partial de Blowfish; se renderiza DESPUÉS del contenido).
+
+  Agrupa por la clave estable `hub` del front matter (no por el string `series`,
+  que tiene drift). La emite generate_post.py / backfill_hub_links.py.
+
+    - En un spoke  → uplink a la página pilar del hub + lista de hermanos.
+    - En el pilar  → lista de todos sus spokes.
+
+  Refuerza el silo temático de forma fiable y siempre en sync (se recalcula en
+  cada build; al añadir un spoke nuevo aparece solo). No depende del LLM.
+*/ -}}
+{{- $cur := . -}}
+{{- with .Params.hub -}}
+  {{- $inHub := where site.RegularPages "Params.hub" . -}}
+  {{- $pillars := where $inHub "Params.pillar" true -}}
+  {{- $pillar := "" -}}{{ if $pillars }}{{ $pillar = index $pillars 0 }}{{ end -}}
+  {{- $spokes := where $inHub "Params.pillar" "!=" true -}}
+  {{- $others := where (sort $spokes "Date" "asc") "RelPermalink" "!=" $cur.RelPermalink -}}
+  {{- $hubName := $cur.Params.series -}}
+  {{- if reflect.IsSlice $hubName }}{{ $hubName = index $hubName 0 }}{{ end -}}
+  {{- if or $pillar $others -}}
+  <nav aria-label="Más en este hub" class="my-10 rounded-lg border border-neutral-200 bg-neutral-50 p-5 dark:border-neutral-700 dark:bg-neutral-800">
+    <p class="text-xs font-semibold uppercase tracking-wider text-primary-500">En este hub</p>
+    {{- with $pillar }}
+    <p class="mt-1 text-base text-neutral-700 dark:text-neutral-200">
+      {{- if eq .RelPermalink $cur.RelPermalink -}}
+        Esta es la página pilar de <strong>{{ $hubName }}</strong>.
+      {{- else -}}
+        Parte de la guía <a class="font-semibold text-primary-600 hover:underline dark:text-primary-400" href="{{ .RelPermalink }}">{{ .Title }}</a>.
+      {{- end -}}
+    </p>
+    {{- else }}
+    <p class="mt-1 text-base font-semibold text-neutral-700 dark:text-neutral-200">{{ $hubName }}</p>
+    {{- end }}
+    {{- if $others }}
+    <ul class="mt-3 list-disc space-y-1 ps-5 text-sm">
+      {{- range $others }}
+      <li><a class="text-neutral-600 hover:text-primary-500 hover:underline dark:text-neutral-300" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+  </nav>
+  {{- end -}}
+{{- end -}}

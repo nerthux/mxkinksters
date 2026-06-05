@@ -4,10 +4,10 @@ meta_title = "Errores al iniciar en BDSM y cómo evitarlos | MxKinksters"
 date = 2026-04-15
 slug = "errores-comunes-al-iniciar-en-el-bdsm-y-como-evitarlos"
 description = "Conoce los errores más comunes al explorar el BDSM por primera vez: negociación, límites y comunicación. Una guía práctica para empezar con seguridad."
-series = ["Curso BDSM 101 para principiantes"]
 draft = false
+hub = "curso-bdsm-101-principiantes"
+series = ["Curso BDSM 101 para Principiantes"]
 +++
-
 ## Errores comunes al iniciar en el BDSM (y cómo evitarlos desde el principio)
 
 Dar los primeros pasos en el BDSM puede sentirse como querer aprender a nadar lanzándose al mar abierto. La emoción es real, pero sin preparación te puedes hundir rápido. Cuando yo empecé a acercarme a la comunidad en Tijuana, quería avanzar rápido y cometí errores que se pudieron haber evitado. La mayoría de las veces, cuando alguien la caga al inicio no es por malas intenciones, sino por no saber qué pasos dar primero. Anoté aquí los tropiezos más comunes para que no tengas que aprenderlos a la mala.

@@ -141,21 +141,10 @@
       </div>
     </div>
 
-    {{/* JSON-LD (igual, invisible) */}}
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": {{ $siteName | jsonify }},
-      "description": {{ (printf "%s %s %s" $projectWhy $projectWhat $projectWho) | jsonify }},
-      "url": {{ $siteUrl | jsonify }},
-      "foundingDate": "2024",
-      "founder": {
-        "@type": "Person",
-        "name": {{ $authorName | jsonify }}
-      }
-    }
-    </script>
+    {{/* El JSON-LD de la Organization vive ahora en partials/schema.html
+         (home, como Organization|LocalBusiness con geo y @id #org). Se quitó de
+         aquí para no duplicar la entidad en cada página — y porque esta versión
+         con jsonify doble-codificaba los valores. */}}
 
     {{/* Footer menu (original Blowfish) */}}
     {{ if .Site.Params.footer.showMenu | default true }}

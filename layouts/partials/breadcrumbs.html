@@ -1,0 +1,36 @@
+{{- /*
+  breadcrumbs.html — migas de pan visibles (override del partial de Blowfish).
+
+  El partial del theme oculta el Home y la página actual, dejando solo la
+  sección intermedia ("Blog /"), lo que no es una miga útil ni coincide con el
+  BreadcrumbList de schema.html. Este override renderiza la ruta completa:
+
+      Home  /  Sección  /  Página actual
+
+  - Home y secciones son enlaces; la página actual es texto (aria-current).
+  - Se construye desde .Ancestors (reverso) → mismo orden que el JSON-LD.
+  - Accesible: <nav aria-label> + <ol> ordenado.
+  - Conserva las clases Tailwind de Blowfish para verse igual que el theme.
+*/ -}}
+{{- $linkClass := "hover:underline decoration-neutral-300 dark:decoration-neutral-600" -}}
+<nav aria-label="breadcrumb" class="print:hidden">
+  <ol class="flex flex-wrap items-center text-sm text-neutral-500 dark:text-neutral-400">
+    <li class="inline-flex items-center">
+      <a class="{{ $linkClass }}" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+    </li>
+    {{- range .Ancestors.Reverse -}}
+      {{- if not .IsHome }}
+        <li class="inline-flex items-center">
+          <span class="px-1 text-primary-500">/</span>
+          <a class="{{ $linkClass }}" href="{{ .RelPermalink }}">{{ .Title | default .Section }}</a>
+        </li>
+      {{- end -}}
+    {{- end }}
+    {{- if not .IsHome }}
+      <li class="inline-flex items-center" aria-current="page">
+        <span class="px-1 text-primary-500">/</span>
+        <span class="text-neutral-700 dark:text-neutral-300">{{ .Title | default .Section }}</span>
+      </li>
+    {{- end }}
+  </ol>
+</nav>

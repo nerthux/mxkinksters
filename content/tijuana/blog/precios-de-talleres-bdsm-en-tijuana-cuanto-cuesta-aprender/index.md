@@ -4,10 +4,10 @@ meta_title = "Precios de talleres BDSM en Tijuana | MxKinksters"
 date = 2026-05-15
 slug = "precios-de-talleres-bdsm-en-tijuana-cuanto-cuesta-aprender"
 description = "Conoce cuánto cuestan los talleres de BDSM y kink en Tijuana: rangos reales, tipos de formato y opciones accesibles para aprender con seguridad."
-series = ["Talleres presenciales The Consent Club"]
 draft = true
+hub = "talleres-consent-club-tijuana"
+series = ["Talleres Presenciales The Consent Club"]
 +++
-
 ## Precios de talleres BDSM en Tijuana: ¿cuánto cuesta aprender de forma segura?
 
 Quizás ya diste el primer paso: buscar información sobre BDSM y kink en Tijuana. Y es probable que, en algún momento, te hayas topado con la pregunta incómoda que nadie responde con claridad: *¿cuánto cuesta realmente aprender esto?* La falta de transparencia sobre precios es uno de los obstáculos más frustrantes para quienes quieren explorar con información, no con suposiciones. En MxKinksters entendemos esa incomodidad, y por eso este artículo existe: para darte números reales, contexto honesto y opciones accesibles.

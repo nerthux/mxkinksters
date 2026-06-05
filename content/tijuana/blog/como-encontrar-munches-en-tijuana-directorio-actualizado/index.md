@@ -4,10 +4,10 @@ meta_title = "Munches en Tijuana: directorio actualizado | MxKinksters"
 date = 2026-05-15
 slug = "como-encontrar-munches-en-tijuana-directorio-actualizado"
 description = "Si buscas un munch en Tijuana sin encontrar información clara, aquí tienes un punto de partida real: qué son, dónde ocurren y cómo acceder con seguridad."
-series = ["Guía de Munches en Tijuana"]
 draft = true
+hub = "guia-munches-tijuana"
+series = ["Guía para Munches en Tijuana"]
 +++
-
 ## Cómo encontrar munches en Tijuana: directorio actualizado
 
 Buscar un munch en Tijuana puede sentirse como intentar encontrar una puerta sin saber que existe la pared. La información está fragmentada, los grupos son discretos por razones válidas, y la falta de un directorio centralizado hace que muchas personas simplemente abandonen la búsqueda antes de empezar. Si llevas semanas buscando "munch Tijuana" en Google sin resultado claro, este artículo es para ti.

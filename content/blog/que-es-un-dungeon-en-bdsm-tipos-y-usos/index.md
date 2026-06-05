@@ -6,10 +6,10 @@ slug = "que-es-un-dungeon-en-bdsm-tipos-y-usos"
 description = "Un dungeon en BDSM es un espacio preparado para prácticas kink, no una mazmorra medieval. Conoce sus tipos, usos y qué lo hace seguro y funcional."
 keywords = ["qué es un dungeon en BDSM", "dungeon BDSM", "salas de juego BDSM"]
 tags = ["qué es un dungeon en BDSM", "dungeon BDSM", "salas de juego BDSM"]
-series = ["Glosario Kink y BDSM"]
 draft = false
+hub = "glosario-kink-bdsm"
+series = ["Glosario Kink y BDSM"]
 +++
-
 ## ¿Qué es un Dungeon en BDSM? Tipos, Usos y lo que Debes Saber Antes de Entrar
 
 Cuando escuché la palabra *dungeon* por primera vez en el contexto del BDSM, mi cabeza fue directo a una mazmorra medieval. Cadenas en la pared, antorchas, quizás un dragón en el fondo. No voy a mentirte: tardé un rato en entender que el concepto real era bastante diferente — y bastante más interesante — que esa imagen de fantasía épica.

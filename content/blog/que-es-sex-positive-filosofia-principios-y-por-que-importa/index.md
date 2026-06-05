@@ -9,10 +9,28 @@ slug = "que-es-sex-positive-filosofia-principios-y-por-que-importa"
 description = "La positividad sexual no es permisividad sin límites. Conoce sus principios, qué dice sobre el kink y el BDSM, y por qué importa en Tijuana."
 keywords = ["qué es sex positive", "filosofía sex positive", "cultura sex positive", "sex positivity significado"]
 tags = ["qué es sex positive", "filosofía sex positive", "cultura sex positive", "sex positivity significado"]
-series = ["Sex Positive"]
 draft = false
+hub = "sex-positive"
+series = ["Sex Positive"]
+[[faq]]
+q = "¿Sex positive significa que debo estar abierto a todo sexualmente?"
+a = "No. Significa que tus límites son tuyos y tienen valor, y que los de otros también. La filosofía sex positive defiende la autonomía — lo que incluye el derecho a decir no, a no querer explorar algo, a tener preferencias que excluyan prácticas específicas. La filosofía cuestiona los límites que vienen de vergüenza o juicio externo sin argumento ético real. Los que vienen de una decisión genuinamente tuya tienen el mismo respeto que los de cualquier otra persona."
+[[faq]]
+q = "¿Esta filosofía es solo para personas que practican BDSM o kink?"
+a = "No. El marco aplica a cualquier tipo de relación o exploración sexual, desde monogamia convencional hasta cualquier práctica alternativa. Lo que une a todas es la apuesta por la comunicación explícita, el consentimiento continuo y la autonomía. Dicho eso, tiene especial relevancia en contextos kink y BDSM, donde las dinámicas son más complejas y los protocolos de consentimiento más visibles y necesarios."
+[[faq]]
+q = "¿Sex positive ignora el daño que puede causar la pornografía o el trabajo sexual?"
+a = "No exactamente. Dentro del marco sex positive hay debates serios sobre las condiciones en que se producen esas industrias, sobre coerción estructural, sobre quién tiene poder real para elegir en cada contexto. El marco no dice \"todo lo que involucra sexo es automáticamente bueno\". Dice que las respuestas fáciles — \"esto es malo por definición\" o \"todo vale porque hay consentimiento\" — no son suficientes. Requiere análisis de contexto."
+[[faq]]
+q = "¿Cómo sé si un espacio o comunidad es realmente sex positive y no solo usa ese lenguaje?"
+a = "Algunas señales concretas: ¿Hay protocolos de consentimiento explícitos antes de los eventos? ¿Hay formas claras de reportar situaciones incómodas? ¿La cultura del espacio permite decir \"no\" sin consecuencias sociales? ¿Se respeta la privacidad de los participantes? ¿Las personas que organizan tienen claridad sobre qué pasa si algo sale mal? Un espacio que usa el lenguaje pero no tiene esas estructuras es un espacio con marca, no con práctica."
+[[faq]]
+q = "¿Sex positive es una postura política o una práctica personal?"
+a = "Las dos cosas, y no son separables del todo. Como práctica personal, es una forma de relacionarte con tu propio deseo y con otras personas. Como postura política, reconoce que la regulación de la sexualidad es histórica, culturalmente específica y frecuentemente usada para controlar a grupos específicos — mujeres, personas queer, personas con discapacidad, adultos mayores. Nombrar eso tiene consecuencias más allá del dormitorio."
+[[faq]]
+q = "¿Puedo explorar kink o BDSM sin haber \"resuelto\" todo esto filosóficamente?"
+a = "Sí. No necesitas haber leído a Gayle Rubin para tener una práctica ética. Lo que sí ayuda es tener claros los principios prácticos: comunicar antes de actuar, respetar el \"no\" y el \"para\", tener una palabra de seguridad acordada, y estar dispuesto a parar y hablar si algo no se siente bien. La filosofía es el mapa; los principios prácticos son la herramienta del día a día."
 +++
-
 # Qué es Sex Positive: Filosofía, Principios y por qué Importa
 
 Cuando estaba armando MxKinksters sabía de qué quería hablar — BDSM, swinger, fetiches, kink — pero no tenía nombre para la actitud que los une. Porque no quería hacer un blog de BDSM nada más, ni un directorio de clubes. Quería algo más ambicioso: un espacio donde el deseo pudiera explorarse en lo más amplio de su espectro.

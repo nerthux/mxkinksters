@@ -6,10 +6,28 @@ slug = "glosario-kink-y-bdsm-terminos-esenciales-explicados"
 description = "Definiciones claras de los términos más usados en BDSM y kink: roles, consentimiento, dinámicas y comunidad. Un punto de partida sin rodeos ni confusión."
 keywords = ["glosario BDSM", "términos BDSM", "diccionario kink", "vocabulario BDSM"]
 tags = ["glosario BDSM", "términos BDSM", "diccionario kink", "vocabulario BDSM"]
-series = ["Glosario Kink y BDSM"]
 draft = false
+hub = "glosario-kink-bdsm"
+series = ["Glosario Kink y BDSM"]
+[[faq]]
+q = "¿El BDSM siempre implica dolor?"
+a = "No. El BDSM abarca prácticas muy diversas, muchas de las cuales no involucran dolor físico en absoluto. Una dinámica D/s puede ser completamente no física. El bondage puede ser estético sin incluir estimulación dolorosa. El sadismo y el masoquismo son componentes del acrónimo, pero no todos los que practican BDSM los incluyen. Lo que define al BDSM es el intercambio de poder y el marco de consentimiento, no necesariamente el dolor (Santos, 2013)."
+[[faq]]
+q = "¿Se puede practicar BDSM en una relación monógama?"
+a = "Sí. El BDSM es un conjunto de prácticas, no una estructura relacional. Puedes tener una relación completamente monógama e incorporar dinámicas de poder, bondage u otras prácticas kink dentro de esa relación. Lo que se requiere es la misma base que para cualquier práctica: comunicación, negociación y consentimiento mutuo."
+[[faq]]
+q = "¿Qué diferencia hay entre un Dom y un Top?"
+a = "Es una distinción que confunde a muchas personas al principio. El rol Dominante (Dom/Domme) es una posición relacional de poder —quien dirige, quien establece las reglas dentro de la dinámica. El Top es una posición de sesión —quien realiza la acción física. Una persona puede ser Dominante en la relación pero Bottom físico en una escena específica, si eso es lo que se negoció. Son ejes distintos que no necesariamente coinciden (Martinez, 2017)."
+[[faq]]
+q = "¿Un munch tiene actividad sexual?"
+a = "No. Un munch es una reunión social en un lugar público sin actividad kink ni sexual. El objetivo es conocer gente de la comunidad en un ambiente sin presión. Si alguien en un munch te presiona para algo más, eso es una señal de alarma, no una práctica comunitaria normal."
+[[faq]]
+q = "¿Necesito identificarme con un rol antes de asistir a eventos kink?"
+a = "No. Muchas personas asisten a munches, talleres y eventos durante meses —o años— antes de definir un rol. \"Explorador\" o \"curioso\" son posiciones completamente válidas. La comunidad kink no te exige una tarjeta de presentación con tu rol definido para participar."
+[[faq]]
+q = "¿El kink y el BDSM son lo mismo?"
+a = "No exactamente. El BDSM es un subconjunto del kink. El kink es el término más amplio y abarca cualquier práctica o interés que se salga de lo convencionalmente esperado. Todo el BDSM es kink, pero no todo el kink es BDSM. Un fetiche por materiales específicos o un juego de roles sin componentes de Dominación/Sumisión son ejemplos de kink que no necesariamente entran en la categoría BDSM. Este glosario va a seguir creciendo. El vocabulario kink no es estático —los términos evolucionan, algunos caen en desuso, otros entran desde comunidades distintas o tradiciones diferentes. Lo que hoy es jerga especializada puede ser lenguaje común dentro de cinco años, y viceversa. Si hay algo que encontraste en otro lado y no está aquí, o si alguna definición te parece imprecisa, me lo dices. Esta es una bitácora de exploración, no un diccionario"
 +++
-
 ## Glosario Kink y BDSM: Términos Esenciales Explicados
 
 Recuerdo la primera vez que intenté buscar información sobre BDSM en serio. Abría una página, encontraba un término, buscaba ese término, encontraba tres más que no entendía, y para cuando llegaba a alguna definición útil ya había olvidado por qué empecé. Tenía un chingo de dudas y cada búsqueda me dejaba con más preguntas que respuestas.

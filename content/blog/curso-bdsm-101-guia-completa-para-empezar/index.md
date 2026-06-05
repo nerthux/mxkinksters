@@ -4,10 +4,28 @@ meta_title = "Guía BDSM 101: Cómo empezar de forma segura | MxKinksters"
 date = 2026-04-03
 slug = "curso-bdsm-101-guia-completa-para-empezar"
 description = "Curiosidad por el BDSM y no sabes por dónde empezar. Esta guía explica roles, seguridad y primeros pasos con claridad, sin juicios y a tu ritmo."
-series = ["Curso BDSM 101 para Principiantes"]
 draft = false
+hub = "curso-bdsm-101-principiantes"
+series = ["Curso BDSM 101 para Principiantes"]
+[[faq]]
+q = "¿Tengo que practicar BDSM con otra persona, o puedo explorarlo solo?"
+a = "Muchas prácticas BDSM requieren al menos dos personas, pero la exploración puede comenzar de forma individual: a través de la fantasía, la lectura, el estudio y la autorreflexión. Conocer tus intereses antes de involucrar a alguien más es una decisión inteligente y responsable."
+[[faq]]
+q = "¿El BDSM es legal en México?"
+a = "Las prácticas BDSM entre adultos que consienten de forma libre e informada no están tipificadas como delito en México. Lo que determina la legalidad es el consentimiento: cualquier práctica que se realice sin el acuerdo de todas las personas involucradas puede constituir una infracción legal, independientemente de si se enmarca en el BDSM o no."
+[[faq]]
+q = "¿Cómo sé si la persona con la que quiero explorar el BDSM es de confianza?"
+a = "Esta es una de las preguntas más importantes. Algunas señales positivas son: la persona respeta tus límites en la conversación previa, no presiona para acelerar el proceso, está dispuesta a negociar y hablar sobre acuerdos, y tiene referencias dentro de la comunidad. Las señales de alerta incluyen la presión para omitir conversaciones de seguridad, la minimización de tus preocupaciones o la reticencia a establecer palabras de seguridad."
+[[faq]]
+q = "¿Qué hago si durante una práctica algo no va bien?"
+a = "Usa tu palabra de seguridad o la señal de parada que hayas acordado. Si no puedes hablar, puedes usar una señal no verbal acordada previamente (por ejemplo, abrir y cerrar la mano). La parada inmediata es siempre la prioridad. Después, el aftercare y una conversación honesta sobre lo ocurrido son esenciales."
+[[faq]]
+q = "¿Puedo practicar BDSM si tengo una condición de salud mental?"
+a = "Muchas personas con condiciones de salud mental practican BDSM de forma satisfactoria. Lo importante es que estés en un estado que te permita dar un consentimiento informado y claro, y que conozcas cómo ciertas prácticas pueden afectar tu estado emocional. Si tienes dudas, hablar con un profesional de salud mental que sea kink-afirmativo (es decir, que no patologice el BDSM) puede ser de gran ayuda."
+[[faq]]
+q = "¿Cómo sé si lo que siento es curiosidad sana o algo que me preocupa?"
+a = "La curiosidad sobre el BDSM, incluso intensa, es normal y no es una señal de alarma en sí misma. Lo que merece atención es si tus pensamientos o impulsos son egodistónicos (te generan angustia o malestar significativo) o si sientes que no puedes controlarlos. En ese caso, la conversación con un profesional puede ser valiosa. La mayoría de las personas que exploran el BDSM lo hacen desde un lugar de curiosidad y deseo, no de compulsión."
 +++
-
 ## Curso BDSM 101: Guía completa para empezar en el BDSM de forma segura
 
 ¿Sientes curiosidad por el BDSM pero no sabes por dónde empezar? Yo tampoco sabía. Las preguntas que me hacía eran las mismas que probablemente traes tú: ¿es esto normal? ¿Es seguro? ¿Cómo sé si es para mí? Tuve que buscar mucho, contrastar fuentes y perder tiempo en información que no me servía de nada.

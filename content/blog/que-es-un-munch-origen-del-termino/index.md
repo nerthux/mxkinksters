@@ -6,10 +6,10 @@ slug = "que-es-un-munch-origen-del-termino"
 description = "Te comparto lo que he investigado sobre qué es realmente un munch, de dónde viene el término y por qué creo que necesitamos organizar el primero en Tijuana."
 keywords = ["qué es un munch", "origen del término munch", "munch BDSM", "munch en Tijuana"]
 tags = ["conceptos básicos", "comunidad", "munch BDSM"]
-series = ["Guía para Munches en Tijuana"]
 draft = false
+hub = "guia-munches-tijuana"
+series = ["Guía para Munches en Tijuana"]
 +++
-
 ## ¿Qué es realmente un Munch? El eslabón perdido de la comunidad Kink
 
 Cuando empecé a explorar mis propios deseos y fantasías, me topé con un muro muy grande: ¿dónde conozco a otras personas que compartan estos intereses? Quería salir de la pantalla y platicar con alguien real, pero todo lo que encontraba en Tijuana parecía estar envuelto en capas de misterio innecesario, estigma o directamente enfocado en dinámicas que no buscaban construir comunidad.

@@ -1,0 +1,163 @@
+{{- /*
+  schema.html — JSON-LD estructurado (override del partial de Blowfish).
+
+  Mejora sobre el built-in del theme:
+    • Home      → [WebSite, Organization|LocalBusiness]
+        - La marca se emite como Organization con `areaServed` (señal geo).
+          Sube a un subtipo LocalBusiness (Store, ProfessionalService, …) y
+          añade address/geo/telephone SOLO si `params.localBusiness` los trae;
+          nunca se inventa NAP (Google penaliza direcciones falsas).
+        - WebSite referencia la org por @id (#org).
+    • Artículo  → [BlogPosting, BreadcrumbList, FAQPage?]
+        - BlogPosting con `image`, `publisher` Organization (+logo si existe)
+          y `mainEntityOfPage` correctamente tipado como objeto WebPage.
+        - BreadcrumbList SIEMPRE (Blowfish lo gateaba tras un flag opt-in),
+          construido Home → Sección → Página desde .Ancestors.
+        - FAQPage cuando la página declara `faq` en el front matter
+          (array de {q, a}). Lo emite generate_post.py / backfill_faq_schema.py.
+    • Listas    → BreadcrumbList (sin forzar Article como hacía el theme).
+
+  Convención de escape: comillas literales + `safeJS` para escalares (mismo
+  idioma que el schema.html del theme; jsonify dobla-codifica en esta versión
+  de Hugo). Los arrays se arman a mano con el mismo escape.
+*/ -}}
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+{{- $lang := site.Language.LanguageCode | default site.LanguageCode -}}
+{{- $orgID := printf "%s#org" site.Home.Permalink -}}
+{{- if .IsHome -}}
+  {{- /* Logo del publisher, si está configurado. */ -}}
+  {{- $logo := "" -}}
+  {{- with site.Params.logo }}{{ with (resources.Get .) }}{{ $logo = .Permalink }}{{ end }}{{ end -}}
+  {{- /* Negocio local / geo (params.localBusiness). Tipo Organization por
+         defecto; sube a un subtipo LocalBusiness solo si está configurado. */ -}}
+  {{- $lb := site.Params.localBusiness -}}
+  {{- $hasLB := and $lb (or (not (isset $lb "enable")) $lb.enable) -}}
+  {{- $orgType := "Organization" -}}
+  {{- if $hasLB }}{{ $orgType = $lb.type | default "Organization" }}{{ end -}}
+  <script type="application/ld+json">
+  [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "{{ site.Home.Permalink | safeJS }}#website",
+    "name": "{{ site.Title | safeJS }}",
+    {{ with site.Params.description }}"description": "{{ . | safeJS }}",{{ end }}
+    {{ with $lang }}"inLanguage": "{{ . | safeJS }}",{{ end }}
+    "publisher": { "@id": "{{ $orgID | safeJS }}" },
+    "url": "{{ site.Home.Permalink | safeJS }}"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "{{ $orgType | safeJS }}",
+    "@id": "{{ $orgID | safeJS }}",
+    "name": "{{ site.Title | safeJS }}",
+    {{ with site.Params.description }}"description": "{{ . | safeJS }}",{{ end }}
+    {{ with $logo }}"logo": { "@type": "ImageObject", "url": "{{ . | safeJS }}" },
+    "image": "{{ . | safeJS }}",{{ end }}
+    {{ with site.Params.Author.name }}"founder": { "@type": "Person", "name": "{{ . | safeJS }}" },{{ end }}
+    {{- if $hasLB }}
+    {{ with $lb.areaServed }}"areaServed": "{{ . | safeJS }}",{{ end }}
+    {{- $hasAddr := or $lb.addressLocality $lb.streetAddress -}}
+    {{ if $hasAddr }}"address": {
+      "@type": "PostalAddress"
+      {{- with $lb.streetAddress }}, "streetAddress": "{{ . | safeJS }}"{{ end }}
+      {{- with $lb.addressLocality }}, "addressLocality": "{{ . | safeJS }}"{{ end }}
+      {{- with $lb.addressRegion }}, "addressRegion": "{{ . | safeJS }}"{{ end }}
+      {{- with $lb.postalCode }}, "postalCode": "{{ . | safeJS }}"{{ end }}
+      {{- with $lb.addressCountry }}, "addressCountry": "{{ . | safeJS }}"{{ end }}
+    },{{ end }}
+    {{ if and $lb.latitude $lb.longitude }}"geo": { "@type": "GeoCoordinates", "latitude": {{ $lb.latitude }}, "longitude": {{ $lb.longitude }} },{{ end }}
+    {{ with $lb.telephone }}"telephone": "{{ . | safeJS }}",{{ end }}
+    {{ with $lb.priceRange }}"priceRange": "{{ . | safeJS }}",{{ end }}
+    {{ with $lb.sameAs }}"sameAs": [{{ range $i, $u := . }}{{ if $i }}, {{ end }}"{{ $u | safeJS }}"{{ end }}],{{ end }}
+    {{- end }}
+    "url": "{{ site.Home.Permalink | safeJS }}"
+  }
+  ]
+  </script>
+{{- else if .IsPage -}}
+  {{- /* Imagen destacada del page bundle (featured.*), o el social default. */ -}}
+  {{- $img := "" -}}
+  {{- with .Resources.GetMatch "*featured*" }}{{ $img = .Permalink }}{{ end -}}
+  {{- if not $img }}{{ with site.Params.defaultSocialImage }}{{ $img = . | absURL }}{{ end }}{{ end -}}
+  {{- /* Logo del publisher (recomendado por Google para Article). */ -}}
+  {{- $logo := "" -}}
+  {{- with site.Params.logo }}{{ with (resources.Get .) }}{{ $logo = .Permalink }}{{ end }}{{ end -}}
+  {{- $section := (site.GetPage .Section) -}}
+  {{- $keywords := .Keywords | default .Params.tags -}}
+  <script type="application/ld+json">
+  [
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ .Title | safeJS }}",
+    {{ with .Description }}"description": "{{ . | safeJS }}",{{ end }}
+    {{ with $img }}"image": ["{{ . | safeJS }}"],{{ end }}
+    "url": "{{ .Permalink | safeJS }}",
+    "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ .Permalink | safeJS }}" },
+    {{ with $lang }}"inLanguage": "{{ . | safeJS }}",{{ end }}
+    {{ with $section }}"articleSection": "{{ .Title | safeJS }}",{{ end }}
+    "author": { "@type": "Person", "name": "{{ site.Params.Author.name | default site.Title | safeJS }}" },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.Title | safeJS }}"
+      {{- with $logo }}, "logo": { "@type": "ImageObject", "url": "{{ . | safeJS }}" }{{ end }}
+    },
+    {{ with .Date }}"datePublished": "{{ .Format $iso8601 }}",{{ end }}
+    {{ with .Lastmod }}"dateModified": "{{ .Format $iso8601 }}",{{ end }}
+    {{ with $keywords }}"keywords": [{{ range $i, $k := . }}{{ if $i }}, {{ end }}"{{ $k | safeJS }}"{{ end }}],{{ end }}
+    "wordCount": {{ .WordCount }}
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "{{ site.Title | safeJS }}", "item": "{{ site.Home.Permalink | safeJS }}" }
+      {{- $pos := 1 -}}
+      {{- range .Ancestors.Reverse -}}
+        {{- if not .IsHome -}}
+          {{- $pos = add $pos 1 -}}
+          ,{ "@type": "ListItem", "position": {{ $pos }}, "name": "{{ .Title | safeJS }}", "item": "{{ .Permalink | safeJS }}" }
+        {{- end -}}
+      {{- end -}}
+      {{- $pos = add $pos 1 -}}
+      ,{ "@type": "ListItem", "position": {{ $pos }}, "name": "{{ .Title | safeJS }}", "item": "{{ .Permalink | safeJS }}" }
+    ]
+  }
+  {{- with .Params.faq }},
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{- range $i, $f := . -}}
+        {{- if $i }},{{ end }}
+        { "@type": "Question", "name": "{{ $f.q | safeJS }}", "acceptedAnswer": { "@type": "Answer", "text": "{{ $f.a | safeJS }}" } }
+      {{- end }}
+    ]
+  }
+  {{- end }}
+  ]
+  </script>
+{{- else -}}
+  {{- /* Páginas de lista (sección/taxonomía): solo breadcrumb. */ -}}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "{{ site.Title | safeJS }}", "item": "{{ site.Home.Permalink | safeJS }}" }
+      {{- $pos := 1 -}}
+      {{- range .Ancestors.Reverse -}}
+        {{- if not .IsHome -}}
+          {{- $pos = add $pos 1 -}}
+          ,{ "@type": "ListItem", "position": {{ $pos }}, "name": "{{ .Title | safeJS }}", "item": "{{ .Permalink | safeJS }}" }
+        {{- end -}}
+      {{- end -}}
+      {{- if not .IsHome -}}
+        {{- $pos = add $pos 1 -}}
+        ,{ "@type": "ListItem", "position": {{ $pos }}, "name": "{{ .Title | safeJS }}", "item": "{{ .Permalink | safeJS }}" }
+      {{- end -}}
+    ]
+  }
+  </script>
+{{- end -}}

@@ -4,10 +4,10 @@ meta_title = "Seguridad en Eventos Swinger y Kink en Tijuana | MxKinksters"
 date = 2026-05-19
 slug = "seguridad-en-eventos-swinger-y-kink-en-tijuana"
 description = "Saber si un evento swinger o kink en Tijuana es seguro y legítimo es una pregunta válida. Aquí encontrarás criterios concretos para verificarlo antes"
-series = ["Kink y Swinger en Tijuana"]
 draft = false
+hub = "kink-y-swinger-en-tijuana"
+series = ["Kink y Swinger en Tijuana"]
 +++
-
 # ¿Cómo saber si un evento swinger o kink en Tijuana es realmente seguro?
 
 Tenía un chingo de dudas la primera vez que busqué un evento swinger en Tijuana — preguntas concretas: ¿cómo sé si este lugar es legítimo? ¿Quién responde si algo sale mal? ¿Hay reglas o es un free-for-all?

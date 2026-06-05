@@ -4,10 +4,10 @@ meta_title = "Tu primer munch en BDSM: guía de etiqueta | MxKinksters"
 date = 2026-05-22
 slug = "que-esperar-en-tu-primer-munch-guia-de-etiqueta"
 description = "Te comparto mis apuntes sobre qué esperar y cómo me preparo para no meter la pata en mi primer evento social kink."
-series = ["Guía de Munches en Tijuana"]
 draft = false
+hub = "guia-munches-tijuana"
+series = ["Guía para Munches en Tijuana"]
 +++
-
 ## ¿Qué esperar en tu primer munch? Mi guía personal de etiqueta
 
 Dar el primer paso siempre asusta. Lo digo por experiencia propia. Si alguna vez buscaste "cómo empezar en BDSM" en Google y terminaste más confundido o asustado que antes, ya sé cómo te sientes.

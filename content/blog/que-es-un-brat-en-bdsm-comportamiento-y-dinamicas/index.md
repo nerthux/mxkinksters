@@ -6,10 +6,10 @@ slug = "que-es-un-brat-en-bdsm-comportamiento-y-dinamicas"
 description = "El brat es un rol sumiso que desafía de forma negociada dentro del BDSM. Conoce cómo funciona esta dinámica, sus reglas y su diferencia con la falta"
 keywords = ["qué es un brat en BDSM", "brat tamer", "dinámica brat"]
 tags = ["qué es un brat en BDSM", "brat tamer", "dinámica brat"]
-series = ["Glosario Kink y BDSM"]
 draft = false
+hub = "glosario-kink-bdsm"
+series = ["Glosario Kink y BDSM"]
 +++
-
 ## ¿Qué es un Brat en BDSM? Comportamiento, Dinámica y Límites Reales
 
 Hay un rol en el BDSM que genera más confusión que cualquier otro que yo haya intentado explicar: el **brat**.

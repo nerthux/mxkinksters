@@ -6,10 +6,10 @@ slug = "como-practicar-exhibicionismo-de-forma-segura-y-discreta"
 description = "El exhibicionismo kink es legítimo cuando hay consentimiento explícito. Aprende las condiciones clave para practicarlo de forma segura y discreta"
 keywords = ["exhibicionismo seguro y discreto", "exhibicionismo ético", "prácticas de exhibicionismo"]
 tags = ["exhibicionismo seguro y discreto", "exhibicionismo ético", "prácticas de exhibicionismo"]
-series = ["Voyeurismo y Exhibicionismo"]
 draft = false
+hub = "voyeurismo-exhibicionismo"
+series = ["Voyeurismo y Exhibicionismo"]
 +++
-
 ## Cómo Practicar Exhibicionismo de Forma Segura y Discreta
 
 Poca gente lo dice en voz alta, pero el exhibicionismo —la excitación de ser visto— es uno de los intereses más comunes dentro del kink. Y también uno de los que más gente explora sin estructura ni nombre porque la información disponible es un desastre: mezcla práctica ética con comportamientos que son directamente acoso, y eso genera una confusión que paraliza.

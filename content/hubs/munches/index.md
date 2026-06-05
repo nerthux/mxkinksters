@@ -4,10 +4,11 @@ meta_title = "Guía completa de los Munches en Tijuana | MxKinksters"
 date = 2026-05-15
 slug = "guia-completa-munches-tijuana"
 description = "Este es mi índice personal (Página Pilar) donde agrupo todas mis investigaciones, guías de etiqueta y hallazgos sobre los eventos sociales kink en la ciudad."
-series = ["Guía de Munches en Tijuana"]
 draft = false
+hub = "guia-munches-tijuana"
+series = ["Guía para Munches en Tijuana"]
+pillar = true
 +++
-
 ## Central de Exploración: Todo sobre los Munches en Tijuana
 
 Cuando empecé a mapear el territorio de la comunidad kink local, me di cuenta de que la información estaba regada por todas partes (o simplemente no existía). Por eso creé esta **Página Pilar**: piensa en ella como el índice principal de mi bitácora. 

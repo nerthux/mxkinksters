@@ -83,7 +83,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showAuthor = true
   showAuthorBottom = true
   showHero = true
-  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -198,3 +198,23 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [advertisement]
   # adsense = ""
+
+# -- Negocio local / señales geográficas (JSON-LD) --
+# schema.html emite la marca como Organization con `areaServed`. Para
+# habilitar rich results de LocalBusiness, cambia `type` a un subtipo
+# (LocalBusiness, Store, ProfessionalService, HealthAndBeautyBusiness, …)
+# y rellena address/geo/telephone con datos REALES (no inventes NAP).
+[localBusiness]
+  enable = true
+  type = "Organization"
+  areaServed = "Tijuana, Baja California"
+  addressLocality = "Tijuana"
+  addressRegion = "Baja California"
+  addressCountry = "MX"
+  # streetAddress = "Av. Revolución 1234"
+  # postalCode = "22000"
+  # telephone = "+52-664-000-0000"
+  # priceRange = "$$"
+  # latitude = 32.5149
+  # longitude = -117.0382
+  # sameAs = ["https://instagram.com/tu_marca", "https://facebook.com/tu_marca"]
