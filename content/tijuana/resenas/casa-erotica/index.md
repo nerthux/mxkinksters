@@ -24,7 +24,7 @@ Esta reseña describe lo que vivimos, tal como fue. Mi experiencia es solo una v
 > - **¿Vale la pena?** → El espacio sí, la noche no siempre. Depende mucho de quién asista y la dinámica del grupo esa noche.
 > - **¿Es seguro?** → Sí. El host está pendiente, el acceso es por reservación y el ambiente dentro es respetuoso.
 > - **Costo:** $600 MXN parejas / $800 MXN singles / mujeres solas entran gratis.
-> - **Horario:** Viernes (noches exclusivas parejas) y sábados (singles permitidos). Uno o dos eventos por semana.
+> - **Horario:** Viernes (noches exclusivas parejas) y sábados (singles permitidos). Puertas abren a las 10:00 p.m. . Dinámicas empiezan a las 11:00 p.m | Gang Bang 12:00 a.m.  Hasta el amanecer
 > - **Restricción clave:** Solo por reservación previa con depósito del 50%. Máximo 10 parejas por evento.
 > - **¿Hay interacción social?** → Variable. La noche que fuimos, hubo grupos que estaban muy cerrados entre sí.
 > - **Lo mejor:** El Red Room es genuinamente impresionante: jaula, columpio, cruz de San Andrés, sillón tántrico y pared completa de artilugios. Barra libre incluida.
@@ -176,7 +176,7 @@ Y aquí quiero ser honesto con algo más personal: llegamos preparados. Planific
 
 Los propios organizadores, al final de la noche, nos dijeron que había sido **la noche más tranquila que han tenido**, y que no es el ambiente habitual del lugar. Nos invitaron a regresar para vivir la experiencia real de Casa Erótica. Puede que lo hagamos.
 
-Si vas, llega puntual para los juegos de bienvenida. Es una buena dinámica de integración y podría hacer que tu experiencia sea un poco mejor, aunque siendo honestos, no creo que hubiera cambiado mucho nuestra percepción de esta noche..
+Si vas, llega puntual, antes de las 11:00 p.m. para los juegos de bienvenida. Es una buena dinámica de integración y podría hacer que tu experiencia sea un poco mejor, aunque siendo honestos, no creo que hubiera cambiado mucho nuestra percepción de esta noche..
 
 ---
 
