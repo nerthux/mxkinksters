@@ -70,7 +70,7 @@ Adentro, me traían bebidas sin decirme los precios. Negocié con la chica por $
 
 No traía suficiente efectivo. Dos guardias de seguridad y el mesero me escoltaron — obligado — hasta un cajero automático para sacar dinero de mis tarjetas. Y cuando terminó todo, el mesero, riéndose, me dijo: *"¿Ah, y no me va a dar propina?"*
 
-Así que cuando digo que los table dances son demasiado caros para lo que ofrecen, no es una opinión: es experiencia de haberla cagado bien duro. La prisa de las chicas, los cobros opacos, la propina del cadenero, el mesero, el cuarto — todo se suma. En el mejor escenario te va a costar el triple de lo que calculabas. En el peor, terminas en un cajero escoltado por dos tipos a las 2 de la mañana.
+Si no has vivido algo así, hazme caso y no lo pongas a prueba.
 
 ---
 
@@ -103,7 +103,7 @@ Aquí encuentras variedad y diversidad: contenido, masajes, servicios sexuales, 
 
 Lo más común es que el servicio sea en motel. Tú te pones de acuerdo con la chica, te hospedas, mandas foto de la habitación y del número de cuarto, y la chica va contigo. Muchas veces la chica ya tiene moteles de preferencia y te los comparte al quedar — es normal y simplifica la logística.
 
-Hay otras que tienen lugar propio —en ese caso te hacen llegar la ubicación—, aunque por seguridad yo siempre prefiero el motel: a veces los lugares propios son, eufemísticamente, bien tristes xD. Muy pocas ofrecen atenderte en tu domicilio, pero las hay.
+Hay otras que tienen lugar propio —en ese caso te hacen llegar la ubicación—, aunque por seguridad yo siempre prefiero el motel: a veces los lugares propios están bien tristes xD. Muy pocas ofrecen atenderte en tu domicilio, pero las hay.
 
 Los precios dependen de lo que estés buscando, pero van desde los **$600 hasta los $5,000 MXN**, según la chica, lo que quieras y tus habilidades para negociar. La mayoría de los servicios son por hora: 30 minutos, 1 hora, 2 horas, 4 horas.
 
@@ -174,6 +174,18 @@ Si tienes un fetiche específico en mente, búscalo directamente en el buscador 
 
 ---
 
+## ¿Hay opciones para mujeres?
+
+Esta pregunta se hace más seguido de lo que parece.
+
+Lo primero: en los table dances y en la Zona Norte está prácticamente ausente la oferta de hombres que ofrezcan servicios a mujeres. Incluso en los strip clubs mixtos, muchos de los bailarines masculinos son gays — es una realidad del mercado, no un juicio.
+
+Lo que sí existe: en los sitios de clasificados hay sección específica de **gigolos** y escorts masculinos. No es tan abundante como la oferta femenina, pero hay opciones. Mileroticos y Sokka tienen filtros por género del prestador.
+
+Y seamos honestos sobre algo: si una mujer publica un post en Locanto buscando compañía, la respuesta va a llegar rápido y en cantidad (calidad no sabemos 😄). El dinamismo del mercado en esa dirección es completamente asimétrico.
+
+---
+
 ## Salud Sexual: Lo que Nadie te Dice
 
 Si vas a usar cualquiera de los servicios descritos en este post, hay información que necesitas tener antes.
@@ -208,18 +220,6 @@ En este espacio que es **sex positive**, apoyamos la autonomía y el derecho de 
 Entendemos que existen factores sociales que pueden llevar a una mujer a vender servicios sexuales, de la misma forma en que se decide trabajar en fábricas, minas o el campo. La elección merece respeto en todos los casos.
 
 > **📝 Mentalidad Sex Positive:** Antes de juzgar, pregúntate quién eres tú para decidir qué le funciona o le conviene a otra persona. Este es un espacio donde el consentimiento y la autonomía son lo primero.
-
----
-
-## ¿Hay opciones para mujeres?
-
-Esta pregunta se hace más seguido de lo que parece.
-
-Lo primero: en los table dances y en la Zona Norte está prácticamente ausente la oferta de hombres que ofrezcan servicios a mujeres. Incluso en los strip clubs mixtos, muchos de los bailarines masculinos son gays — es una realidad del mercado, no un juicio.
-
-Lo que sí existe: en los sitios de clasificados hay sección específica de **gigolos** y escorts masculinos. No es tan abundante como la oferta femenina, pero hay opciones. Mileroticos y Sokka tienen filtros por género del prestador.
-
-Y seamos honestos sobre algo: si una mujer publica un post en Locanto buscando compañía, la respuesta va a llegar rápido y en cantidad (Calidad no sabemos xD ). El dinamismo del mercado en esa dirección es completamente asimétrico.
 
 ---
 
