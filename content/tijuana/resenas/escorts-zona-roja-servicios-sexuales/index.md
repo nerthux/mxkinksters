@@ -7,7 +7,7 @@ showSummary: true
 showHero: true
 heroStyle: "background"
 date: 2026-06-10
-slug: "trabajo-sexual"
+slug: "escorts-zona-roja-servicios-sexuales"
 ---
 
 ## Trabajo Sexual en Tijuana: Escorts, Zonas y Precios Reales
