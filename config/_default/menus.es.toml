@@ -33,6 +33,11 @@
   weight = 11
 
 [[main]]
+  name = "Relatos"
+  pageRef = "relatos"
+  weight = 12
+
+[[main]]
   name = "Eventos"
   pageRef = "eventos"
   weight = 15

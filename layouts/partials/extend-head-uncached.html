@@ -1,0 +1,15 @@
+{{/* Rating meta tag — emite <meta name="rating"> cuando la página o su
+     sección lo declara en front matter.  Valores comunes: "adult", "mature",
+     "general".  Google, Bing y otros crawlers lo usan para filtrar
+     contenido en SafeSearch.
+
+     Prioridad: página > sección (cascade) > nada.
+     Uso en front matter:
+       rating: adult
+     O en cascade de _index.md de sección:
+       cascade:
+         rating: adult
+*/}}
+{{ with .Params.rating }}
+  <meta name="rating" content="{{ . }}">
+{{ end }}
