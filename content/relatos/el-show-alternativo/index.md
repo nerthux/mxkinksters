@@ -17,7 +17,7 @@ El sábado, por casualidades de la vida, terminamos en el Club Medusa. Esta vez,
 
 Llegamos al lugar y la vibra era la misma que la última vez: un antro medio soso, medio aburrido, con parejas dispersas y cada quien en su propio rollo.
 
-Estábamos sentados en una mesa, en el rincón más oscuro. Hedónica llevaba un bodysuit negro ajustado, y sobre él, el arnés de cuerda roja que le había atado yo mismo esa tarde: un shibari de pecho en forma de pentagrama que me había tomado media hora hacer. Debajo del choker de cadena que le hice el mes pasado, la cadena sobre su piel se ve espectacular.
+Estábamos sentados en una mesa, en el rincón más oscuro. Hedónica llevaba un bodysuit negro ajustado, y sobre él, el arnés de cuerda roja que le había atado yo mismo esa tarde: un shibari de pecho en forma de pentagrama que me había tomado media hora hacer. Llevaba puesto un choker de cadena que le hice el mes pasado, la cadena sobre su piel se ve espectacular.
 
 Se nos acercó una mujer.
 
@@ -25,7 +25,7 @@ Se nos acercó una mujer.
 
 Mientras lo pensábamos, y sin pedir permiso, tomó la cadena del cuello de Hedónica y le pidió que se la regalara. Mi cadena. Mi mujer. Mis reglas.
 
-Eso fue suficiente. Nadie jala la cadena de Hedónica sin mi permiso. La mujer se fue molesta, y minutos después empezó su show en el escenario. Lo admito, tenía unas tetas increíbles, pero ¡carajo!, estamos en un espacio kink y ese espectáculo podemos verlo en cualquier table dance de la ciudad.
+Eso fue suficiente. Nadie jala la cadena de Hedónica sin mi permiso. Nos negamos a darle lo que pedíá, la mujer se fue molesta, y minutos después empezó su show en el escenario. Lo admito, tenía unas tetas increíbles, pero ¡carajo!, estamos en un espacio kink y ese espectáculo podemos verlo en cualquier table dance de la ciudad.
 
 Decidimos dar nuestro propio show.
 
@@ -71,7 +71,7 @@ Hedónica, con manos en sus nalgas, mientras le comían las tetas y la masturbab
 
 En ese punto ya éramos cinco personas en una diminuta cabina, la puerta abierta y una decena de personas mirando desde el pasillo. Corrí a todos los hombres. Ya bastaba. Había sido compartido un rato, pero volvía a ser mía.
 
-La tomé con fuerza del arnés de cuerda roja —la cuerda tensa entre mis dedos, el nudo firme sobre su pecho— y la embestí. La cuerda del choker se tensó contra su garganta, y yo tiré un poco más, solo lo justo para saber que estaba ahí, solo mía, para sentirla apretarse alrededor de mí mientras se ahogaba de placer.
+La tomé con fuerza del arnés de cuerda roja —la cuerda tensa entre mis dedos, el nudo firme sobre su pecho— y la embestí. La cadena del choker se tensó contra su garganta, y yo tiré un poco más, solo lo justo para saber que estaba ahí, solo mía, para sentirla apretarse alrededor de mí mientras se ahogaba de placer.
 
 De frente: mi mujer empinada, comiéndose a otra mujer; Alma Libre con su mirada perdida, sus pechos exhibidos saliendo de su diminuto vestido, el labio hinchado de morderse; y las manos de las paredes que no perdían oportunidad de tocar. Pero ninguna la tocaba a ella como yo.
 
