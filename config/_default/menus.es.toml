@@ -27,18 +27,13 @@
   weight = 10
 
 [[main]]
-  name = "Hubs"
-  parent = "Blog"
-  pageRef = "hubs"
-  weight = 11
-
-[[main]]
   name = "Relatos"
-  pageRef = "relatos"
+  url = "/relatos/"
   weight = 12
 
 [[main]]
   name = "Eventos"
+  parent = "Comunidad"
   pageRef = "eventos"
   weight = 15
 
