@@ -13,31 +13,31 @@ draft = false
 **Nota de consentimiento:** Lo que vas a leer es una historia basada en hechos reales entre adultos que dieron su consentimiento —aunque la narración no siempre lo mencione explícitamente. Algunos detalles han sido modificados con fines literarios.
 {{< /alert >}}
 
-El sábado, por casualidades de la vida, terminamos en el Club Medusa. Esta vez, a Hedonica y a mí nos acompañaba nuestra amiga Alma Libre.
+El sábado, por casualidades de la vida, terminamos en el Club Medusa. Esta vez, a Hedónica y a mí nos acompañaba nuestra amiga Alma Libre.
 
 Llegamos al lugar y la vibra era la misma que la última vez: un antro medio soso, medio aburrido, con parejas dispersas y cada quien en su propio rollo.
 
-Estábamos sentados en una mesa, en el rincón más oscuro. Hedonica llevaba un bodysuit negro ajustado, y sobre él, el arnés de cuerda roja que le había atado yo mismo esa tarde: un shibari de pecho en forma de pentagrama que me había tomado media hora hacer. Debajo del choker de cadena que le hice el mes pasado, la cadena sobre su piel se ve espectacular.
+Estábamos sentados en una mesa, en el rincón más oscuro. Hedónica llevaba un bodysuit negro ajustado, y sobre él, el arnés de cuerda roja que le había atado yo mismo esa tarde: un shibari de pecho en forma de pentagrama que me había tomado media hora hacer. Debajo del choker de cadena que le hice el mes pasado, la cadena sobre su piel se ve espectacular.
 
 Se nos acercó una mujer.
 
 —Les tengo una propuesta para hacer su noche más divertida —dijo—. ¿Me quieren cooperar $200 pesos para hacer un show en el escenario?
 
-Mientras lo pensábamos, y sin pedir permiso, tomó la cadena del cuello de Hedonica y le pidió que se la regalara. Mi cadena. Mi mujer. Mis reglas.
+Mientras lo pensábamos, y sin pedir permiso, tomó la cadena del cuello de Hedónica y le pidió que se la regalara. Mi cadena. Mi mujer. Mis reglas.
 
-Eso fue suficiente. Nadie jala la cadena de Hedonica sin mi permiso. La mujer se fue molesta, y minutos después empezó su show en el escenario. Lo admito, tenía unas tetas increíbles, pero ¡carajo!, estamos en un espacio kink y ese espectáculo podemos verlo en cualquier table dance de la ciudad.
+Eso fue suficiente. Nadie jala la cadena de Hedónica sin mi permiso. La mujer se fue molesta, y minutos después empezó su show en el escenario. Lo admito, tenía unas tetas increíbles, pero ¡carajo!, estamos en un espacio kink y ese espectáculo podemos verlo en cualquier table dance de la ciudad.
 
 Decidimos dar nuestro propio show.
 
 ---
 
-—¿Quieres que te vean? —le pregunté a Hedonica al oído, sintiendo cómo se le erizaba la piel.
+—¿Quieres que te vean? —le pregunté a Hedónica al oído, sintiendo cómo se le erizaba la piel.
 
 Ella asintió, los ojos brillándome. Esa mirada. Esa complicidad que siempre me enciende.
 
-Hedonica y yo fuimos a las cabinas dentro del club. Alma Libre quería ver y nosotros alimentarnos de su mirada.
+Hedónica y yo fuimos a las cabinas dentro del club. Alma Libre quería ver y nosotros alimentarnos de su mirada.
 
-Llegamos a la cabina. Entramos Hedonica y yo. Comencé a besarla, a manosearla, bajé su blusa para descubrir sus tetas. La piel caliente bajo mis dedos. Empezaba a excitar la carne cuando vi cómo la gente se asomaba por la puerta que dejamos abierta de par en par.
+Llegamos a la cabina. Entramos Hedónica y yo. Comencé a besarla, a manosearla, bajé su blusa para descubrir sus tetas. La piel caliente bajo mis dedos. Empezaba a excitar la carne cuando vi cómo la gente se asomaba por la puerta que dejamos abierta de par en par.
 
 En la pared, como era de esperarse, había glory holes: penes se asomaban suplicando atención. Pero lo que no me esperaba eran manos anónimas manoseando a mi mujer. Por un momento sentí el impulso de arrancarlas de cuajo. Pero luego vi su cara: los ojos cerrados, la boca entreabierta, el cuello arqueado. **Lo estaba disfrutando.** Y yo disfrutaba verla disfrutar.
 
@@ -45,9 +45,9 @@ Me gustaba complacerla. Y sentía una pena profunda por todos los que solo podí
 
 ---
 
-Yo estaba muy duro. Ya tenía un público que encender. Me senté en el banquillo —la madera fría contra la piel caliente—, jalé a Hedonica de la correa hasta dejarla de rodillas frente a mí. Su boca estaba muy desocupada y yo tenía mucho con qué llenársela, como a mí me gusta: hasta la garganta. Me encanta escuchar cómo se ahoga. Pero ella es buena, ella sabe, solo traga y sigue. Puso una mano en mi muslo mientras lo hacía. Afirmándose. Diciéndome que estaba bien, que era suyo todo lo que pasara.
+Yo estaba muy duro. Ya tenía un público que encender. Me senté en el banquillo —la madera fría contra la piel caliente—, jalé a Hedónica de la correa hasta dejarla de rodillas frente a mí. Su boca estaba muy desocupada y yo tenía mucho con qué llenársela, como a mí me gusta: hasta la garganta. Me encanta escuchar cómo se ahoga. Pero ella es buena, ella sabe, solo traga y sigue. Puso una mano en mi muslo mientras lo hacía. Afirmándose. Diciéndome que estaba bien, que era suyo todo lo que pasara.
 
-Me paré, ayudé a Hedonica a levantarse. La gente miraba, sin saber si ya había terminado. Pero no. La empiné con las manos sobre el banquillo y sus nalgas expuestas. Comencé a acariciarlas y a golpearlas, duro, firme; el sonido hacía eco dentro de la cabina. La cuerda roja del arnés brillaba bajo la luz tenue, el pentagrama marcado sobre su espalda como un sello.
+Me paré, ayudé a Hedónica a levantarse. La gente miraba, sin saber si ya había terminado. Pero no. La empiné con las manos sobre el banquillo y sus nalgas expuestas. Comencé a acariciarlas y a golpearlas, duro, firme; el sonido hacía eco dentro de la cabina. La cuerda roja del arnés brillaba bajo la luz tenue, el pentagrama marcado sobre su espalda como un sello.
 
 Volteé hacia la puerta, y ahí estaba Alma Libre: su rostro ruborizado, sus ojos perdidos, mordiéndose los labios.
 
@@ -57,15 +57,15 @@ Asintió con la cabeza y, sin dudarlo mucho, entró a la cabina.
 
 ---
 
-Alma acarició las nalgas de Hedonica, luego su costado, luego la cuerda roja del arnés, siguiendo sus líneas como quien lee un mapa. Hedonica gemía al sentir varias manos sobre ella. Alma Libre siguió acariciando su cuerpo hasta llegar a sus tetas, se sentó en el banquillo y se las comenzó a chupar. Hedonica hundió los dedos en su cabello, guiándola.
+Alma acarició las nalgas de Hedónica, luego su costado, luego la cuerda roja del arnés, siguiendo sus líneas como quien lee un mapa. Hedónica gemía al sentir varias manos sobre ella. Alma Libre siguió acariciando su cuerpo hasta llegar a sus tetas, se sentó en el banquillo y se las comenzó a chupar. Hedónica hundió los dedos en su cabello, guiándola.
 
 Un hombre que miraba se acercó:
 
 —¿Puedo tocar?
 
-Le susurré a Hedonica al oído: *«Voy a invitar a otros»*. Ella gimió, y lo interpreté como un sí. Así fue como otro hombre se unió. Seguían saliendo penes y manos de la pared.
+Le susurré a Hedónica al oído: *«Voy a invitar a otros»*. Ella gimió, y lo interpreté como un sí. Así fue como otro hombre se unió. Seguían saliendo penes y manos de la pared.
 
-Hedonica, con manos en sus nalgas, mientras le comían las tetas y la masturbaban. Más y más manos se sumaban. Ella comiéndose a Alma Libre, chupando, disfrutando. Pero en medio del caos, buscó mi mirada. Una sola vez. Para confirmar que yo seguía ahí, que yo era el centro de todo aquello. Le guiñé un ojo. Sonrió. Siguió.
+Hedónica, con manos en sus nalgas, mientras le comían las tetas y la masturbaban. Más y más manos se sumaban. Ella comiéndose a Alma Libre, chupando, disfrutando. Pero en medio del caos, buscó mi mirada. Una sola vez. Para confirmar que yo seguía ahí, que yo era el centro de todo aquello. Le guiñé un ojo. Sonrió. Siguió.
 
 ---
 
@@ -75,13 +75,13 @@ La tomé con fuerza del arnés de cuerda roja —la cuerda tensa entre mis dedos
 
 De frente: mi mujer empinada, comiéndose a otra mujer; Alma Libre con su mirada perdida, sus pechos exhibidos saliendo de su diminuto vestido, el labio hinchado de morderse; y las manos de las paredes que no perdían oportunidad de tocar. Pero ninguna la tocaba a ella como yo.
 
-Hedonica se empujó hacia atrás recibiéndome, un gemido largo que solo yo conocía. Su mano buscó la mía por detrás, entrelazó nuestros dedos. *Ahí*. En medio de todo, éramos nosotros.
+Hedónica se empujó hacia atrás recibiéndome, un gemido largo que solo yo conocía. Su mano buscó la mía por detrás, entrelazó nuestros dedos. *Ahí*. En medio de todo, éramos nosotros.
 
 ---
 
 En una fiesta de gemidos y mirones, la dejé escurriendo leche, empinada, con mi semen bajando lentamente entre sus piernas, la cuerda roja marcada sobre su sudor, las marcas del choker decorando su cuello.
 
-Después, tras recuperar el aliento en la penumbra de la cabina, Alma Libre acarició el brazo de Hedonica; yo besé su nuca, justo donde la cadena había dejado una marca fresca. Hedonica se recostó contra mi pecho, agotada, y susurró algo que solo yo escuché.
+Después, tras recuperar el aliento en la penumbra de la cabina, Alma Libre acarició el brazo de Hedónica; yo besé su nuca, justo donde la cadena había dejado una marca fresca. Hedónica se recostó contra mi pecho, agotada, y susurró algo que solo yo escuché.
 
 Nadie dijo nada más. No hacía falta.
 
