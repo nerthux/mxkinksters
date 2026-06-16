@@ -86,7 +86,7 @@ El reglamento es claro y está publicado en sus redes. Lo transcribo tal cual:
 8. **Se reservan el derecho de admisión.**
 
 <div class="flex flex-wrap justify-center gap-4 my-8">
-  <img src="reglas-casa-erotica.jpeg" alt="Reglamento oficial de Casa Erótica Tijuana" class="w-48 sm:w-64 object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
+  <img src="reglas-casa-erotica.webp" alt="Reglamento oficial de Casa Erótica Tijuana" class="w-48 sm:w-64 object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
 </div>
 
 En papel, el reglamento es sólido. El punto 3 —código de vestimenta obligatorio— es exactamente el que nadie cumplió la noche que estuvimos. Más sobre eso adelante.
@@ -138,7 +138,7 @@ Y eso, curiosamente, quedó confirmado con lo que pasó al salir: los organizado
 Ese gesto — preguntar, escuchar la experiencia sin ponerse a la defensiva, e invitarnos a vivir el lugar como debe ser — dice mucho del compromiso que tienen con mantener la esencia de Casa Erótica. No todos los organizadores hacen eso. Actualizaremos esta reseña después de la segunda visita.
 
 <div class="flex flex-wrap justify-center gap-4 my-8">
-  <img src="manifiesto-casa-erotica.jpeg" alt="Manifiesto de Casa Erótica Tijuana: club swinger privado" class="w-48 sm:w-64 object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
+  <img src="manifiesto-casa-erotica.webp" alt="Manifiesto de Casa Erótica Tijuana: club swinger privado" class="w-48 sm:w-64 object-cover rounded-lg shadow-sm border border-neutral-800 transition-transform hover:scale-105 cursor-pointer">
 </div>
 
 ---

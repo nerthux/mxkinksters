@@ -55,7 +55,10 @@ for f in \
   content/tijuana/resenas/club-medusa/medusa-camino.jpeg \
   content/tijuana/resenas/club-medusa/medusa-exterior.jpeg \
   content/tijuana/resenas/club-medusa/medusa-no-singles.jpg \
-  content/tijuana/resenas/club-medusa/medusa-reglas.jpeg ; do
+  content/tijuana/resenas/club-medusa/medusa-reglas.jpeg \
+  content/tijuana/resenas/club-escape/escape-evento.jpeg \
+  content/tijuana/resenas/casa-erotica/manifiesto-casa-erotica.jpeg \
+  content/tijuana/resenas/casa-erotica/reglas-casa-erotica.jpeg ; do
   convert_img "$f" 82 1280
 done
 
