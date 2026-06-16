@@ -1,0 +1,57 @@
+{
+  "email": {
+    "icon": "email",
+    "title": "sharing.email",
+    "url": "mailto:?subject=%[2]s&body=%[3]s%%0A%%0A%[1]s"
+  },
+  "facebook": {
+    "icon": "facebook",
+    "title": "sharing.facebook",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=%[1]s&quote=%[3]s"
+  },
+  "line": {
+    "icon": "line",
+    "title": "sharing.line",
+    "url": "https://line.me/R/share?text=%[3]s%20%[1]s"
+  },
+  "linkedin": {
+    "icon": "linkedin",
+    "title": "sharing.linkedin",
+    "url": "https://www.linkedin.com/shareArticle?mini=true&url=%[1]s&title=%[2]s&summary=%[3]s"
+  },
+  "pinterest": {
+    "icon": "pinterest",
+    "title": "sharing.pinterest",
+    "url": "https://pinterest.com/pin/create/bookmarklet/?url=%[1]s&description=%[3]s"
+  },
+  "reddit": {
+    "icon": "reddit",
+    "title": "sharing.reddit",
+    "url": "https://reddit.com/submit/?url=%[1]s&resubmit=true&title=%[2]s"
+  },
+  "twitter": {
+    "icon": "x-twitter",
+    "title": "sharing.twitter",
+    "url": "https://twitter.com/intent/tweet/?url=%[1]s&text=%[3]s"
+  },
+  "whatsapp": {
+    "icon": "whatsapp",
+    "title": "sharing.whatsapp",
+    "url": "https://api.whatsapp.com/send?text=%[3]s%%0A%%0A%[1]s"
+  },
+  "telegram": {
+    "icon": "telegram",
+    "title": "sharing.telegram",
+    "url": "https://t.me/share/url?url=%[1]s&text=%[3]s"
+  },
+  "bluesky": {
+    "icon": "bluesky",
+    "title": "sharing.bluesky",
+    "url": "https://bsky.app/intent/compose?text=%[3]s+%[1]s"
+  },
+  "mastodon": {
+    "icon": "mastodon",
+    "title": "sharing.mastodon",
+    "url": "https://s2f.kytta.dev/?text=%[3]s %[1]s"
+  }
+}
